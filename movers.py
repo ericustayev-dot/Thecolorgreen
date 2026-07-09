@@ -62,6 +62,8 @@ def scan_universe(tickers: list[str]) -> list[dict]:
         try:
             report = build_stock_report(ticker)
             price = report["price"]
+            bullish = report["bullish_driver"]
+            bearish = report["bearish_driver"]
             scanned.append({
                 "ticker": price["ticker"],
                 "name": price["name"],
@@ -70,6 +72,17 @@ def scan_universe(tickers: list[str]) -> list[dict]:
                 "sentiment_score": report["sentiment"]["average_score"],
                 "sentiment_label": report["sentiment"]["label"],
                 "cap": classify_cap(price["market_cap"]),
+                "analyst_target_mean": price["analyst_target_mean"],
+                "analyst_target_low": price["analyst_target_low"],
+                "analyst_target_high": price["analyst_target_high"],
+                "analyst_count": price["analyst_count"],
+                "analyst_recommendation": price["analyst_recommendation"],
+                "bullish_driver": bullish["title"] if bullish else None,
+                "bullish_driver_source": bullish["source"] if bullish else None,
+                "bearish_driver": bearish["title"] if bearish else None,
+                "bearish_driver_source": bearish["source"] if bearish else None,
+                "positive_headlines": len(report["headline_groups"]["positive"]),
+                "negative_headlines": len(report["headline_groups"]["negative"]),
             })
         except Exception:
             continue

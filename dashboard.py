@@ -12,7 +12,7 @@ from streamlit_searchbox import st_searchbox
 from main import load_watchlist, load_commodities, WATCHLIST_FILE, COMMODITIES_FILE, HISTORY_FILE, COMMODITIES_HISTORY_FILE, WORLD_NEWS_LOG_FILE
 from report import build_stock_report, build_commodity_report, build_world_news_report
 from search import search_tickers
-from movers import DAILY_MOVERS_FILE
+from movers import DAILY_MOVERS_FILE, classify_cap
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LOGO_FILE = os.path.join(BASE_DIR, "logo_transparent.png")
@@ -74,6 +74,14 @@ def cached_search(query: str) -> list:
     return search_tickers(query)
 
 
+CAP_LEVELS = {"mega": 4, "large": 3, "mid": 2, "small": 1}
+
+
+def cap_indicator(cap: str, color: str = "green") -> str:
+    filled = CAP_LEVELS.get(cap, 1)
+    return "".join(f":{color}[$]" if i < filled else ":gray[$]" for i in range(4))
+
+
 def render_stock_card(ticker: str) -> None:
     report = cached_stock_report(ticker)
     price = report["price"]
@@ -81,9 +89,11 @@ def render_stock_card(ticker: str) -> None:
     bullish = report["bullish_driver"]
     bearish = report["bearish_driver"]
     groups = report["headline_groups"]
+    cap = classify_cap(price["market_cap"])
 
     st.subheader(f"{price['name']} ({price['ticker']})")
     st.metric("Price", f"${price['price']}", f"{price['change_pct']:+.2f}%")
+    st.markdown(f"{cap_indicator(cap)} {cap.capitalize()} cap")
 
     if price["analyst_target_mean"]:
         st.write(
@@ -121,23 +131,30 @@ def load_daily_movers() -> dict:
         return json.load(f)
 
 
-CAP_LEVELS = {"mega": 4, "large": 3, "mid": 2, "small": 1}
-
-
-def cap_indicator(cap: str, color: str) -> str:
-    filled = CAP_LEVELS.get(cap, 1)
-    return "".join(f":{color}[$]" if i < filled else ":gray[$]" for i in range(4))
-
-
 def render_mover_row(m: dict, direction: str) -> None:
     color = "green" if direction == "bullish" else "red"
     with st.container(border=True):
         if st.button(f"{m['ticker']} · {m['name']}", key=f"mover_{m['ticker']}"):
             st.session_state.selected_mover = m["ticker"]
-        st.markdown(
-            f"{cap_indicator(m['cap'], color)} :{color}[{m['cap'].capitalize()} cap · ${m['price']} "
-            f"({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}]"
-        )
+
+        st.markdown(f"{cap_indicator(m['cap'], color)} :{color}[{m['cap'].capitalize()} cap]")
+        st.write(f"${m['price']} ({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}")
+
+        if m.get("analyst_target_mean"):
+            st.caption(
+                f"Analyst target: \\${m['analyst_target_mean']:.2f} "
+                f"(\\${m['analyst_target_low']:.2f}-\\${m['analyst_target_high']:.2f}) · "
+                f"{m['analyst_count']} analysts · {m['analyst_recommendation']}"
+            )
+
+        driver_title = m.get(f"{direction}_driver")
+        driver_source = m.get(f"{direction}_driver_source")
+        if driver_title:
+            box = st.success if direction == "bullish" else st.error
+            icon = ":material/trending_up:" if direction == "bullish" else ":material/trending_down:"
+            box(f"{driver_title} ({driver_source})", icon=icon)
+
+        st.caption(f"{m['positive_headlines']} positive · {m['negative_headlines']} negative headlines")
 
 
 def render_mover_detail(ticker: str) -> None:

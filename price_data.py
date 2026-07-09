@@ -3,6 +3,14 @@
 import yfinance as yf
 
 
+def humanize(text) -> str:
+    """Turns raw snake_case API values (e.g. 'strong_buy') into readable
+    text ('Strong Buy') so nothing looks machine-generated in the UI."""
+    if not text:
+        return text
+    return text.replace("_", " ").title()
+
+
 def get_price_summary(ticker: str) -> dict:
     stock = yf.Ticker(ticker)
     history = stock.history(period="5d")
@@ -31,7 +39,7 @@ def get_price_summary(ticker: str) -> dict:
         "analyst_target_low": info.get("targetLowPrice"),
         "analyst_target_high": info.get("targetHighPrice"),
         "analyst_count": info.get("numberOfAnalystOpinions"),
-        "analyst_recommendation": info.get("recommendationKey"),
+        "analyst_recommendation": humanize(info.get("recommendationKey")),
     }
 
 
