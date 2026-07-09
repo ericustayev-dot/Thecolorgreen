@@ -176,7 +176,7 @@ with logo_mid:
     st.image(LOGO_FILE, width="stretch")
 st.markdown(
     "<p style='text-align:center; color:#6B7280; margin-top:-0.8rem;'>"
-    "Live snapshot + logged history. Data refreshes at most every 5 minutes."
+    "The intelligence layer for global markets"
     "</p>",
     unsafe_allow_html=True,
 )
