@@ -121,11 +121,14 @@ def load_daily_movers() -> dict:
         return json.load(f)
 
 
-def render_mover_row(m: dict) -> None:
+def render_mover_row(m: dict, direction: str) -> None:
+    color = "green" if direction == "bullish" else "red"
     with st.container(border=True):
         if st.button(f"{m['ticker']} · {m['name']}", key=f"mover_{m['ticker']}"):
             st.session_state.selected_mover = m["ticker"]
-        st.caption(f"{m['cap'].capitalize()} cap · ${m['price']} ({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}")
+        st.markdown(
+            f":{color}[{m['cap'].capitalize()} cap · ${m['price']} ({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}]"
+        )
 
 
 def render_mover_detail(ticker: str) -> None:
@@ -228,13 +231,13 @@ else:
     limit = None if st.session_state.show_all_movers else 4
     bull_col, bear_col = st.columns(2)
     with bull_col:
-        st.subheader(":material/trending_up: Bullish")
+        st.subheader(":material/trending_up: :green[Bullish]")
         for m in movers_data["bullish"][:limit]:
-            render_mover_row(m)
+            render_mover_row(m, "bullish")
     with bear_col:
-        st.subheader(":material/trending_down: Bearish")
+        st.subheader(":material/trending_down: :red[Bearish]")
         for m in movers_data["bearish"][:limit]:
-            render_mover_row(m)
+            render_mover_row(m, "bearish")
 
     if st.button("Show less" if st.session_state.show_all_movers else "See more"):
         st.session_state.show_all_movers = not st.session_state.show_all_movers
