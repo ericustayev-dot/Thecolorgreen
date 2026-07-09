@@ -87,6 +87,8 @@ with logo_mid:
 
 pg = st.navigation([
     st.Page("home.py", title="Home", icon=":material/home:", default=True),
+    st.Page("pages/Watchlist.py", title="Watchlist", icon=":material/visibility:"),
+    st.Page("pages/World_News.py", title="World News", icon=":material/public:"),
     st.Page("pages/Alerts.py", title="Notifications", icon=":material/notifications:"),
     st.Page("pages/Institutional_Buying.py", title="Institutional Buying", icon=":material/account_balance:"),
 ])
