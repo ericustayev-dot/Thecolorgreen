@@ -14,7 +14,25 @@ from report import build_stock_report, build_commodity_report, build_world_news_
 from search import search_tickers
 from movers import DAILY_MOVERS_FILE
 
-st.set_page_config(page_title="Stock Tracker", layout="wide")
+st.set_page_config(page_title="Stock Tracker", page_icon=":material/finance_mode:", layout="wide")
+
+st.markdown(
+    """
+    <style>
+    .block-container { padding-top: 2rem; max-width: 1200px; }
+    h1 { letter-spacing: -0.5px; }
+    div[data-testid="stMetricValue"] { font-size: 1.6rem; }
+    div[data-testid="stVerticalBlockBorderWrapper"] {
+        border-radius: 10px;
+    }
+    div[data-testid="stButton"] button {
+        border-radius: 6px;
+    }
+    hr { margin: 2.2rem 0 1.4rem 0; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 
 @st.cache_data(ttl=300)
@@ -116,52 +134,9 @@ def remove_from_watchlist(ticker: str) -> None:
         f.write("\n".join(remaining) + ("\n" if remaining else ""))
 
 
-st.title("Stock tracker dashboard")
-st.caption("Live snapshot + logged history. Data refreshes at most every 5 minutes.")
-
-if st.button("Refresh now"):
-    st.cache_data.clear()
-
 def chunked(items: list, size: int):
     for i in range(0, len(items), size):
         yield items[i:i + size]
-
-
-st.header("Today's bullish & bearish stocks")
-movers_data = load_daily_movers()
-if not movers_data:
-    st.info("Daily picks haven't been computed yet - this fills in once the scheduled job runs (see main.py / cron).")
-else:
-    st.caption(
-        f"As of {movers_data['date']} · mixed across mega/large/mid/small cap · a pick stays on the "
-        "list day-to-day while it's still bullish/bearish, only swapped when it flips direction. "
-        "This reflects today's news sentiment, not a forecast."
-    )
-
-    if "show_all_movers" not in st.session_state:
-        st.session_state.show_all_movers = False
-    if "selected_mover" not in st.session_state:
-        st.session_state.selected_mover = None
-
-    limit = None if st.session_state.show_all_movers else 4
-    bull_col, bear_col = st.columns(2)
-    with bull_col:
-        st.subheader("Bullish")
-        for m in movers_data["bullish"][:limit]:
-            render_mover_row(m)
-    with bear_col:
-        st.subheader("Bearish")
-        for m in movers_data["bearish"][:limit]:
-            render_mover_row(m)
-
-    if st.button("Show less" if st.session_state.show_all_movers else "See more"):
-        st.session_state.show_all_movers = not st.session_state.show_all_movers
-        st.rerun()
-
-    if st.session_state.selected_mover:
-        render_mover_detail(st.session_state.selected_mover)
-
-st.header("Search any stock")
 
 
 def suggest_tickers(searchterm: str) -> list:
@@ -170,6 +145,19 @@ def suggest_tickers(searchterm: str) -> list:
     matches = cached_search(searchterm)
     return [(f"{m['symbol']} - {m['name']} ({m['exchange']}, {m['type']})", m["symbol"]) for m in matches]
 
+
+# ---- Hero ----
+title_col, refresh_col = st.columns([5, 1])
+with title_col:
+    st.title(":material/finance_mode: Stock tracker")
+    st.caption("Live snapshot + logged history. Data refreshes at most every 5 minutes.")
+with refresh_col:
+    st.write("")
+    if st.button("Refresh now", icon=":material/refresh:"):
+        st.cache_data.clear()
+
+# ---- Search ----
+st.header(":material/search: Search any stock")
 
 selected = st_searchbox(
     suggest_tickers,
@@ -191,7 +179,47 @@ if selected:
     except Exception as e:
         st.error(f"{selected}: failed to load ({e})")
 
-st.header("Watchlist")
+st.divider()
+
+# ---- Today's bullish & bearish ----
+st.header(":material/insights: Today's bullish & bearish stocks")
+movers_data = load_daily_movers()
+if not movers_data:
+    st.info("Daily picks haven't been computed yet - this fills in once the scheduled job runs (see main.py / cron).")
+else:
+    st.caption(
+        f"As of {movers_data['date']} · mixed across mega/large/mid/small cap · a pick stays on the "
+        "list day-to-day while it's still bullish/bearish, only swapped when it flips direction. "
+        "This reflects today's news sentiment, not a forecast."
+    )
+
+    if "show_all_movers" not in st.session_state:
+        st.session_state.show_all_movers = False
+    if "selected_mover" not in st.session_state:
+        st.session_state.selected_mover = None
+
+    limit = None if st.session_state.show_all_movers else 4
+    bull_col, bear_col = st.columns(2)
+    with bull_col:
+        st.subheader(":material/trending_up: Bullish")
+        for m in movers_data["bullish"][:limit]:
+            render_mover_row(m)
+    with bear_col:
+        st.subheader(":material/trending_down: Bearish")
+        for m in movers_data["bearish"][:limit]:
+            render_mover_row(m)
+
+    if st.button("Show less" if st.session_state.show_all_movers else "See more"):
+        st.session_state.show_all_movers = not st.session_state.show_all_movers
+        st.rerun()
+
+    if st.session_state.selected_mover:
+        render_mover_detail(st.session_state.selected_mover)
+
+st.divider()
+
+# ---- Watchlist ----
+st.header(":material/visibility: Watchlist")
 tickers = load_watchlist(WATCHLIST_FILE)
 progress = st.progress(0.0, text="Loading watchlist...")
 
@@ -210,7 +238,10 @@ for row_num, row in enumerate(chunked(tickers, 4)):
 
 progress.empty()
 
-st.header("Gold & silver")
+st.divider()
+
+# ---- Gold & silver ----
+st.header(":material/paid: Gold & silver")
 commodity_cols = st.columns(len(load_commodities(COMMODITIES_FILE)))
 for col, (ticker, label) in zip(commodity_cols, load_commodities(COMMODITIES_FILE)):
     try:
@@ -221,7 +252,10 @@ for col, (ticker, label) in zip(commodity_cols, load_commodities(COMMODITIES_FIL
         with col:
             st.error(f"{label}: failed to load ({e})")
 
-st.header("World news")
+st.divider()
+
+# ---- World news ----
+st.header(":material/public: World news")
 st.caption("Category notes are general historical patterns for this TYPE of event, not a prediction of what happens this time.")
 try:
     for h in cached_world_news():
@@ -230,7 +264,10 @@ try:
 except Exception as e:
     st.error(f"Failed to load world news: {e}")
 
-st.header("History")
+st.divider()
+
+# ---- History ----
+st.header(":material/history: History")
 history_df = load_csv(HISTORY_FILE)
 if history_df.empty:
     st.info("No logged history yet. History builds up as the tracker runs over time (e.g. via the cron schedule).")
