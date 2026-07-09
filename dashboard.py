@@ -124,9 +124,9 @@ def load_daily_movers() -> dict:
 CAP_LEVELS = {"mega": 4, "large": 3, "mid": 2, "small": 1}
 
 
-def cap_indicator(cap: str) -> str:
+def cap_indicator(cap: str, color: str) -> str:
     filled = CAP_LEVELS.get(cap, 1)
-    return "".join(":green[$]" if i < filled else ":gray[$]" for i in range(4))
+    return "".join(f":{color}[$]" if i < filled else ":gray[$]" for i in range(4))
 
 
 def render_mover_row(m: dict, direction: str) -> None:
@@ -135,7 +135,7 @@ def render_mover_row(m: dict, direction: str) -> None:
         if st.button(f"{m['ticker']} · {m['name']}", key=f"mover_{m['ticker']}"):
             st.session_state.selected_mover = m["ticker"]
         st.markdown(
-            f"{cap_indicator(m['cap'])} :{color}[{m['cap'].capitalize()} cap · ${m['price']} "
+            f"{cap_indicator(m['cap'], color)} :{color}[{m['cap'].capitalize()} cap · ${m['price']} "
             f"({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}]"
         )
 
