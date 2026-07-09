@@ -14,7 +14,10 @@ from report import build_stock_report, build_commodity_report, build_world_news_
 from search import search_tickers
 from movers import DAILY_MOVERS_FILE
 
-st.set_page_config(page_title="Stock Tracker", page_icon=":material/finance_mode:", layout="wide")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+LOGO_FILE = os.path.join(BASE_DIR, "logo_transparent.png")
+
+st.set_page_config(page_title="The Color Green", page_icon=":material/finance_mode:", layout="wide")
 
 st.markdown(
     """
@@ -149,7 +152,7 @@ def suggest_tickers(searchterm: str) -> list:
 # ---- Hero ----
 title_col, refresh_col = st.columns([5, 1])
 with title_col:
-    st.title(":material/finance_mode: Stock tracker")
+    st.image(LOGO_FILE, width=260)
     st.caption("Live snapshot + logged history. Data refreshes at most every 5 minutes.")
 with refresh_col:
     st.write("")
