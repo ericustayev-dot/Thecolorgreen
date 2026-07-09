@@ -12,7 +12,7 @@ from streamlit_searchbox import st_searchbox
 from main import load_watchlist, load_commodities, WATCHLIST_FILE, COMMODITIES_FILE, HISTORY_FILE, COMMODITIES_HISTORY_FILE, WORLD_NEWS_LOG_FILE
 from report import build_stock_report, build_commodity_report, build_world_news_report
 from search import search_tickers
-from movers import DAILY_MOVERS_FILE, classify_cap
+from movers import DAILY_MOVERS_FILE, classify_cap, compute_daily_movers
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LOGO_FILE = os.path.join(BASE_DIR, "logo_transparent.png")
@@ -104,9 +104,9 @@ def render_stock_card(ticker: str) -> None:
 
     st.write(f"Sentiment: **{sentiment['label']}** ({sentiment['average_score']:+.3f})")
     if bullish:
-        st.success(f"Bullish driver: {bullish['title']}", icon=":material/trending_up:")
+        st.success(f"Bullish driver: [{bullish['title']}]({bullish['link']}) ({bullish['source']})", icon=":material/trending_up:")
     if bearish:
-        st.error(f"Bearish driver: {bearish['title']}", icon=":material/trending_down:")
+        st.error(f"Bearish driver: [{bearish['title']}]({bearish['link']}) ({bearish['source']})", icon=":material/trending_down:")
 
     with st.expander(f"Positive headlines ({len(groups['positive'])})"):
         for h in groups["positive"]:
@@ -149,10 +149,11 @@ def render_mover_row(m: dict, direction: str) -> None:
 
         driver_title = m.get(f"{direction}_driver")
         driver_source = m.get(f"{direction}_driver_source")
+        driver_link = m.get(f"{direction}_driver_link")
         if driver_title:
             box = st.success if direction == "bullish" else st.error
             icon = ":material/trending_up:" if direction == "bullish" else ":material/trending_down:"
-            box(f"{driver_title} ({driver_source})", icon=icon)
+            box(f"[{driver_title}]({driver_link}) ({driver_source})", icon=icon)
 
         st.caption(f"{m['positive_headlines']} positive · {m['negative_headlines']} negative headlines")
 
@@ -238,10 +239,19 @@ if selected:
 st.divider()
 
 # ---- Today's bullish & bearish ----
-st.header(":material/insights: Today's bullish & bearish stocks")
+movers_header_col, movers_refresh_col = st.columns([5, 1])
+with movers_header_col:
+    st.header(":material/insights: Today's bullish & bearish stocks")
+with movers_refresh_col:
+    st.write("")
+    if st.button("Recompute now", icon=":material/refresh:", key="recompute_movers"):
+        with st.spinner("Scanning ~100 stocks for today's picks (about a minute)..."):
+            compute_daily_movers(force=True)
+        st.rerun()
+
 movers_data = load_daily_movers()
 if not movers_data:
-    st.info("Daily picks haven't been computed yet - this fills in once the scheduled job runs (see main.py / cron).")
+    st.info("Daily picks haven't been computed yet - click \"Recompute now\" above, or wait for the scheduled job to run.")
 else:
     st.caption(
         f"As of {movers_data['date']} · mixed across mega/large/mid/small cap · a pick stays on the "
