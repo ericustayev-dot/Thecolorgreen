@@ -86,8 +86,28 @@ def load_daily_movers() -> dict:
 
 def render_mover_row(m: dict) -> None:
     with st.container(border=True):
-        st.write(f"**{m['ticker']}** · {m['name']}")
+        if st.button(f"{m['ticker']} · {m['name']}", key=f"mover_{m['ticker']}"):
+            st.session_state.selected_mover = m["ticker"]
         st.caption(f"{m['cap'].capitalize()} cap · ${m['price']} ({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}")
+
+
+def render_mover_detail(ticker: str) -> None:
+    st.subheader(f"Details: {ticker}")
+    try:
+        render_stock_card(ticker)
+        current_watchlist = load_watchlist(WATCHLIST_FILE)
+        if ticker in current_watchlist:
+            st.caption(f"{ticker} is already in your watchlist.")
+        elif st.button(f"Add {ticker} to my watchlist", icon=":material/add:", key=f"add_mover_detail_{ticker}"):
+            with open(WATCHLIST_FILE, "a") as f:
+                f.write(f"{ticker}\n")
+            st.success(f"Added {ticker}.")
+            st.rerun()
+    except Exception as e:
+        st.error(f"{ticker}: failed to load ({e})")
+    if st.button("Close details", key="close_mover_detail"):
+        st.session_state.selected_mover = None
+        st.rerun()
 
 
 def remove_from_watchlist(ticker: str) -> None:
@@ -120,6 +140,8 @@ else:
 
     if "show_all_movers" not in st.session_state:
         st.session_state.show_all_movers = False
+    if "selected_mover" not in st.session_state:
+        st.session_state.selected_mover = None
 
     limit = None if st.session_state.show_all_movers else 4
     bull_col, bear_col = st.columns(2)
@@ -135,6 +157,9 @@ else:
     if st.button("Show less" if st.session_state.show_all_movers else "See more"):
         st.session_state.show_all_movers = not st.session_state.show_all_movers
         st.rerun()
+
+    if st.session_state.selected_mover:
+        render_mover_detail(st.session_state.selected_mover)
 
 st.header("Search any stock")
 
