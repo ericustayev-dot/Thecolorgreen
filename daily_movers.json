@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-09",
+  "bullish": [
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "price": 259.02,
+      "change_pct": -1.66,
+      "sentiment_score": 0.407,
+      "sentiment_label": "positive",
+      "cap": "mega"
+    },
+    {
+      "ticker": "HUBS",
+      "name": "HubSpot, Inc.",
+      "price": 204.22,
+      "change_pct": 3.24,
+      "sentiment_score": 0.4,
+      "sentiment_label": "positive",
+      "cap": "large"
+    },
+    {
+      "ticker": "OKLO",
+      "name": "Oklo Inc.",
+      "price": 49.92,
+      "change_pct": 5.58,
+      "sentiment_score": 0.562,
+      "sentiment_label": "positive",
+      "cap": "mid"
+    },
+    {
+      "ticker": "UMAC",
+      "name": "Unusual Machines, Inc.",
+      "price": 20.86,
+      "change_pct": 1.16,
+      "sentiment_score": 0.101,
+      "sentiment_label": "positive",
+      "cap": "small"
+    },
+    {
+      "ticker": "LEU",
+      "name": "Centrus Energy Corp.",
+      "price": 173.16,
+      "change_pct": 4.02,
+      "sentiment_score": 0.43,
+      "sentiment_label": "positive",
+      "cap": "mid"
+    },
+    {
+      "ticker": "UEC",
+      "name": "Uranium Energy Corp.",
+      "price": 10.24,
+      "change_pct": 3.12,
+      "sentiment_score": 0.413,
+      "sentiment_label": "positive",
+      "cap": "mid"
+    },
+    {
+      "ticker": "SNAP",
+      "name": "Snap Inc.",
+      "price": 4.66,
+      "change_pct": 0.65,
+      "sentiment_score": 0.378,
+      "sentiment_label": "positive",
+      "cap": "mid"
+    },
+    {
+      "ticker": "KO",
+      "name": "Coca-Cola Company (The)",
+      "price": 82.47,
+      "change_pct": -1.12,
+      "sentiment_score": 0.37,
+      "sentiment_label": "positive",
+      "cap": "mega"
+    },
+    {
+      "ticker": "BRK-B",
+      "name": "Berkshire Hathaway Inc. New",
+      "price": 494.52,
+      "change_pct": -0.05,
+      "sentiment_score": 0.358,
+      "sentiment_label": "positive",
+      "cap": "mega"
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture plc",
+      "price": 138.57,
+      "change_pct": 1.01,
+      "sentiment_score": 0.356,
+      "sentiment_label": "positive",
+      "cap": "large"
+    }
+  ],
+  "bearish": [
+    {
+      "ticker": "HD",
+      "name": "Home Depot, Inc. (The)",
+      "price": 338.73,
+      "change_pct": 0.75,
+      "sentiment_score": -0.093,
+      "sentiment_label": "negative",
+      "cap": "mega"
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "price": 161.96,
+      "change_pct": -2.77,
+      "sentiment_score": -0.19,
+      "sentiment_label": "negative",
+      "cap": "large"
+    },
+    {
+      "ticker": "RIOT",
+      "name": "Riot Platforms, Inc.",
+      "price": 21.83,
+      "change_pct": 3.49,
+      "sentiment_score": -0.299,
+      "sentiment_label": "negative",
+      "cap": "mid"
+    },
+    {
+      "ticker": "SERV",
+      "name": "Serve Robotics Inc.",
+      "price": 6.06,
+      "change_pct": 2.85,
+      "sentiment_score": -0.076,
+      "sentiment_label": "negative",
+      "cap": "small"
+    },
+    {
+      "ticker": "WSM",
+      "name": "Williams-Sonoma, Inc.",
+      "price": 220.81,
+      "change_pct": 1.14,
+      "sentiment_score": -0.149,
+      "sentiment_label": "negative",
+      "cap": "large"
+    },
+    {
+      "ticker": "RBLX",
+      "name": "Roblox Corporation",
+      "price": 56.25,
+      "change_pct": 2.05,
+      "sentiment_score": -0.136,
+      "sentiment_label": "negative",
+      "cap": "large"
+    },
+    {
+      "ticker": "DKNG",
+      "name": "DraftKings Inc.",
+      "price": 26.37,
+      "change_pct": -2.93,
+      "sentiment_score": -0.109,
+      "sentiment_label": "negative",
+      "cap": "large"
+    },
+    {
+      "ticker": "DASH",
+      "name": "DoorDash, Inc.",
+      "price": 191.68,
+      "change_pct": 1.23,
+      "sentiment_score": -0.093,
+      "sentiment_label": "negative",
+      "cap": "large"
+    },
+    {
+      "ticker": "MARA",
+      "name": "MARA Holdings, Inc.",
+      "price": 13.31,
+      "change_pct": 10.77,
+      "sentiment_score": -0.077,
+      "sentiment_label": "negative",
+      "cap": "mid"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "price": 197.93,
+      "change_pct": 3.57,
+      "sentiment_score": -0.059,
+      "sentiment_label": "negative",
+      "cap": "mega"
+    }
+  ]
+}

@@ -11,6 +11,7 @@ import sys
 from datetime import datetime, timezone
 
 from report import build_stock_report, build_commodity_report, build_world_news_report
+from movers import compute_daily_movers
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 WATCHLIST_FILE = os.path.join(BASE_DIR, "watchlist.txt")
@@ -152,6 +153,14 @@ def main():
             report_commodity(ticker, label, session, timestamp)
         except Exception as e:
             print(f"\n=== {label} ({ticker}) ===\nFailed to fetch data: {e}")
+
+    try:
+        movers = compute_daily_movers()  # no-op if already computed today
+        print(f"\n=== Daily movers ({movers['date']}) ===")
+        print(f"Bullish: {', '.join(c['ticker'] for c in movers['bullish'])}")
+        print(f"Bearish: {', '.join(c['ticker'] for c in movers['bearish'])}")
+    except Exception as e:
+        print(f"\n=== Daily movers ===\nFailed to compute: {e}")
 
 
 if __name__ == "__main__":

@@ -2,6 +2,7 @@
 Run with: streamlit run dashboard.py
 It will open automatically in your browser at http://localhost:8501"""
 
+import json
 import os
 
 import pandas as pd
@@ -11,6 +12,7 @@ from streamlit_searchbox import st_searchbox
 from main import load_watchlist, load_commodities, WATCHLIST_FILE, COMMODITIES_FILE, HISTORY_FILE, COMMODITIES_HISTORY_FILE, WORLD_NEWS_LOG_FILE
 from report import build_stock_report, build_commodity_report, build_world_news_report
 from search import search_tickers
+from movers import DAILY_MOVERS_FILE
 
 st.set_page_config(page_title="Stock Tracker", layout="wide")
 
@@ -75,6 +77,25 @@ def load_csv(path: str) -> pd.DataFrame:
     return df
 
 
+def load_daily_movers() -> dict:
+    if not os.path.exists(DAILY_MOVERS_FILE):
+        return {}
+    with open(DAILY_MOVERS_FILE) as f:
+        return json.load(f)
+
+
+def render_mover_row(m: dict) -> None:
+    with st.container(border=True):
+        st.write(f"**{m['ticker']}** · {m['name']}")
+        st.caption(f"{m['cap'].capitalize()} cap · ${m['price']} ({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}")
+
+
+def remove_from_watchlist(ticker: str) -> None:
+    remaining = [t for t in load_watchlist(WATCHLIST_FILE) if t != ticker]
+    with open(WATCHLIST_FILE, "w") as f:
+        f.write("\n".join(remaining) + ("\n" if remaining else ""))
+
+
 st.title("Stock tracker dashboard")
 st.caption("Live snapshot + logged history. Data refreshes at most every 5 minutes.")
 
@@ -85,6 +106,35 @@ def chunked(items: list, size: int):
     for i in range(0, len(items), size):
         yield items[i:i + size]
 
+
+st.header("Today's bullish & bearish stocks")
+movers_data = load_daily_movers()
+if not movers_data:
+    st.info("Daily picks haven't been computed yet - this fills in once the scheduled job runs (see main.py / cron).")
+else:
+    st.caption(
+        f"As of {movers_data['date']} · mixed across mega/large/mid/small cap · a pick stays on the "
+        "list day-to-day while it's still bullish/bearish, only swapped when it flips direction. "
+        "This reflects today's news sentiment, not a forecast."
+    )
+
+    if "show_all_movers" not in st.session_state:
+        st.session_state.show_all_movers = False
+
+    limit = None if st.session_state.show_all_movers else 4
+    bull_col, bear_col = st.columns(2)
+    with bull_col:
+        st.subheader("Bullish")
+        for m in movers_data["bullish"][:limit]:
+            render_mover_row(m)
+    with bear_col:
+        st.subheader("Bearish")
+        for m in movers_data["bearish"][:limit]:
+            render_mover_row(m)
+
+    if st.button("Show less" if st.session_state.show_all_movers else "See more"):
+        st.session_state.show_all_movers = not st.session_state.show_all_movers
+        st.rerun()
 
 st.header("Search any stock")
 
@@ -108,10 +158,11 @@ if selected:
         current_watchlist = load_watchlist(WATCHLIST_FILE)
         if selected in current_watchlist:
             st.caption(f"{selected} is already in your watchlist.")
-        elif st.button(f"Add {selected} to my watchlist"):
+        elif st.button(f"Add {selected} to my watchlist", icon=":material/add:", key=f"add_{selected}"):
             with open(WATCHLIST_FILE, "a") as f:
                 f.write(f"{selected}\n")
-            st.success(f"Added {selected}. Refresh the page to see it under Watchlist below.")
+            st.success(f"Added {selected}.")
+            st.rerun()
     except Exception as e:
         st.error(f"{selected}: failed to load ({e})")
 
@@ -125,6 +176,9 @@ for row_num, row in enumerate(chunked(tickers, 4)):
         with col:
             try:
                 render_stock_card(ticker)
+                if st.button("Remove from watchlist", icon=":material/delete:", key=f"remove_{ticker}"):
+                    remove_from_watchlist(ticker)
+                    st.rerun()
             except Exception as e:
                 st.error(f"{ticker}: failed to load ({e})")
     progress.progress(min(1.0, ((row_num + 1) * 4) / len(tickers)), text=f"Loaded {min((row_num + 1) * 4, len(tickers))}/{len(tickers)}")
