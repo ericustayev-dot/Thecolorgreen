@@ -6,6 +6,7 @@ import os
 
 import pandas as pd
 import streamlit as st
+from streamlit_searchbox import st_searchbox
 
 from main import load_watchlist, load_commodities, WATCHLIST_FILE, COMMODITIES_FILE, HISTORY_FILE, COMMODITIES_HISTORY_FILE, WORLD_NEWS_LOG_FILE
 from report import build_stock_report, build_commodity_report, build_world_news_report
@@ -86,27 +87,33 @@ def chunked(items: list, size: int):
 
 
 st.header("Search any stock")
-query = st.text_input("Search by ticker or company name (e.g. MSFT or Microsoft)")
-if query:
-    matches = cached_search(query)
-    if not matches:
-        st.warning("No matches found.")
-    else:
-        labels = [f"{m['symbol']} - {m['name']} ({m['exchange']}, {m['type']})" for m in matches]
-        choice = st.selectbox("Select a match", labels)
-        selected = matches[labels.index(choice)]["symbol"]
 
-        try:
-            render_stock_card(selected)
-            current_watchlist = load_watchlist(WATCHLIST_FILE)
-            if selected in current_watchlist:
-                st.caption(f"{selected} is already in your watchlist.")
-            elif st.button(f"Add {selected} to my watchlist"):
-                with open(WATCHLIST_FILE, "a") as f:
-                    f.write(f"{selected}\n")
-                st.success(f"Added {selected}. Refresh the page to see it under Watchlist below.")
-        except Exception as e:
-            st.error(f"{selected}: failed to load ({e})")
+
+def suggest_tickers(searchterm: str) -> list:
+    if not searchterm:
+        return []
+    matches = cached_search(searchterm)
+    return [(f"{m['symbol']} - {m['name']} ({m['exchange']}, {m['type']})", m["symbol"]) for m in matches]
+
+
+selected = st_searchbox(
+    suggest_tickers,
+    placeholder="Start typing a ticker or company name (e.g. MSFT or Microsoft)...",
+    key="stock_searchbox",
+)
+
+if selected:
+    try:
+        render_stock_card(selected)
+        current_watchlist = load_watchlist(WATCHLIST_FILE)
+        if selected in current_watchlist:
+            st.caption(f"{selected} is already in your watchlist.")
+        elif st.button(f"Add {selected} to my watchlist"):
+            with open(WATCHLIST_FILE, "a") as f:
+                f.write(f"{selected}\n")
+            st.success(f"Added {selected}. Refresh the page to see it under Watchlist below.")
+    except Exception as e:
+        st.error(f"{selected}: failed to load ({e})")
 
 st.header("Watchlist")
 tickers = load_watchlist(WATCHLIST_FILE)
