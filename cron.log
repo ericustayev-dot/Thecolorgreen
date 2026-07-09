@@ -1,0 +1,528 @@
+/Users/ourhome/stock-tracker/venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+=== World news [close] ===
+  - Tehran launches more strikes after explosions reported in southern Iran [bbc.co.uk]
+    https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss
+    (Geopolitical conflict) Armed conflict and military escalation have historically increased volatility and safe-haven demand (gold, US dollar), and pushed oil prices up when producing regions are involved.
+  - Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes [bbc.co.uk]
+    https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss
+    (Geopolitical conflict) Armed conflict and military escalation have historically increased volatility and safe-haven demand (gold, US dollar), and pushed oil prices up when producing regions are involved.
+  - Democrat Graham Platner suspends campaign for key US Senate race after assault allegation [bbc.co.uk]
+    https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss
+    (Elections / political instability) Political uncertainty has typically raised short-term volatility broadly; sector-specific impact depends on which policies are actually at stake.
+  - Greek F-16 fighter jet crash-lands at busy Zakynthos airport [bbc.co.uk]
+    https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss
+    (Other) No strong historical market pattern is typically tied to this type of headline.
+  - Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies [bbc.co.uk]
+    https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss
+    (Geopolitical conflict) Armed conflict and military escalation have historically increased volatility and safe-haven demand (gold, US dollar), and pushed oil prices up when producing regions are involved.
+
+=== Apple Inc. (AAPL) [close] ===
+Price: $316.22  (+2.83, +0.90%)
+Market cap: $4,644,435,656,704
+P/E ratio: 38.24
+Analyst 12-mo target: $315.57 avg (range $215.00-$400.00, 42 analysts, buy)
+News sentiment: positive (score 0.059)
+Bullish driver: Luxshare Raises $3.1 Billion, Shares Slip in Hong Kong Debut [finance.yahoo.com] (score +0.296)
+Recent headlines:
+  - Six Months In, AZA Law Firm’s Dallas Office Tracks Toward Its Year-One Plan [finance.yahoo.com]
+  - Market Chatter: PrismML Runs 27-Billion-Parameter AI Model on iPhone [finance.yahoo.com]
+  - Luxshare Raises $3.1 Billion, Shares Slip in Hong Kong Debut [finance.yahoo.com]
+  - Apple's On-Device AI Path Gets Clearer [finance.yahoo.com]
+  - Will Earnings Be The Catalyst To Lift TSM Stock Higher? [finance.yahoo.com]
+
+=== Tesla, Inc. (TSLA) [close] ===
+Price: $406.55  (+12.49, +3.17%)
+Market cap: $1,526,889,447,424
+P/E ratio: 369.59
+Analyst 12-mo target: $424.01 avg (range $125.00-$600.00, 41 analysts, buy)
+News sentiment: positive (score 0.312)
+Bullish driver: Is Tesla (TSLA) One of the Best QQQ Stocks to Invest in? [finance.yahoo.com] (score +0.637)
+Recent headlines:
+  - Is Tesla (TSLA) One of the Best QQQ Stocks to Invest in? [finance.yahoo.com]
+  - Tesla Stock Gets Stunning Price Target Hike From UBS on AI Boom [finance.yahoo.com]
+  - Nasdaq Leads the Market's Climb Higher [finance.yahoo.com]
+  - How SpaceX Stock Can Hit $900 [finance.yahoo.com]
+  - Citizens says Tesla near-term optimism is too high [finance.yahoo.com]
+
+=== NVIDIA Corporation (NVDA) [close] ===
+Price: $202.78  (-1.34, -0.66%)
+Market cap: $4,911,534,178,304
+P/E ratio: 31.05
+Analyst 12-mo target: $301.62 avg (range $180.00-$500.00, 58 analysts, strong_buy)
+News sentiment: positive (score 0.203)
+Bullish driver: NVIDIA (NVDA) Integrates Isaac AI Tools into Hugging Face LeRobot [finance.yahoo.com] (score +0.421)
+Recent headlines:
+  - FormFactor, Amkor, and Kulicke and Soffa Shares Skyrocket, What You Need To Know [finance.yahoo.com]
+  - Nova, Lam Research, and Teradyne Stocks Trade Up, What You Need To Know [finance.yahoo.com]
+  - Applied Materials and KLA Corporation Shares Are Soaring, What You Need To Know [finance.yahoo.com]
+  - Positron Eyes $750 Million Raise at Up to $5 Billion Valuation [finance.yahoo.com]
+  - NVIDIA (NVDA) Integrates Isaac AI Tools into Hugging Face LeRobot [finance.yahoo.com]
+
+=== Ur Energy Inc (URG) [close] ===
+Price: $1.33  (+0.03, +1.92%)
+Market cap: $526,464,704
+Analyst 12-mo target: $2.33 avg (range $1.90-$2.75, 7 analysts, strong_buy)
+News sentiment: positive (score 0.056)
+Bullish driver: Noble Plains Uranium Completes Shirley Central Historical Drill Database, Unlocking 341 Uranium Intercepts [finance.yahoo.com] (score +0.459)
+Bearish driver: Ur-Energy (URG) Completes 100th Uranium Shipment from Lost Creek [finance.yahoo.com] (score -0.318)
+Recent headlines:
+  - Noble Plains Uranium Completes Shirley Central Historical Drill Database, Unlocking 341 Uranium Intercepts [finance.yahoo.com]
+  - Ur-Energy (URG) Completes 100th Uranium Shipment from Lost Creek [finance.yahoo.com]
+  - Ur-Energy Receives Final WDEQ Authorization to Transport Uranium-Loaded Resin from Shirley Basin to Lost Creek [finance.yahoo.com]
+  - Noble Plains Closes $1,009,600 Non-Brokered Private Placement [finance.yahoo.com]
+  - American Rare Earths (ARE) to Appoint Veteran Miner Matthew Gili as Non-Executive Director [finance.yahoo.com]
+
+=== Centrus Energy Corp. (LEU) [close] ===
+Price: $173.62  (+7.15, +4.30%)
+Market cap: $3,415,590,400
+P/E ratio: 63.13
+Analyst 12-mo target: $274.36 avg (range $170.00-$390.00, 14 analysts, buy)
+News sentiment: positive (score 0.43)
+Bullish driver: Centrus Energy (LEU) Could Be 71% Undervalued Following Its DOE Contract Win [finance.yahoo.com] (score +0.710)
+Recent headlines:
+  - Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push? [finance.yahoo.com]
+  - UEC Stock Outlook Hinges on ISR Ramp, Liquidity and Licensing [finance.yahoo.com]
+  - Is Centrus’ US$900 Million DOE HALEU Contract Altering The Investment Case For Centrus Energy (LEU)? [finance.yahoo.com]
+  - Centrus Energy (LEU) Joins S&P SmallCap 600 As Nuclear Fuel Expansion Gains Ground [finance.yahoo.com]
+  - Centrus Energy (LEU) Could Be 71% Undervalued Following Its DOE Contract Win [finance.yahoo.com]
+
+=== Cameco Corporation (CCJ) [close] ===
+Price: $95.75  (+1.02, +1.08%)
+Market cap: $41,702,285,312
+P/E ratio: 91.19
+Analyst 12-mo target: $132.76 avg (range $83.58-$168.11, 10 analysts, buy)
+News sentiment: positive (score 0.085)
+Bullish driver: Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push? [finance.yahoo.com] (score +0.625)
+Bearish driver: Uranium runs hot as BofA slashes forecasts everywhere else [proactiveinvestors.com] (score -0.202)
+Recent headlines:
+  - Uranium runs hot as BofA slashes forecasts everywhere else [proactiveinvestors.com]
+  - Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push? [finance.yahoo.com]
+  - Is UEC Stock a Buy Now or a Wait-and-See Uranium Trade Today? [finance.yahoo.com]
+  - UEC Stock Outlook Hinges on ISR Ramp, Liquidity and Licensing [finance.yahoo.com]
+  - Cameco (CCJ) Falls More Steeply Than Broader Market: What Investors Need to Know [finance.yahoo.com]
+
+=== Intuitive Machines, Inc. (LUNR) [close] ===
+Price: $16.9  (-0.12, -0.71%)
+Market cap: $2,711,643,904
+Analyst 12-mo target: $40.78 avg (range $11.00-$75.00, 9 analysts, buy)
+News sentiment: positive (score 0.307)
+Bullish driver: Craig-Hallum says Intuitive Machines, Inc. (LUNR), Firefly NASA awards in line with expectations [finance.yahoo.com] (score +0.459)
+Recent headlines:
+  - Planet Launches Pelican-11, Paving the Way for Its Next-Generation High-Resolution Satellite Fleet [finance.yahoo.com]
+  - Craig-Hallum says Intuitive Machines, Inc. (LUNR), Firefly NASA awards in line with expectations [finance.yahoo.com]
+  - Former Merck and NASA Veterans Join SpaceMD as Space Pharma Momentum Builds [finance.yahoo.com]
+  - LUNR Falls 36.5% in the Past Month: How to Play the Stock? [finance.yahoo.com]
+  - Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff [finance.yahoo.com]
+
+=== Ouster, Inc. (OUST) [close] ===
+Price: $47.53  (+4.12, +9.49%)
+Market cap: $3,198,522,880
+Analyst 12-mo target: $46.86 avg (range $33.00-$75.00, 7 analysts, none)
+News sentiment: positive (score 0.109)
+Bullish driver: How Ouster's REV8 BABA Compliance Boosts Its Long-Term Outlook [finance.yahoo.com] (score +0.318)
+Recent headlines:
+  - Ouster Stock Hits New Highs as Lidar Demand Gains Momentum [barchart.com]
+  - World Cup 2026 Sees Physical AI in Action [finance.yahoo.com]
+  - Sector Update: Tech Stocks Advance Premarket Thursday [finance.yahoo.com]
+  - How Ouster's REV8 BABA Compliance Boosts Its Long-Term Outlook [finance.yahoo.com]
+  - Lindsay, Palantir rise premarket; Ouster, Bending Spoons fall [finance.yahoo.com]
+
+=== Mobileye Global Inc. (MBLY) [close] ===
+Price: $9.53  (+0.39, +4.27%)
+Market cap: $8,026,033,664
+Analyst 12-mo target: $13.05 avg (range $8.00-$27.00, 27 analysts, none)
+News sentiment: positive (score 0.275)
+Bullish driver: CYD or MBLY: Which Is the Better Value Stock Right Now? [finance.yahoo.com] (score +0.649)
+Bearish driver: Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Supply Deal [finance.yahoo.com] (score -0.052)
+Recent headlines:
+  - Mobileye Announces Timing of its Second Quarter 2026 Results [finance.yahoo.com]
+  - CYD or MBLY: Which Is the Better Value Stock Right Now? [finance.yahoo.com]
+  - Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Supply Deal [finance.yahoo.com]
+  - 3 Stocks That Could Benefit as the Robotaxi Race Heats Up [marketbeat.com]
+  - Mobileye Global (MBLY) Aims to Expand its Robotaxi Service [finance.yahoo.com]
+
+=== Symbotic Inc. (SYM) [close] ===
+Price: $43.15  (+1.46, +3.50%)
+Market cap: $26,046,799,872
+Analyst 12-mo target: $65.67 avg (range $44.00-$84.00, 16 analysts, buy)
+News sentiment: positive (score 0.125)
+Bullish driver: Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity? [finance.yahoo.com] (score +0.421)
+Recent headlines:
+  - Symbotic (SYM) Stock Still Looks Cheap Following Its 315% Run [finance.yahoo.com]
+  - Symbotic Inc. (SYM) Dips More Than Broader Market: What You Should Know [finance.yahoo.com]
+  - Symbotic (SYM) Could Be 32% Undervalued On Its Warehouse Automation Narrative [finance.yahoo.com]
+  - Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity? [finance.yahoo.com]
+  - SpaceX initiated, Cloudflare upgraded: Wall Street's top analyst calls [finance.yahoo.com]
+
+=== Intuit Inc. (INTU) [close] ===
+Price: $273.38  (+1.28, +0.47%)
+Market cap: $74,779,541,504
+P/E ratio: 16.69
+Analyst 12-mo target: $486.61 avg (range $275.00-$921.00, 32 analysts, buy)
+News sentiment: positive (score 0.088)
+Bullish driver: Intuit Inc. (INTU) is Attracting Investor Attention: Here is What You Should Know [finance.yahoo.com] (score +0.477)
+Bearish driver: Here’s Why Intuit (INTU) is Struggling [finance.yahoo.com] (score -0.421)
+Recent headlines:
+  - Is Intuit (INTU) Still Undervalued After A 64% Drop? [finance.yahoo.com]
+  - Intuit (INTU) Joins Value Indexes, Is The Stock Now Cheap? [finance.yahoo.com]
+  - Here’s Why Intuit (INTU) is Struggling [finance.yahoo.com]
+  - Intuit Inc. (INTU) is Attracting Investor Attention: Here is What You Should Know [finance.yahoo.com]
+  - One Analyst Sees Huge Upside In Intuit (INTU) Stock. Another Doesn’t, Here’s Why They’re Divided [finance.yahoo.com]
+
+=== Cerebras Systems Inc. (CBRS) [close] ===
+Price: $198.53  (+16.81, +9.25%)
+Market cap: $44,242,522,112
+P/E ratio: 441.18
+Analyst 12-mo target: $291.09 avg (range $209.00-$340.00, 11 analysts, strong_buy)
+News sentiment: positive (score 0.2)
+Bullish driver: Sector Update: Tech Stocks Gain Late Afternoon [finance.yahoo.com] (score +0.527)
+Recent headlines:
+  - Sector Update: Tech Stocks Gain Late Afternoon [finance.yahoo.com]
+  - Cerebras Is Building 200 MW of AI Compute [finance.yahoo.com]
+  - Flex and Cerebras Expand Partnership to Scale American Manufacturing of Cerebras AI Supercomputers [finance.yahoo.com]
+  - Cerebras Stock Jumps After Unveiling Multibillion-Dollar Europe Expansion [finance.yahoo.com]
+  - Cerebras targets Europe with multibillion-dollar AI expansion, challenging Nvidia [euronews.com]
+
+=== Space Exploration Technologies  (SPCX) [close] ===
+Price: $152.16  (+3.86, +2.60%)
+Market cap: $2,004,584,366,080
+Analyst 12-mo target: $205.00 avg (range $62.00-$310.00, 17 analysts, buy)
+News sentiment: positive (score 0.111)
+Bullish driver: Elon Musk's No. 2 just gave 2 million kids 1 share of SpaceX each — here's what it could be worth when they're adults [finance.yahoo.com] (score +0.477)
+Recent headlines:
+  - Jeff Bezos doubles down on Blue Origin with $2B [thestreet.com]
+  - Stock Market Today: S&P 500 Gains Traction As AI Firms Bolt Higher; SpaceX Halts 3-Day Drop (Live Coverage) [finance.yahoo.com]
+  - Musk calls rival Anthropic the current frontrunner in AI [finance.yahoo.com]
+  - Elon Musk's No. 2 just gave 2 million kids 1 share of SpaceX each — here's what it could be worth when they're adults [finance.yahoo.com]
+  - ‘Tens of Thousands’ Nvidia Chips Were Used to Train Grok 4.5. The Stock Is Dropping. [finance.yahoo.com]
+
+=== IonQ, Inc. (IONQ) [close] ===
+Price: $44.75  (-0.33, -0.73%)
+Market cap: $16,703,830,016
+P/E ratio: 114.74
+Analyst 12-mo target: $68.79 avg (range $44.78-$100.00, 13 analysts, strong_buy)
+News sentiment: positive (score 0.24)
+Bullish driver: IonQ (IONQ) Expands Into Quantum Cybersecurity And Space Based Geospatial Intelligence [finance.yahoo.com] (score +0.542)
+Recent headlines:
+  - Quantum Computing Outpaces Sector in a Year: Is the Stock Still a Buy? [finance.yahoo.com]
+  - Clearspeed Appoints Laurie Babinski as General Counsel [finance.yahoo.com]
+  - Microsoft's Quantum Security Push: 1 Stock With 111% Upside to Buy Now [finance.yahoo.com]
+  - Is IonQ (IONQ) a Buy as Wall Street Analysts Look Optimistic? [finance.yahoo.com]
+  - IonQ (IONQ) Expands Into Quantum Cybersecurity And Space Based Geospatial Intelligence [finance.yahoo.com]
+
+=== Serve Robotics Inc. (SERV) [close] ===
+Price: $6.04  (+0.15, +2.55%)
+Market cap: $513,944,992
+Analyst 12-mo target: $18.45 avg (range $13.00-$26.00, 8 analysts, none)
+News sentiment: negative (score -0.076)
+Bullish driver: Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity? [finance.yahoo.com] (score +0.421)
+Bearish driver: Serve Robotics (SERV) Stock Trades At A Discount On Book Value But Broader Checks Look Weak [finance.yahoo.com] (score -0.485)
+Recent headlines:
+  - Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity? [finance.yahoo.com]
+  - Accenture Down 29.3% in 3 Months: How to Approach the Stock Now? [finance.yahoo.com]
+  - Serve Robotics (SERV) Appoints Andreas Lieber To Board After Sarfraz Maredia Resigns [finance.yahoo.com]
+  - Serve Robotics (SERV) Stock Trades At A Discount On Book Value But Broader Checks Look Weak [finance.yahoo.com]
+  - Serve Robotics Stock Falls 37% YTD: Should Investors Buy the Dip? [finance.yahoo.com]
+
+=== Unusual Machines, Inc. (UMAC) [close] ===
+Price: $20.73  (+0.11, +0.53%)
+Market cap: $990,768,000
+Analyst 12-mo target: $33.67 avg (range $25.00-$42.00, 6 analysts, none)
+News sentiment: positive (score 0.101)
+Bullish driver: DZYNE Buyout Sparks Ondas Stock Rally: More Gains Ahead? [finance.yahoo.com] (score +0.401)
+Recent headlines:
+  - DZYNE Buyout Sparks Ondas Stock Rally: More Gains Ahead? [finance.yahoo.com]
+  - RedChip Showcases Public Companies Leading the Vertical Economy at July 16 Virtual Investor Conference [finance.yahoo.com]
+  - Unusual Machines (UMAC) Expands Operations with New Orlando Manufacturing Facility [finance.yahoo.com]
+  - How Investors May Respond To Unusual Machines (UMAC) Joining Multiple Russell Indices [finance.yahoo.com]
+  - Unusual Machines Added to Russell 2000(R) Index [finance.yahoo.com]
+
+=== Snowflake Inc. (SNOW) [close] ===
+Price: $267.51  (+6.20, +2.37%)
+Market cap: $92,718,972,928
+Analyst 12-mo target: $292.53 avg (range $110.00-$500.00, 48 analysts, none)
+News sentiment: positive (score 0.272)
+Bullish driver: Cognizant Strengthens AI Portfolio Through Google Cloud Partnership [finance.yahoo.com] (score +0.459)
+Recent headlines:
+  - Snowflake Inc. (SNOW): A Top AI Stock on Wall Street’s Radar, Expanding in Europe [finance.yahoo.com]
+  - Cognizant Strengthens AI Portfolio Through Google Cloud Partnership [finance.yahoo.com]
+  - Alta Raises $25M to Redefine the Go-to-Market Architecture for Revenue Teams [finance.yahoo.com]
+  - Stronger AI Data Cloud Adoption and Governance Shifts Might Change The Case For Investing In Snowflake (SNOW) [finance.yahoo.com]
+  - Snowflake (SNOW) Stock Could Be 12% Undervalued After Fresh AI Expansion News [finance.yahoo.com]
+
+=== ServiceNow, Inc. (NOW) [close] ===
+Price: $108.83  (+1.05, +0.97%)
+Market cap: $112,237,256,704
+P/E ratio: 64.78
+Analyst 12-mo target: $141.12 avg (range $85.00-$236.00, 46 analysts, strong_buy)
+News sentiment: neutral (score 0.033)
+Bullish driver: UiPath's Valuation Looks Attractive After the Recent Pullback [finance.yahoo.com] (score +0.440)
+Bearish driver: Chip Stocks Drop 12% as Software Rebounds in AI Trade Shift [finance.yahoo.com] (score -0.273)
+Recent headlines:
+  - Chip Stocks Drop 12% as Software Rebounds in AI Trade Shift [finance.yahoo.com]
+  - Why Is Palantir Stock Falling Today [finance.yahoo.com]
+  - UiPath's Valuation Looks Attractive After the Recent Pullback [finance.yahoo.com]
+  - 4 Top-Ranked Internet Stocks With Solid Upside Potential to Buy Now [finance.yahoo.com]
+  - Salesforce Downgraded On Views 'Agentforce, As A Product, Just Isn't There' [finance.yahoo.com]
+
+=== ARKO Corp. (ARKO) [close] ===
+Price: $7.97  (-0.12, -1.48%)
+Market cap: $894,120,192
+P/E ratio: 39.85
+Analyst 12-mo target: $8.50 avg (range $8.00-$9.00, 2 analysts, none)
+News sentiment: positive (score 0.094)
+Bullish driver: Consumer Confidence Improves but Economic Woes Continue: 4 Safe Picks [finance.yahoo.com] (score +0.468)
+Recent headlines:
+  - ARKO Corp. (ARKO) Stock Moves -1.47%: What You Should Know [finance.yahoo.com]
+  - Consumer Confidence Improves but Economic Woes Continue: 4 Safe Picks [finance.yahoo.com]
+  - Here's Why Momentum in ARKO (ARKO) Should Keep going [finance.yahoo.com]
+  - Are Investors Undervaluing ARKO (ARKO) Right Now? [finance.yahoo.com]
+  - ARKO Corp. (ARKO) Is a Trending Stock: Facts to Know Before Betting on It [finance.yahoo.com]
+
+=== Intuitive Surgical, Inc. (ISRG) [close] ===
+Price: $411.55  (-3.55, -0.86%)
+Market cap: $145,755,717,632
+P/E ratio: 50.07
+Analyst 12-mo target: $563.35 avg (range $366.00-$750.00, 29 analysts, buy)
+News sentiment: positive (score 0.476)
+Bullish driver: Piper Sandler (PIPR) Stock Looks Strong On Returns Yet Above Fair Value [finance.yahoo.com] (score +0.791)
+Recent headlines:
+  - How Big Is the Appendectomy Opportunity for ISRG's Robotic Expansion? [finance.yahoo.com]
+  - Intuitive Surgical, Inc. (ISRG) Rises Higher Than Market: Key Facts [finance.yahoo.com]
+  - Intuitive Surgical, Inc. (ISRG) is Attracting Investor Attention: Here is What You Should Know [finance.yahoo.com]
+  - Piper Sandler (PIPR) Stock Looks Strong On Returns Yet Above Fair Value [finance.yahoo.com]
+  - Intuitive Surgical (ISRG) Posts Strong Results As Da Vinci 5 Gains Ground [finance.yahoo.com]
+
+=== T-Mobile US, Inc. (TMUS) [close] ===
+Price: $181.48  (+1.34, +0.74%)
+Market cap: $196,398,497,792
+P/E ratio: 19.31
+Analyst 12-mo target: $257.92 avg (range $212.00-$300.00, 26 analysts, buy)
+News sentiment: negative (score -0.078)
+Bullish driver: Tractor Supply downgrade, Five Below upgraded: Wall Street's top analyst calls [finance.yahoo.com] (score +0.202)
+Bearish driver: How SpaceX Spending Spree Could Threaten AT&T, Verizon, T-Mobile [finance.yahoo.com] (score -0.382)
+Recent headlines:
+  - T-Mobile (TMUS) Appoints Chris Sambar as Chief Enterprise Officer [finance.yahoo.com]
+  - Morgan Stanley Keeps Overweight Rating on T-Mobile (TMUS) [finance.yahoo.com]
+  - T-Mobile faces backlash over new customer support restriction [thestreet.com]
+  - Tractor Supply downgrade, Five Below upgraded: Wall Street's top analyst calls [finance.yahoo.com]
+  - How SpaceX Spending Spree Could Threaten AT&T, Verizon, T-Mobile [finance.yahoo.com]
+
+=== Uber Technologies, Inc. (UBER) [close] ===
+Price: $74.35  (+0.75, +1.01%)
+Market cap: $151,336,615,936
+P/E ratio: 18.45
+Analyst 12-mo target: $104.51 avg (range $70.00-$150.00, 50 analysts, strong_buy)
+News sentiment: positive (score 0.15)
+Bullish driver: Will Gross Booking Strength Give a Boost to Uber's Results in Q2? [finance.yahoo.com] (score +0.421)
+Recent headlines:
+  - Lyft CEO on surge pricing, robotaxis, and Bezos [finance.yahoo.com]
+  - Waymo Widens Lead Over Tesla, Expands Robotaxis To Four New Cities [finance.yahoo.com]
+  - Will Gross Booking Strength Give a Boost to Uber's Results in Q2? [finance.yahoo.com]
+  - Nancy Pelosi bets up to $6 million on Intel and Uber, public disclosures show [finance.yahoo.com]
+  - Is It Worth Investing in Uber (UBER) Based on Wall Street's Bullish Views? [finance.yahoo.com]
+
+=== Palantir Technologies Inc. (PLTR) [close] ===
+Price: $129.04  (-3.18, -2.41%)
+Market cap: $309,349,122,048
+P/E ratio: 144.99
+Analyst 12-mo target: $183.12 avg (range $70.00-$255.00, 27 analysts, buy)
+News sentiment: neutral (score -0.034)
+Bullish driver: Will Strength in Defense & Propulsion Unit Continue to Drive GE's Momentum? [finance.yahoo.com] (score +0.572)
+Bearish driver: Palantir: Khan contract ban will cut Met police jobs [uk.finance.yahoo.com] (score -0.691)
+Recent headlines:
+  - Rackspace Stock Offering Overshadows AI Deal [finance.yahoo.com]
+  - Why Is Palantir Stock Falling Today [finance.yahoo.com]
+  - Palantir Technologies (PLTR) Expands Partnership with GNP Seguros [finance.yahoo.com]
+  - Will Strength in Defense & Propulsion Unit Continue to Drive GE's Momentum? [finance.yahoo.com]
+  - Palantir: Khan contract ban will cut Met police jobs [uk.finance.yahoo.com]
+
+=== Alpha Metallurgical Resources,  (AMR) [close] ===
+Price: $150.0  (-0.96, -0.64%)
+Market cap: $1,907,193,600
+Analyst 12-mo target: $179.50 avg (range $165.00-$194.00, 2 analysts, hold)
+News sentiment: positive (score 0.171)
+Bullish driver: Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost [finance.yahoo.com] (score +0.725)
+Bearish driver: Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds [finance.yahoo.com] (score -0.440)
+Recent headlines:
+  - Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds [finance.yahoo.com]
+  - Alpha Metallurgical Resources (AMR) Shifts Toward Premium Coals As Market Oversupply Persists [finance.yahoo.com]
+  - Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost [finance.yahoo.com]
+  - How The Amarin (AMRN) Story Is Shifting With A Refined Fair Value And Outlook [finance.yahoo.com]
+  - Alpha Metallurgical Resources Independent Director Acquires 1.6% More Stock [finance.yahoo.com]
+
+=== Lithium Americas Corp. (LAC) [close] ===
+Price: $3.56  (-0.02, -0.56%)
+Market cap: $1,249,782,400
+Analyst 12-mo target: $5.87 avg (range $4.50-$10.00, 9 analysts, hold)
+News sentiment: neutral (score 0.043)
+Bullish driver: Thomas Massie Says Republicans Decry Communist 'Involvement' In Democratic Party, But Look Other Way As Trump Nationalizes 'Ownership' In Intel, US Steel [finance.yahoo.com] (score +0.214)
+Recent headlines:
+  - Lithium Americas (LAC) Remains On Analysts’ Radar Amid Advancements At Thacker Pass Project [finance.yahoo.com]
+  - Lithium Americas Corp. (LAC) Stock Moves -1.83%: What You Should Know [finance.yahoo.com]
+  - Lithium Americas Publishes 2025 ESG-S Report [finance.yahoo.com]
+  - Thomas Massie Says Republicans Decry Communist 'Involvement' In Democratic Party, But Look Other Way As Trump Nationalizes 'Ownership' In Intel, US Steel [finance.yahoo.com]
+  - Lithium Prices Tumble As Traders Brace For CATL Supply Surge [finance.yahoo.com]
+
+=== MP Materials Corp. (MP) [close] ===
+Price: $51.66  (-1.34, -2.52%)
+Market cap: $9,197,338,624
+Analyst 12-mo target: $80.44 avg (range $69.00-$100.00, 16 analysts, none)
+News sentiment: positive (score 0.325)
+Bullish driver: Is MP Materials Corp. (MP) A Good Stock To Buy Now? [finance.yahoo.com] (score +0.440)
+Recent headlines:
+  - Rare Earth Talent Crunch Could Slow US Supply Chain Rebuild [finance.yahoo.com]
+  - MP Materials (MP) Sues USA Rare Earth Over Magnet Technology And Engineer Hiring [finance.yahoo.com]
+  - Rare Earth Talent Scramble Lures 86-Year-Old From Retirement [finance.yahoo.com]
+  - MP Materials Trades at a Premium Valuation: How to Play the Stock? [finance.yahoo.com]
+  - Is MP Materials Corp. (MP) A Good Stock To Buy Now? [finance.yahoo.com]
+
+=== Uranium Energy Corp. (UEC) [close] ===
+Price: $10.16  (+0.23, +2.37%)
+Market cap: $5,030,377,472
+Analyst 12-mo target: $18.25 avg (range $12.00-$26.75, 9 analysts, strong_buy)
+News sentiment: positive (score 0.413)
+Bullish driver: Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value [finance.yahoo.com] (score +0.893)
+Recent headlines:
+  - Why Is Uranium Energy (UEC) Up 5.4% Since Last Earnings Report? [finance.yahoo.com]
+  - Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value [finance.yahoo.com]
+  - Uranium Energy (UEC) Advances US Fuel Plans, Is The Stock Still Cheap? [finance.yahoo.com]
+  - Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push? [finance.yahoo.com]
+  - Is UEC Stock a Buy Now or a Wait-and-See Uranium Trade Today? [finance.yahoo.com]
+
+=== Oklo Inc. (OKLO) [close] ===
+Price: $49.28  (+2.00, +4.23%)
+Market cap: $8,574,276,096
+Analyst 12-mo target: $88.63 avg (range $14.00-$140.00, 19 analysts, buy)
+News sentiment: positive (score 0.562)
+Bullish driver: EnerCom Announces Liberty Energy as a Keynote Speaker at the 31st Annual EnerCom Denver- The Energy Investment Conference, August 17-19, 2026, in Denver, Colorado [finance.yahoo.com] (score +0.765)
+Recent headlines:
+  - How Is BWXT Building Capabilities for Advanced Reactor Deployment? [finance.yahoo.com]
+  - EnerCom Announces Liberty Energy as a Keynote Speaker at the 31st Annual EnerCom Denver- The Energy Investment Conference, August 17-19, 2026, in Denver, Colorado [finance.yahoo.com]
+  - Oklo (OKLO) Gains A Regulatory Win As Investors Weigh Its Valuation [finance.yahoo.com]
+  - Oklo Inc. (OKLO) A Top Mid-Cap Stock to Own For Decades Following Groves Isotope Test Reactor Approval [finance.yahoo.com]
+  - ENTRA1 Partnership Strengthens NuScale's Commercial Path [finance.yahoo.com]
+
+=== Energy Fuels Inc (UUUU) [close] ===
+Price: $13.48  (+0.34, +2.55%)
+Market cap: $3,367,660,544
+Analyst 12-mo target: $26.12 avg (range $16.00-$32.50, 4 analysts, strong_buy)
+News sentiment: positive (score 0.222)
+Bullish driver: Rare Earth Talent Crunch Could Slow US Supply Chain Rebuild [finance.yahoo.com] (score +0.421)
+Recent headlines:
+  - Rare Earth Talent Crunch Could Slow US Supply Chain Rebuild [finance.yahoo.com]
+  - Energy Fuels (TSX:EFR) Stock Could Be Undervalued On Cash Flow But Overvalued On Sales [finance.yahoo.com]
+  - Energy Fuels (TSX:EFR) Following Russell Index Drops Has Valuation Back In Focus [finance.yahoo.com]
+  - Is Energy Fuels’ (TSX:EFR) Russell Exit Reframing Its Vertically Integrated Uranium And Rare Earths Story? [finance.yahoo.com]
+  - Is UEC Stock a Buy Now or a Wait-and-See Uranium Trade Today? [finance.yahoo.com]
+
+=== RTX Corporation (RTX) [close] ===
+Price: $195.2  (+0.29, +0.15%)
+Market cap: $262,865,879,040
+P/E ratio: 36.69
+Analyst 12-mo target: $215.14 avg (range $180.00-$242.00, 22 analysts, buy)
+News sentiment: positive (score 0.088)
+Bullish driver: 3 Aerospace-Defense Stocks to Buy Amid Strong Industry Tailwinds [finance.yahoo.com] (score +0.511)
+Bearish driver: Rackspace Slides 4% After $150 Million Revenue Cut [finance.yahoo.com] (score -0.273)
+Recent headlines:
+  - Rackspace Stock Offering Overshadows AI Deal [finance.yahoo.com]
+  - Rackspace Slides 4% After $150 Million Revenue Cut [finance.yahoo.com]
+  - RTX (RTX) Expands European Missile Production With NATO And Diehl Defence [finance.yahoo.com]
+  - RDW Falls 28.8% in the Past Month: What Should Investors Do? [finance.yahoo.com]
+  - 3 Aerospace-Defense Stocks to Buy Amid Strong Industry Tailwinds [finance.yahoo.com]
+
+=== Amazon.com, Inc. (AMZN) [close] ===
+Price: $247.04  (+3.42, +1.40%)
+Market cap: $2,657,436,303,360
+P/E ratio: 32.08
+Analyst 12-mo target: $312.91 avg (range $207.00-$370.00, 62 analysts, strong_buy)
+News sentiment: positive (score 0.259)
+Bullish driver: Icelandirect Earns SSCI Certification, Strengthening Its Ability to Serve Brands Selling Across Major Retail Channels [finance.yahoo.com] (score +0.670)
+Recent headlines:
+  - Instacart remains insulated from Amazon's grocery push, Jefferies survey suggests [proactiveinvestors.com]
+  - Jeff Bezos doubles down on Blue Origin with $2B [thestreet.com]
+  - Icelandirect Earns SSCI Certification, Strengthening Its Ability to Serve Brands Selling Across Major Retail Channels [finance.yahoo.com]
+  - Apple's On-Device AI Path Gets Clearer [finance.yahoo.com]
+  - Liberty Global (LBTYK): The Largest Onshore Wind Deal in UK History and Amazon Is the Buyer [finance.yahoo.com]
+
+=== Advanced Micro Devices, Inc. (AMD) [close] ===
+Price: $546.72  (+29.31, +5.66%)
+Market cap: $891,481,882,624
+P/E ratio: 182.24
+Analyst 12-mo target: $512.27 avg (range $320.00-$700.00, 48 analysts, strong_buy)
+News sentiment: positive (score 0.24)
+Bullish driver: Goldman Sachs sees AMD entering earnings with 1 powerful advantage [thestreet.com] (score +0.586)
+Recent headlines:
+  - Six Months In, AZA Law Firm’s Dallas Office Tracks Toward Its Year-One Plan [finance.yahoo.com]
+  - AMD's AI Infrastructure Push Gets Bigger [finance.yahoo.com]
+  - AMD Shares Soar After Landing Major AI Infrastructure Alliance [finance.yahoo.com]
+  - Nvidia's Vera CPU Could Expand Beyond x86, Wedbush Says [finance.yahoo.com]
+  - Goldman Sachs sees AMD entering earnings with 1 powerful advantage [thestreet.com]
+
+=== Meta Platforms, Inc. (META) [close] ===
+Price: $631.48  (+28.36, +4.70%)
+Market cap: $1,602,963,505,152
+P/E ratio: 22.96
+Analyst 12-mo target: $828.17 avg (range $664.46-$1015.00, 58 analysts, strong_buy)
+News sentiment: positive (score 0.111)
+Bullish driver: Sector Update: Tech Stocks Gain Late Afternoon [finance.yahoo.com] (score +0.527)
+Recent headlines:
+  - Sector Update: Tech Stocks Gain Late Afternoon [finance.yahoo.com]
+  - Meta Takes Aim at Google and OpenAI [finance.yahoo.com]
+  - Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia [finance.yahoo.com]
+  - Meta Drops $9 Billion on AI Expansion With Massive Canada Data Center [finance.yahoo.com]
+  - Apple's On-Device AI Path Gets Clearer [finance.yahoo.com]
+
+=== Broadcom Inc. (AVGO) [close] ===
+Price: $401.11  (+12.42, +3.20%)
+Market cap: $1,908,312,899,584
+P/E ratio: 66.63
+Analyst 12-mo target: $523.73 avg (range $215.88-$650.00, 45 analysts, strong_buy)
+News sentiment: positive (score 0.14)
+Bullish driver: $35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances [finance.yahoo.com] (score +0.382)
+Recent headlines:
+  - $35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances [finance.yahoo.com]
+  - CPU Competition Gearing Up to Cool AMD’s Massive Run [finance.yahoo.com]
+  - A Gigawatt Jolt for Meta Stock [finance.yahoo.com]
+  - Broadcom’s (AVGO) AI Chip Momentum Keeps Wall Street Bullish [finance.yahoo.com]
+  - Meta’s new AI chips will begin production in September [finance.yahoo.com]
+
+=== Marvell Technology, Inc. (MRVL) [close] ===
+Price: $243.27  (+11.56, +4.99%)
+Market cap: $212,812,595,200
+P/E ratio: 83.31
+Analyst 12-mo target: $252.26 avg (range $110.00-$385.00, 41 analysts, strong_buy)
+News sentiment: positive (score 0.242)
+Bullish driver: ALAB Rides on Strong Demand for PCIe Solution: A Sign for More Upside? [finance.yahoo.com] (score +0.625)
+Recent headlines:
+  - Update: US Equities Rise Intraday in Tech-Led Advance as Oil Prices Ease [finance.yahoo.com]
+  - Tower Semiconductor (TSEM) Advances AI Data Center Connectivity With Photonics Milestone [finance.yahoo.com]
+  - ALAB Rides on Strong Demand for PCIe Solution: A Sign for More Upside? [finance.yahoo.com]
+  - Credo Climbs 165% in a Year: Is the Stock Still Worth Buying? [finance.yahoo.com]
+  - Vishay Stock Plunges 23% in a Month: Should You Buy the Dip? [finance.yahoo.com]
+
+=== Applied Digital Corporation (APLD) [close] ===
+Price: $32.29  (+0.85, +2.70%)
+Market cap: $9,227,498,496
+Analyst 12-mo target: $73.36 avg (range $40.00-$106.00, 11 analysts, strong_buy)
+News sentiment: positive (score 0.18)
+Bullish driver: Why Penguin Solutions May Be the Smartest AI Infrastructure Stock [marketbeat.com] (score +0.691)
+Bearish driver: 1 Mid-Cap Stock on Our Watchlist and 2 We Ignore [finance.yahoo.com] (score -0.361)
+Recent headlines:
+  - 1 Mid-Cap Stock on Our Watchlist and 2 We Ignore [finance.yahoo.com]
+  - Why Penguin Solutions May Be the Smartest AI Infrastructure Stock [marketbeat.com]
+  - Is Applied Digital’s (APLD) New 175 MW AI Campus Milestone Redefining Its Core Infrastructure Story? [finance.yahoo.com]
+  - TeraWulf, Anthropic Sign $19 Billion Data Center Lease. Neocloud Stocks Soar. [finance.yahoo.com]
+  - Wall Street Still Loves Applied Digital (APLD) Stock Despite The Selloff, Here’s Why [finance.yahoo.com]
+
+=== Gold (GC=F) [close] ===
+Price: $4130.8  (+59.90, +1.47%)
+
+=== Silver (SI=F) [close] ===
+Price: $60.3  (+2.14, +3.67%)
+
+=== Daily movers (2026-07-09) ===
+Bullish: JNJ, HUBS, OKLO, UMAC, LEU, UEC, SNAP, KO, BRK-B, ACN
+Bearish: HD, CRM, RIOT, SERV, WSM, RBLX, DKNG, DASH, MARA, CRWD

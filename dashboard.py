@@ -31,6 +31,10 @@ st.markdown(
     div[data-testid="stButton"] button {
         border-radius: 6px;
     }
+    div[data-testid="stImage"] {
+        display: flex;
+        justify-content: center;
+    }
     hr { margin: 2.2rem 0 1.4rem 0; }
     </style>
     """,
@@ -150,14 +154,18 @@ def suggest_tickers(searchterm: str) -> list:
 
 
 # ---- Hero ----
-title_col, refresh_col = st.columns([5, 1])
-with title_col:
-    st.image(LOGO_FILE, width=260)
-    st.caption("Live snapshot + logged history. Data refreshes at most every 5 minutes.")
+_, refresh_col = st.columns([6, 1])
 with refresh_col:
-    st.write("")
     if st.button("Refresh now", icon=":material/refresh:"):
         st.cache_data.clear()
+
+st.image(LOGO_FILE, width=280)
+st.markdown(
+    "<p style='text-align:center; color:#6B7280; margin-top:-0.8rem;'>"
+    "Live snapshot + logged history. Data refreshes at most every 5 minutes."
+    "</p>",
+    unsafe_allow_html=True,
+)
 
 # ---- Search ----
 st.header(":material/search: Search any stock")

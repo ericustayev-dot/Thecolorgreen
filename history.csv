@@ -42,3 +42,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-09T15:27:04+00:00,manual,MRVL,247.31,6.73,0.104,positive,"Micron, Sandisk, Marvell stocks jump, leading chip sector gains"
 2026-07-09T15:27:04+00:00,manual,APLD,32.85,4.48,0.042,neutral,"Wall Street Still Loves Applied Digital (APLD) Stock Despite The Selloff, Here’s Why"
 2026-07-09T12:00:00+00:00,manual,AAPL,314.8,0.45,0.047,neutral,Apple's $30B Broadcom Bet: Best Tech ETFs to Buy Right Now
+2026-07-09T20:05:01+00:00,close,AAPL,316.22,0.9,0.059,positive,"Luxshare Raises $3.1 Billion, Shares Slip in Hong Kong Debut"
+2026-07-09T20:05:01+00:00,close,TSLA,406.55,3.17,0.312,positive,Is Tesla (TSLA) One of the Best QQQ Stocks to Invest in?
+2026-07-09T20:05:01+00:00,close,NVDA,202.78,-0.66,0.203,positive,NVIDIA (NVDA) Integrates Isaac AI Tools into Hugging Face LeRobot
+2026-07-09T20:05:01+00:00,close,URG,1.33,1.92,0.056,positive,"Noble Plains Uranium Completes Shirley Central Historical Drill Database, Unlocking 341 Uranium Intercepts"
+2026-07-09T20:05:01+00:00,close,LEU,173.62,4.3,0.43,positive,Centrus Energy (LEU) Could Be 71% Undervalued Following Its DOE Contract Win
+2026-07-09T20:05:01+00:00,close,CCJ,95.75,1.08,0.085,positive,Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push?
+2026-07-09T20:05:01+00:00,close,LUNR,16.9,-0.71,0.307,positive,"Craig-Hallum says Intuitive Machines, Inc. (LUNR), Firefly NASA awards in line with expectations"
+2026-07-09T20:05:01+00:00,close,OUST,47.53,9.49,0.109,positive,How Ouster's REV8 BABA Compliance Boosts Its Long-Term Outlook
+2026-07-09T20:05:01+00:00,close,MBLY,9.53,4.27,0.275,positive,CYD or MBLY: Which Is the Better Value Stock Right Now?
+2026-07-09T20:05:01+00:00,close,SYM,43.15,3.5,0.125,positive,Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity?
+2026-07-09T20:05:01+00:00,close,INTU,273.38,0.47,0.088,positive,Intuit Inc. (INTU) is Attracting Investor Attention: Here is What You Should Know
+2026-07-09T20:05:01+00:00,close,CBRS,198.53,9.25,0.2,positive,Sector Update: Tech Stocks Gain Late Afternoon
+2026-07-09T20:05:01+00:00,close,SPCX,152.16,2.6,0.111,positive,Elon Musk's No. 2 just gave 2 million kids 1 share of SpaceX each — here's what it could be worth when they're adults
+2026-07-09T20:05:01+00:00,close,IONQ,44.75,-0.73,0.24,positive,IonQ (IONQ) Expands Into Quantum Cybersecurity And Space Based Geospatial Intelligence
+2026-07-09T20:05:01+00:00,close,SERV,6.04,2.55,-0.076,negative,Serve Robotics (SERV) Stock Trades At A Discount On Book Value But Broader Checks Look Weak
+2026-07-09T20:05:01+00:00,close,UMAC,20.73,0.53,0.101,positive,DZYNE Buyout Sparks Ondas Stock Rally: More Gains Ahead?
+2026-07-09T20:05:01+00:00,close,SNOW,267.51,2.37,0.272,positive,Cognizant Strengthens AI Portfolio Through Google Cloud Partnership
+2026-07-09T20:05:01+00:00,close,NOW,108.83,0.97,0.033,neutral,UiPath's Valuation Looks Attractive After the Recent Pullback
+2026-07-09T20:05:01+00:00,close,ARKO,7.97,-1.48,0.094,positive,Consumer Confidence Improves but Economic Woes Continue: 4 Safe Picks
+2026-07-09T20:05:01+00:00,close,ISRG,411.55,-0.86,0.476,positive,Piper Sandler (PIPR) Stock Looks Strong On Returns Yet Above Fair Value
+2026-07-09T20:05:01+00:00,close,TMUS,181.48,0.74,-0.078,negative,"How SpaceX Spending Spree Could Threaten AT&T, Verizon, T-Mobile"
+2026-07-09T20:05:01+00:00,close,UBER,74.35,1.01,0.15,positive,Will Gross Booking Strength Give a Boost to Uber's Results in Q2?
+2026-07-09T20:05:01+00:00,close,PLTR,129.04,-2.41,-0.034,neutral,Palantir: Khan contract ban will cut Met police jobs
+2026-07-09T20:05:01+00:00,close,AMR,150.0,-0.64,0.171,positive,Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost
+2026-07-09T20:05:01+00:00,close,LAC,3.56,-0.56,0.043,neutral,"Thomas Massie Says Republicans Decry Communist 'Involvement' In Democratic Party, But Look Other Way As Trump Nationalizes 'Ownership' In Intel, US Steel"
+2026-07-09T20:05:01+00:00,close,MP,51.66,-2.52,0.325,positive,Is MP Materials Corp. (MP) A Good Stock To Buy Now?
+2026-07-09T20:05:01+00:00,close,UEC,10.16,2.37,0.413,positive,Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value
+2026-07-09T20:05:01+00:00,close,OKLO,49.28,4.23,0.562,positive,"EnerCom Announces Liberty Energy as a Keynote Speaker at the 31st Annual EnerCom Denver- The Energy Investment Conference, August 17-19, 2026, in Denver, Colorado"
+2026-07-09T20:05:01+00:00,close,UUUU,13.48,2.55,0.222,positive,Rare Earth Talent Crunch Could Slow US Supply Chain Rebuild
+2026-07-09T20:05:01+00:00,close,RTX,195.2,0.15,0.088,positive,3 Aerospace-Defense Stocks to Buy Amid Strong Industry Tailwinds
+2026-07-09T20:05:01+00:00,close,AMZN,247.04,1.4,0.259,positive,"Icelandirect Earns SSCI Certification, Strengthening Its Ability to Serve Brands Selling Across Major Retail Channels"
+2026-07-09T20:05:01+00:00,close,AMD,546.72,5.66,0.24,positive,Goldman Sachs sees AMD entering earnings with 1 powerful advantage
+2026-07-09T20:05:01+00:00,close,META,631.48,4.7,0.111,positive,Sector Update: Tech Stocks Gain Late Afternoon
+2026-07-09T20:05:01+00:00,close,AVGO,401.11,3.2,0.14,positive,$35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances
+2026-07-09T20:05:01+00:00,close,MRVL,243.27,4.99,0.242,positive,ALAB Rides on Strong Demand for PCIe Solution: A Sign for More Upside?
+2026-07-09T20:05:01+00:00,close,APLD,32.29,2.7,0.18,positive,Why Penguin Solutions May Be the Smartest AI Infrastructure Stock
