@@ -3,52 +3,12 @@ English summary of what each one is about) and earnings dates/results.
 This is not a push notification - it's a dedicated page that shows what's
 new whenever you visit."""
 
-import os
-
 import streamlit as st
 
 from main import load_watchlist, WATCHLIST_FILE
 from cached import cached_stock_report, cached_earnings_summary
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_ROOT = os.path.dirname(BASE_DIR)
-LOGO_FILE = os.path.join(PROJECT_ROOT, "logo_transparent.png")
-FAVICON_FILE = os.path.join(PROJECT_ROOT, "favicon.png")
-
-st.set_page_config(page_title="The Color Green - Alerts", page_icon=FAVICON_FILE, layout="wide")
-
-st.markdown(
-    """
-    <style>
-    .block-container {
-        padding-top: 2rem !important;
-        max-width: 1200px !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
-    div[data-testid="stImage"] {
-        margin-left: auto;
-        margin-right: auto;
-        width: fit-content;
-    }
-    div[data-testid="stImage"] img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    div[data-testid="stVerticalBlockBorderWrapper"] {
-        border-radius: 10px;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-logo_left, logo_mid, logo_right = st.columns([1, 1, 1])
-with logo_mid:
-    st.image(LOGO_FILE, width="stretch")
-
-st.header(":material/notifications: Alerts")
+st.header(":material/notifications: Notifications")
 st.caption("Headlines and earnings for your watchlist only. This page refreshes when you visit it - there's no push notification, since that would need email or browser setup this project doesn't have yet.")
 
 if st.button("Refresh now", icon=":material/refresh:"):

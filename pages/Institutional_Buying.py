@@ -3,49 +3,9 @@ quarterly SEC Form 13F filings. Separate page (left sidebar) since this
 data behaves very differently from the rest of the site - it's always
 weeks-to-months old by law, not live."""
 
-import os
-
 import streamlit as st
 
 from institutional import load_previous, compute_all_institutional_activity
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_ROOT = os.path.dirname(BASE_DIR)
-LOGO_FILE = os.path.join(PROJECT_ROOT, "logo_transparent.png")
-FAVICON_FILE = os.path.join(PROJECT_ROOT, "favicon.png")
-
-st.set_page_config(page_title="The Color Green - Institutional Buying", page_icon=FAVICON_FILE, layout="wide")
-
-st.markdown(
-    """
-    <style>
-    .block-container {
-        padding-top: 2rem !important;
-        max-width: 1200px !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
-    div[data-testid="stImage"] {
-        margin-left: auto;
-        margin-right: auto;
-        width: fit-content;
-    }
-    div[data-testid="stImage"] img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    div[data-testid="stVerticalBlockBorderWrapper"] {
-        border-radius: 10px;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-logo_left, logo_mid, logo_right = st.columns([1, 1, 1])
-with logo_mid:
-    st.image(LOGO_FILE, width="stretch")
 
 st.header(":material/account_balance: Institutional buying")
 st.warning(
