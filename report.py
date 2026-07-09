@@ -5,7 +5,7 @@ the two don't duplicate the same fetch-and-combine logic."""
 from price_data import get_price_summary
 from news_data import get_recent_headlines
 from world_news import get_world_headlines
-from news_context import explain
+from news_context import explain, explain_stock_headline
 from sentiment import (
     score_headlines,
     average_sentiment,
@@ -19,6 +19,7 @@ from sentiment import (
 def build_stock_report(ticker: str) -> dict:
     price = get_price_summary(ticker)
     headlines = score_headlines(get_recent_headlines(ticker, limit=5))
+    headlines = [{**h, **explain_stock_headline(h["title"])} for h in headlines]
     sentiment = average_sentiment(headlines)
 
     return {

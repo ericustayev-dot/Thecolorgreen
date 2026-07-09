@@ -10,9 +10,8 @@ import streamlit as st
 from streamlit_searchbox import st_searchbox
 
 from main import load_watchlist, load_commodities, WATCHLIST_FILE, COMMODITIES_FILE, HISTORY_FILE, COMMODITIES_HISTORY_FILE, WORLD_NEWS_LOG_FILE
-from report import build_stock_report, build_commodity_report, build_world_news_report
-from search import search_tickers
 from movers import DAILY_MOVERS_FILE, classify_cap, compute_daily_movers
+from cached import cached_stock_report, cached_commodity_report, cached_world_news, cached_search
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LOGO_FILE = os.path.join(BASE_DIR, "logo_transparent.png")
@@ -55,26 +54,6 @@ st.markdown(
 )
 
 
-@st.cache_data(ttl=300)
-def cached_stock_report(ticker: str) -> dict:
-    return build_stock_report(ticker)
-
-
-@st.cache_data(ttl=300)
-def cached_commodity_report(ticker: str, label: str) -> dict:
-    return build_commodity_report(ticker, label)
-
-
-@st.cache_data(ttl=300)
-def cached_world_news() -> list:
-    return build_world_news_report(limit=5)
-
-
-@st.cache_data(ttl=300)
-def cached_search(query: str) -> list:
-    return search_tickers(query)
-
-
 CAP_LEVELS = {"mega": 4, "large": 3, "mid": 2, "small": 1}
 
 
@@ -106,15 +85,19 @@ def render_stock_card(ticker: str) -> None:
     st.write(f"Sentiment: **{sentiment['label']}** ({sentiment['average_score']:+.3f})")
     if bullish:
         st.success(f"Bullish driver: [{bullish['title']}]({bullish['link']}) ({bullish['source']})", icon=":material/trending_up:")
+        st.caption(f"{bullish['category']}: {bullish['explanation']}")
     if bearish:
         st.error(f"Bearish driver: [{bearish['title']}]({bearish['link']}) ({bearish['source']})", icon=":material/trending_down:")
+        st.caption(f"{bearish['category']}: {bearish['explanation']}")
 
     with st.expander(f"Positive headlines ({len(groups['positive'])})"):
         for h in groups["positive"]:
             st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
+            st.caption(f"{h['category']}: {h['explanation']}")
     with st.expander(f"Negative headlines ({len(groups['negative'])})"):
         for h in groups["negative"]:
             st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
+            st.caption(f"{h['category']}: {h['explanation']}")
 
 
 def load_csv(path: str) -> pd.DataFrame:
@@ -151,10 +134,14 @@ def render_mover_row(m: dict, direction: str) -> None:
         driver_title = m.get(f"{direction}_driver")
         driver_source = m.get(f"{direction}_driver_source")
         driver_link = m.get(f"{direction}_driver_link")
+        driver_category = m.get(f"{direction}_driver_category")
+        driver_explanation = m.get(f"{direction}_driver_explanation")
         if driver_title:
             box = st.success if direction == "bullish" else st.error
             icon = ":material/trending_up:" if direction == "bullish" else ":material/trending_down:"
             box(f"[{driver_title}]({driver_link}) ({driver_source})", icon=icon)
+            if driver_category:
+                st.caption(f"{driver_category}: {driver_explanation}")
 
         st.caption(f"{m['positive_headlines']} positive · {m['negative_headlines']} negative headlines")
 

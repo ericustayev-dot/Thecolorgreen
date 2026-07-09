@@ -80,9 +80,13 @@ def scan_universe(tickers: list[str]) -> list[dict]:
                 "bullish_driver": bullish["title"] if bullish else None,
                 "bullish_driver_source": bullish["source"] if bullish else None,
                 "bullish_driver_link": bullish["link"] if bullish else None,
+                "bullish_driver_category": bullish["category"] if bullish else None,
+                "bullish_driver_explanation": bullish["explanation"] if bullish else None,
                 "bearish_driver": bearish["title"] if bearish else None,
                 "bearish_driver_source": bearish["source"] if bearish else None,
                 "bearish_driver_link": bearish["link"] if bearish else None,
+                "bearish_driver_category": bearish["category"] if bearish else None,
+                "bearish_driver_explanation": bearish["explanation"] if bearish else None,
                 "positive_headlines": len(report["headline_groups"]["positive"]),
                 "negative_headlines": len(report["headline_groups"]["negative"]),
             })
