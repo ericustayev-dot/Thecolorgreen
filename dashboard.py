@@ -16,8 +16,9 @@ from movers import DAILY_MOVERS_FILE
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LOGO_FILE = os.path.join(BASE_DIR, "logo_transparent.png")
+FAVICON_FILE = os.path.join(BASE_DIR, "favicon.png")
 
-st.set_page_config(page_title="The Color Green", page_icon=":material/finance_mode:", layout="wide")
+st.set_page_config(page_title="The Color Green", page_icon=FAVICON_FILE, layout="wide")
 
 st.markdown(
     """
@@ -32,8 +33,14 @@ st.markdown(
         border-radius: 6px;
     }
     div[data-testid="stImage"] {
-        display: flex;
-        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+    }
+    div[data-testid="stImage"] img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
     hr { margin: 2.2rem 0 1.4rem 0; }
     </style>
