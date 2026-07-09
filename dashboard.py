@@ -9,6 +9,7 @@ import streamlit as st
 
 from main import load_watchlist, load_commodities, WATCHLIST_FILE, COMMODITIES_FILE, HISTORY_FILE, COMMODITIES_HISTORY_FILE, WORLD_NEWS_LOG_FILE
 from report import build_stock_report, build_commodity_report, build_world_news_report
+from search import search_tickers
 
 st.set_page_config(page_title="Stock Tracker", layout="wide")
 
@@ -26,6 +27,43 @@ def cached_commodity_report(ticker: str, label: str) -> dict:
 @st.cache_data(ttl=300)
 def cached_world_news() -> list:
     return build_world_news_report(limit=5)
+
+
+@st.cache_data(ttl=300)
+def cached_search(query: str) -> list:
+    return search_tickers(query)
+
+
+def render_stock_card(ticker: str) -> None:
+    report = cached_stock_report(ticker)
+    price = report["price"]
+    sentiment = report["sentiment"]
+    bullish = report["bullish_driver"]
+    bearish = report["bearish_driver"]
+    groups = report["headline_groups"]
+
+    st.subheader(f"{price['name']} ({price['ticker']})")
+    st.metric("Price", f"${price['price']}", f"{price['change_pct']:+.2f}%")
+
+    if price["analyst_target_mean"]:
+        st.write(
+            f"Analyst 12-mo target: **\\${price['analyst_target_mean']:.2f}** "
+            f"(\\${price['analyst_target_low']:.2f}-\\${price['analyst_target_high']:.2f})"
+        )
+        st.caption(f"{price['analyst_count']} analysts · {price['analyst_recommendation']} · not a prediction, just published Wall Street consensus")
+
+    st.write(f"Sentiment: **{sentiment['label']}** ({sentiment['average_score']:+.3f})")
+    if bullish:
+        st.success(f"Bullish driver: {bullish['title']}", icon=":material/trending_up:")
+    if bearish:
+        st.error(f"Bearish driver: {bearish['title']}", icon=":material/trending_down:")
+
+    with st.expander(f"Positive headlines ({len(groups['positive'])})"):
+        for h in groups["positive"]:
+            st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
+    with st.expander(f"Negative headlines ({len(groups['negative'])})"):
+        for h in groups["negative"]:
+            st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
 
 
 def load_csv(path: str) -> pd.DataFrame:
@@ -47,6 +85,29 @@ def chunked(items: list, size: int):
         yield items[i:i + size]
 
 
+st.header("Search any stock")
+query = st.text_input("Search by ticker or company name (e.g. MSFT or Microsoft)")
+if query:
+    matches = cached_search(query)
+    if not matches:
+        st.warning("No matches found.")
+    else:
+        labels = [f"{m['symbol']} - {m['name']} ({m['exchange']}, {m['type']})" for m in matches]
+        choice = st.selectbox("Select a match", labels)
+        selected = matches[labels.index(choice)]["symbol"]
+
+        try:
+            render_stock_card(selected)
+            current_watchlist = load_watchlist(WATCHLIST_FILE)
+            if selected in current_watchlist:
+                st.caption(f"{selected} is already in your watchlist.")
+            elif st.button(f"Add {selected} to my watchlist"):
+                with open(WATCHLIST_FILE, "a") as f:
+                    f.write(f"{selected}\n")
+                st.success(f"Added {selected}. Refresh the page to see it under Watchlist below.")
+        except Exception as e:
+            st.error(f"{selected}: failed to load ({e})")
+
 st.header("Watchlist")
 tickers = load_watchlist(WATCHLIST_FILE)
 progress = st.progress(0.0, text="Loading watchlist...")
@@ -54,39 +115,10 @@ progress = st.progress(0.0, text="Loading watchlist...")
 for row_num, row in enumerate(chunked(tickers, 4)):
     cols = st.columns(4)
     for col, ticker in zip(cols, row):
-        try:
-            report = cached_stock_report(ticker)
-            price = report["price"]
-            sentiment = report["sentiment"]
-            bullish = report["bullish_driver"]
-            bearish = report["bearish_driver"]
-            groups = report["headline_groups"]
-
-            with col:
-                st.subheader(f"{price['name']} ({price['ticker']})")
-                st.metric("Price", f"${price['price']}", f"{price['change_pct']:+.2f}%")
-
-                if price["analyst_target_mean"]:
-                    st.write(
-                        f"Analyst 12-mo target: **\\${price['analyst_target_mean']:.2f}** "
-                        f"(\\${price['analyst_target_low']:.2f}-\\${price['analyst_target_high']:.2f})"
-                    )
-                    st.caption(f"{price['analyst_count']} analysts · {price['analyst_recommendation']} · not a prediction, just published Wall Street consensus")
-
-                st.write(f"Sentiment: **{sentiment['label']}** ({sentiment['average_score']:+.3f})")
-                if bullish:
-                    st.success(f"Bullish driver: {bullish['title']}", icon=":material/trending_up:")
-                if bearish:
-                    st.error(f"Bearish driver: {bearish['title']}", icon=":material/trending_down:")
-
-                with st.expander(f"Positive headlines ({len(groups['positive'])})"):
-                    for h in groups["positive"]:
-                        st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
-                with st.expander(f"Negative headlines ({len(groups['negative'])})"):
-                    for h in groups["negative"]:
-                        st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
-        except Exception as e:
-            with col:
+        with col:
+            try:
+                render_stock_card(ticker)
+            except Exception as e:
                 st.error(f"{ticker}: failed to load ({e})")
     progress.progress(min(1.0, ((row_num + 1) * 4) / len(tickers)), text=f"Loaded {min((row_num + 1) * 4, len(tickers))}/{len(tickers)}")
 
