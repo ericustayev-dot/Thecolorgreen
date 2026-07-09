@@ -175,7 +175,9 @@ logo_left, logo_mid, logo_right = st.columns([1, 1, 1])
 with logo_mid:
     st.image(LOGO_FILE, width="stretch")
 st.markdown(
-    "<p style='text-align:center; color:#6B7280; margin-top:-0.8rem;'>"
+    "<p style='text-align:center; color:#2D6B40; margin-top:-0.8rem; "
+    "font-family: Georgia, \"Times New Roman\", serif; font-style: italic; "
+    "font-size: 1.2rem; letter-spacing: 0.3px;'>"
     "The intelligence layer for global markets"
     "</p>",
     unsafe_allow_html=True,
