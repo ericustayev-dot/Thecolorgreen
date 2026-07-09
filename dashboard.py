@@ -61,9 +61,19 @@ st.markdown(
     }
     section[data-testid="stSidebar"] li div a[aria-current="page"] {
         background-color: #2D6B40 !important;
+        background-image: none !important;
+        box-shadow: none !important;
+        filter: none !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        text-shadow: none !important;
         color: #FFFFFF !important;
     }
-    section[data-testid="stSidebar"] li div a[aria-current="page"] span {
+    section[data-testid="stSidebar"] li div a[aria-current="page"] * {
+        background: transparent !important;
+        box-shadow: none !important;
+        filter: none !important;
+        text-shadow: none !important;
         color: #FFFFFF !important;
     }
     </style>
