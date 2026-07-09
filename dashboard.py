@@ -171,7 +171,9 @@ with refresh_col:
     if st.button("Refresh now", icon=":material/refresh:"):
         st.cache_data.clear()
 
-st.image(LOGO_FILE, width=280)
+logo_left, logo_mid, logo_right = st.columns([1, 1, 1])
+with logo_mid:
+    st.image(LOGO_FILE, width="stretch")
 st.markdown(
     "<p style='text-align:center; color:#6B7280; margin-top:-0.8rem;'>"
     "Live snapshot + logged history. Data refreshes at most every 5 minutes."
