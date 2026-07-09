@@ -1,6 +1,6 @@
-yfinance
-feedparser
-vaderSentiment
-streamlit
-pandas
-streamlit-searchbox
+yfinance==1.2.0
+feedparser==6.0.12
+vaderSentiment==3.3.2
+streamlit==1.50.0
+pandas==2.3.3
+streamlit-searchbox==0.1.23

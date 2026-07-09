@@ -23,7 +23,12 @@ st.set_page_config(page_title="The Color Green", page_icon=FAVICON_FILE, layout=
 st.markdown(
     """
     <style>
-    .block-container { padding-top: 2rem; max-width: 1200px; margin-left: auto; margin-right: auto; }
+    .block-container {
+        padding-top: 2rem !important;
+        max-width: 1200px !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
     h1 { letter-spacing: -0.5px; }
     div[data-testid="stMetricValue"] { font-size: 1.6rem; }
     div[data-testid="stVerticalBlockBorderWrapper"] {
