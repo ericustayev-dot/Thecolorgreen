@@ -43,5 +43,16 @@ jobs:
           git config user.name "stock-tracker-bot"
           git config user.email "actions@github.com"
           git add history.csv commodities_history.csv world_news_log.csv daily_movers.json
-          git diff --cached --quiet || git commit -m "Update tracker data (${{ steps.session.outputs.label }})"
+          git diff --cached --quiet && exit 0
+          git commit -m "Update tracker data (${{ steps.session.outputs.label }})"
+          # Retry a few times in case someone else pushed while this run was working -
+          # rebase onto the latest remote state and try again rather than failing outright.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt), rebasing onto latest origin/main..."
+            git fetch origin main
+            git rebase origin/main
+          done
           git push
