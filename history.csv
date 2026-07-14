@@ -294,3 +294,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-14T17:44:17+00:00,open,AVGO,393.01,2.33,0.244,positive,"This chipmaker ""remains a core AI winner and a close #2 behind NVDA"": MS"
 2026-07-14T17:44:17+00:00,open,MRVL,223.34,2.67,0.064,positive,NVIDIA's AI Partnerships Expand: Can This Keep NVDA Ahead of Rivals?
 2026-07-14T17:44:17+00:00,open,APLD,28.05,-2.74,0.234,positive,Why Penguin Solutions May Be the Smartest AI Infrastructure Stock
+2026-07-14T23:15:52+00:00,close,AAPL,314.86,-0.77,0.117,positive,"Broadcom Inc. (AVGO) Agreement a Strategic Positive for Apple, says Evercore ISI"
+2026-07-14T23:15:52+00:00,close,TSLA,396.18,0.36,0.294,positive,Three Price Target Boosts Can’t Help Tesla Stock
+2026-07-14T23:15:52+00:00,close,NVDA,211.8,4.06,-0.005,neutral,"China plans to let top AI firms buy limited NVIDIA Corporation (NVDA) H200 chips, the Information reports"
+2026-07-14T23:15:52+00:00,close,URG,1.34,4.69,0.056,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-14T23:15:52+00:00,close,LEU,159.38,2.13,0.356,positive,Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push?
+2026-07-14T23:15:52+00:00,close,CCJ,91.57,1.52,0.162,positive,UUUU vs. CCJ: Which Uranium Stock Offers the Better Opportunity Today?
+2026-07-14T23:15:52+00:00,close,LUNR,14.91,-1.58,0.191,positive,How Is Intuitive Machines Strengthening Its Lunar Mission Operations?
+2026-07-14T23:15:52+00:00,close,OUST,41.97,4.85,0.187,positive,Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside
+2026-07-14T23:15:52+00:00,close,MBLY,10.09,3.49,0.275,positive,CYD or MBLY: Which Is the Better Value Stock Right Now?
+2026-07-14T23:15:52+00:00,close,SYM,43.66,2.9,0.247,positive,Is Symbotic (SYM) One Of The Best Low-Priced AI Stocks To Buy Right Now?
+2026-07-14T23:15:52+00:00,close,INTU,282.43,-2.53,0.165,positive,IBM loses quarter of its value as tech giant’s shares plunge and profits falter
+2026-07-14T23:15:52+00:00,close,CBRS,203.81,-0.4,0.129,positive,Cerebras gains UBS confidence boost as European capacity expansion supports OpenAI deployment plans
+2026-07-14T23:15:52+00:00,close,SPCX,136.08,-2.2,0.156,positive,Jim Cramer Shares Morgan Stanley’s View Of Space Exploration Technologies Corp. (SPCX)
+2026-07-14T23:15:52+00:00,close,IONQ,39.29,1.05,0.343,positive,"HSBC downgrades IBM to Reduce, says ""synthetic IBM"" offers better value"
+2026-07-14T23:15:52+00:00,close,SERV,5.82,0.52,-0.076,negative,Serve Robotics (SERV) Stock Trades At A Discount On Book Value But Broader Checks Look Weak
+2026-07-14T23:15:52+00:00,close,UMAC,18.68,8.48,0.169,positive,DZYNE Buyout Sparks Ondas Stock Rally: More Gains Ahead?
+2026-07-14T23:15:52+00:00,close,SNOW,275.94,2.71,0.129,positive,Palantir's 104% U.S. Revenue Growth is the Key Number to Watch
+2026-07-14T23:15:52+00:00,close,NOW,104.85,-5.76,-0.092,negative,The Detail in IBM’s Earnings Warning That Caused The Stock’s Worst Day Ever
+2026-07-14T23:15:52+00:00,close,ARKO,7.65,-5.56,0.353,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-14T23:15:52+00:00,close,ISRG,379.5,-6.78,0.202,positive,Intuitive Surgical (ISRG) Stock Looks Close To Fair Value Today
+2026-07-14T23:15:52+00:00,close,TMUS,187.13,-0.68,-0.011,neutral,"Bernstein Cuts AT&T, Verizon, T-Mobile Price Targets Amid Starlink Threat"
+2026-07-14T23:15:52+00:00,close,UBER,72.08,-2.94,0.259,positive,Uber (UBER) Eyes Delivery Hero Deal To Expand Its European Delivery Business
+2026-07-14T23:15:52+00:00,close,PLTR,133.72,2.83,0.168,positive,Palantir CEO Warns AI Could Create 'Unimaginable Wealth' For Tech Biggest Winners
+2026-07-14T23:15:52+00:00,close,AMR,153.94,3.52,0.171,positive,Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost
+2026-07-14T23:15:52+00:00,close,LAC,3.15,0.32,-0.014,neutral,Lithium Americas Corp. (LAC) Stock Drops Despite Market Gains: Important Facts to Note
+2026-07-14T23:15:52+00:00,close,MP,50.79,2.61,0.284,positive,Can Energy Fuels' Liquidity Position Support Its Expansion Plans?
+2026-07-14T23:15:52+00:00,close,UEC,10.39,3.18,0.497,positive,Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value
+2026-07-14T23:15:52+00:00,close,OKLO,46.24,0.94,0.255,positive,"EnerCom Announces Liberty Energy as a Keynote Speaker at the 31st Annual EnerCom Denver- The Energy Investment Conference, August 17-19, 2026, in Denver, Colorado"
+2026-07-14T23:15:52+00:00,close,UUUU,13.23,1.38,0.475,positive,UUUU vs. CCJ: Which Uranium Stock Offers the Better Opportunity Today?
+2026-07-14T23:15:52+00:00,close,RTX,193.39,-1.53,0.225,positive,Can L3Harris Benefit From Ongoing Defense Acquisition Reform?
+2026-07-14T23:15:52+00:00,close,AMZN,247.49,0.07,0.237,positive,Is Alphabet Inc. (GOOGL) Among the Ray Dalio Stock Portfolio: 10 Best Stocks to Buy?
+2026-07-14T23:15:52+00:00,close,AMD,548.13,2.57,-0.01,neutral,"Nvidia, Intel and Micron Rebound as Chip Stocks Shake Off War Fears"
+2026-07-14T23:15:52+00:00,close,META,661.04,0.66,-0.127,negative,Meta layoffs take disturbing turn in new lawsuit
+2026-07-14T23:15:52+00:00,close,AVGO,389.11,1.32,0.288,positive,"Broadcom Inc. (AVGO) Agreement a Strategic Positive for Apple, says Evercore ISI"
+2026-07-14T23:15:52+00:00,close,MRVL,222.44,2.26,0.038,neutral,NVIDIA's AI Partnerships Expand: Can This Keep NVDA Ahead of Rivals?
+2026-07-14T23:15:52+00:00,close,APLD,28.47,-1.28,0.234,positive,Why Penguin Solutions May Be the Smartest AI Infrastructure Stock
