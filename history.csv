@@ -402,3 +402,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-15T23:35:54+00:00,close,AVGO,394.28,1.33,0.155,positive,"[Latest] Global Value Stream Management Market Size/Share Worth USD 8.9 Billion by 2034 at a 12.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)"
 2026-07-15T23:35:54+00:00,close,MRVL,206.26,-7.27,0.087,positive,"MXL's Growth Story Tracks AI Optics, DOCSIS and Fiber Upgrades Ahead"
 2026-07-15T23:35:54+00:00,close,APLD,29.03,1.97,0.204,positive,"Google, Amazon Increase Data-Center Capacity Plans"
+2026-07-16T17:50:27+00:00,open,AAPL,332.2,1.44,-0.039,neutral,Big Tech Isn’t Doing Its Part to Offset Chip Weakness
+2026-07-16T17:50:27+00:00,open,TSLA,389.07,-1.37,0.068,positive,Elon Musk Says Government-Issued Universal High Income Checks Are Best Fix for AI Job Loss — ‘Everyone Can Have a Penthouse if They Want’
+2026-07-16T17:50:27+00:00,open,NVDA,206.57,-2.79,0.242,positive,"It's Not The Next Nvidia, But This Stock's Steady Climb Rewards Patient Investors"
+2026-07-16T17:50:27+00:00,open,URG,1.25,-4.92,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-16T17:50:27+00:00,open,LEU,146.56,-6.38,0.248,positive,Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push?
+2026-07-16T17:50:27+00:00,open,CCJ,86.89,-4.49,-0.025,neutral,Cameco Resolves Cigar Lake Disruption: Are 2026 Targets on Track?
+2026-07-16T17:50:27+00:00,open,LUNR,13.41,-9.7,0.099,positive,How Is Intuitive Machines Strengthening Its Lunar Mission Operations?
+2026-07-16T17:50:27+00:00,open,OUST,34.74,-8.45,0.147,positive,Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside
+2026-07-16T17:50:27+00:00,open,MBLY,8.98,-4.77,0.187,positive,CYD or MBLY: Which Is the Better Value Stock Right Now?
+2026-07-16T17:50:27+00:00,open,SYM,42.11,-1.24,0.247,positive,Is Symbotic (SYM) One Of The Best Low-Priced AI Stocks To Buy Right Now?
+2026-07-16T17:50:27+00:00,open,INTU,295.65,5.7,0.403,positive,"Is Intuit (INTU) a Solid Growth Stock? 3 Reasons to Think ""Yes"""
+2026-07-16T17:50:27+00:00,open,CBRS,180.66,-1.82,0.088,positive,Cerebras CEO Andrew Feldman Says Elon Musk Found a ‘Pretty Good Idea’ in Leasing SpaceXAI’s Unused Grok Capacity to Anthropic
+2026-07-16T17:50:27+00:00,open,SPCX,131.17,-3.03,0.011,neutral,SpaceX Shorts Gain $3.8B as Stock Slides
+2026-07-16T17:50:27+00:00,open,IONQ,34.73,-7.41,0.443,positive,Quantum Stocks Witness Correction: Why QUBT is the Best Buy Now
+2026-07-16T17:50:27+00:00,open,SERV,5.36,-6.78,0.038,neutral,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-16T17:50:27+00:00,open,UMAC,16.65,-10.08,0.257,positive,UMAC Bets on Organic Expansion for Sustainable Growth: Worth Buying?
+2026-07-16T17:50:27+00:00,open,SNOW,274.11,0.83,0.184,positive,Snowflake unveils $448 million pay plan for CEO tied to ambitious stock targets
+2026-07-16T17:50:27+00:00,open,NOW,104.61,-0.11,-0.051,negative,Roper Technologies (ROP) Reports Next Week: Wall Street Expects Earnings Growth
+2026-07-16T17:50:27+00:00,open,ARKO,7.87,2.21,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-16T17:50:27+00:00,open,ISRG,398.12,2.35,0.055,positive,"J&J Slipped On Its Report; Why It Bodes Well For Intuitive, Abbott, Others"
+2026-07-16T17:50:27+00:00,open,TMUS,193.34,3.05,0.15,positive,Exclusive: Truth Social to license its data to Wall Street
+2026-07-16T17:50:27+00:00,open,UBER,73.72,1.45,0.395,positive,Uber’s $14.8B Delivery Hero deal would nearly double its global footprint
+2026-07-16T17:50:27+00:00,open,PLTR,133.74,-0.02,-0.088,negative,Expanded SBA Fraud Push and New Alliances Might Change The Case For Investing In Palantir Technologies (PLTR)
+2026-07-16T17:50:27+00:00,open,AMR,146.85,-3.75,0.171,positive,Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost
+2026-07-16T17:50:27+00:00,open,LAC,2.95,-5.17,-0.014,neutral,Lithium Americas Corp. (LAC) Stock Drops Despite Market Gains: Important Facts to Note
+2026-07-16T17:50:27+00:00,open,MP,44.81,-9.39,-0.034,neutral,Is MP Stock a Buy Now or Too Pricey for Its Execution Risks?
+2026-07-16T17:50:27+00:00,open,UEC,9.54,-5.61,0.402,positive,Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value
+2026-07-16T17:50:27+00:00,open,OKLO,41.26,-9.7,0.357,positive,Oklo (OKLO) Stock May Be Overvalued On Book Value But Strong On Returns
+2026-07-16T17:50:27+00:00,open,UUUU,11.55,-8.84,0.121,positive,UUUU vs. CCJ: Which Uranium Stock Offers the Better Opportunity Today?
+2026-07-16T17:50:27+00:00,open,RTX,193.21,-1.37,0.117,positive,RTX (RTX) Reports Next Week: Wall Street Expects Earnings Growth
+2026-07-16T17:50:27+00:00,open,AMZN,256.02,0.42,0.149,positive,"Alphabet Set for Solid Quarterly Results on Cloud Strength, BofA Says"
+2026-07-16T17:50:27+00:00,open,AMD,493.34,-6.77,-0.073,negative,Taiwan Semi Plans Extra $100 Billion in U.S. Investment as It Fights Intel Challenge
+2026-07-16T17:50:27+00:00,open,META,668.59,-1.87,-0.089,negative,Big Tech Isn’t Doing Its Part to Offset Chip Weakness
+2026-07-16T17:50:27+00:00,open,AVGO,376.33,-4.55,0.228,positive,"Global Full-Stack Observability Services Market Size/Share Worth USD 35 Billion by 2034 at a 22.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)"
+2026-07-16T17:50:27+00:00,open,MRVL,186.74,-9.46,0.036,neutral,"Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know"
+2026-07-16T17:50:27+00:00,open,APLD,25.95,-10.59,0.261,positive,LITE vs. APLD: Which AI Infrastructure Stock Offers Better Growth?
