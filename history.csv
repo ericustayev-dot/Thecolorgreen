@@ -474,3 +474,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-16T23:14:45+00:00,close,AVGO,374.45,-5.03,0.145,positive,CNCF Strengthens Partnership with Broadcom as a Platinum Member to Advance AI-Ready Cloud Native Infrastructure
 2026-07-16T23:14:45+00:00,close,MRVL,188.3,-8.71,0.025,neutral,Marvel Biosciences Announces Private Placement for up to $3.0 Million
 2026-07-16T23:14:45+00:00,close,APLD,26.44,-8.92,0.19,positive,LITE vs. APLD: Which AI Infrastructure Stock Offers Better Growth?
+2026-07-17T17:42:05+00:00,open,AAPL,330.77,-0.75,0.016,neutral,Apple tops Nvidia as world's most valuable company as AI bets shift
+2026-07-17T17:42:05+00:00,open,TSLA,382.93,-2.08,-0.021,neutral,"Kevin O’Leary Says Tesla Stock Doesn’t Just Move With Earnings, It Moves With ‘Elon’s Tweets’ — One Post Swings It 10%. ‘Price You Pay For Growth’"
+2026-07-17T17:42:05+00:00,open,NVDA,205.31,-1.01,0.161,positive,Apple tops Nvidia as world's most valuable company as AI bets shift
+2026-07-17T17:42:05+00:00,open,URG,1.25,-0.4,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-17T17:42:05+00:00,open,LEU,155.3,5.6,0.281,positive,Can Uranium Energy Benefit From the U.S. Nuclear Fuel Push?
+2026-07-17T17:42:05+00:00,open,CCJ,86.08,-1.47,0.0,neutral,"America Wants a Uranium Supply Chain and an AI-Ready Reactor Fleet, and One Nasdaq Company Is Trying to Build Both at Once"
+2026-07-17T17:42:05+00:00,open,LUNR,13.93,3.65,0.099,positive,How Is Intuitive Machines Strengthening Its Lunar Mission Operations?
+2026-07-17T17:42:05+00:00,open,OUST,37.79,7.54,0.147,positive,Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside
+2026-07-17T17:42:05+00:00,open,MBLY,9.31,3.73,0.187,positive,CYD or MBLY: Which Is the Better Value Stock Right Now?
+2026-07-17T17:42:05+00:00,open,SYM,42.14,0.38,0.288,positive,Is Symbotic (SYM) One Of The Best Low-Priced AI Stocks To Buy Right Now?
+2026-07-17T17:42:05+00:00,open,INTU,292.96,-0.62,0.367,positive,"Is Intuit (INTU) a Solid Growth Stock? 3 Reasons to Think ""Yes"""
+2026-07-17T17:42:05+00:00,open,CBRS,173.58,-3.81,0.088,positive,Cerebras CEO Andrew Feldman Says Elon Musk Found a ‘Pretty Good Idea’ in Leasing SpaceXAI’s Unused Grok Capacity to Anthropic
+2026-07-17T17:42:05+00:00,open,SPCX,125.58,-4.22,-0.134,negative,Meta stock pares losses on report of AI computing deal talks
+2026-07-17T17:42:05+00:00,open,IONQ,35.42,0.91,0.347,positive,IonQ (IONQ) Stock Looks Above Fair Value After Strong Returns And Earnings Pressure
+2026-07-17T17:42:05+00:00,open,SERV,5.23,-0.76,0.038,neutral,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-17T17:42:05+00:00,open,UMAC,17.43,4.78,0.257,positive,UMAC Bets on Organic Expansion for Sustainable Growth: Worth Buying?
+2026-07-17T17:42:05+00:00,open,SNOW,269.13,-0.33,0.3,positive,"Snowflake CEO's Stock Award Another 'Positive' for AI Growth Strategy, RBC Says"
+2026-07-17T17:42:05+00:00,open,NOW,104.35,0.32,-0.136,negative,IBM 'did not adapt' and just lost $70B — is Big Tech (and your portfolio) in trouble? Protect your nest egg now
+2026-07-17T17:42:05+00:00,open,ARKO,7.93,-0.19,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-17T17:42:05+00:00,open,ISRG,348.91,-13.28,-0.198,negative,"Update: US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes"
+2026-07-17T17:42:05+00:00,open,TMUS,191.02,-0.95,0.105,positive,Exclusive: Truth Social to license its data to Wall Street
+2026-07-17T17:42:05+00:00,open,UBER,73.07,-1.32,0.266,positive,"Uber Technologies' Delivery Hero Deal Could Boost Growth, Profit, UBS Says"
+2026-07-17T17:42:05+00:00,open,PLTR,134.38,-0.05,-0.107,negative,Palantir co-founder Peter Thiel honoured with Axel Springer Award
+2026-07-17T17:42:05+00:00,open,AMR,143.1,-1.46,0.171,positive,Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost
+2026-07-17T17:42:05+00:00,open,LAC,3.0,2.05,-0.014,neutral,Lithium Americas Corp. (LAC) Stock Drops Despite Market Gains: Important Facts to Note
+2026-07-17T17:42:05+00:00,open,MP,46.0,1.19,-0.065,negative,Is MP Stock a Buy Now or Too Pricey for Its Execution Risks?
+2026-07-17T17:42:05+00:00,open,UEC,9.36,0.34,0.402,positive,Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value
+2026-07-17T17:42:05+00:00,open,OKLO,42.14,1.06,0.569,positive,Oklo (OKLO) Stock May Be Overvalued On Book Value But Strong On Returns
+2026-07-17T17:42:05+00:00,open,UUUU,11.73,0.47,0.121,positive,UUUU vs. CCJ: Which Uranium Stock Offers the Better Opportunity Today?
+2026-07-17T17:42:05+00:00,open,RTX,194.49,0.07,0.231,positive,The Bull Case For RTX (RTX) Could Change Following Major UK Training Win And AI Advances
+2026-07-17T17:42:05+00:00,open,AMZN,247.8,-0.84,0.147,positive,How To Profit From Amazon Stock Facing Big Price Swings With Earnings On Deck
+2026-07-17T17:42:05+00:00,open,AMD,503.45,0.5,0.18,positive,Can INTC's Google Cloud AI Deal Expansion Boost its Enterprise Growth?
+2026-07-17T17:42:05+00:00,open,META,649.3,-2.29,-0.103,negative,"Update: US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes"
+2026-07-17T17:42:05+00:00,open,AVGO,375.32,0.23,0.225,positive,Broadcom Legal Chief Sold Nearly $20 Million of Stock After Apple Partnership Boosted Shares
+2026-07-17T17:42:05+00:00,open,MRVL,192.18,2.06,0.102,positive,Credo's Free Cash Flow Soars: Can the Momentum Continue?
+2026-07-17T17:42:05+00:00,open,APLD,25.81,-2.4,0.155,positive,LITE vs. APLD: Which AI Infrastructure Stock Offers Better Growth?
