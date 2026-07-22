@@ -726,3 +726,38 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-22T17:53:38+00:00,open,AVGO,396.92,2.7,0.167,positive,Earnings Season Totally Hinges On Great Results From 5 Stocks
 2026-07-22T17:53:38+00:00,open,MRVL,212.65,2.25,0.351,positive,"Super Micro, ServiceNow, GE Vernova, and More Stocks That Explain Today’s Market"
 2026-07-22T17:53:38+00:00,open,APLD,30.22,0.57,0.179,positive,IREN's AI Pivot Gains Strong Momentum: Time to Buy or Hold the Stock?
+2026-07-22T23:34:33+00:00,close,AAPL,325.89,-0.56,-0.026,neutral,Apple Eyes AI Demand With Mac Updates
+2026-07-22T23:34:33+00:00,close,TSLA,374.01,-1.3,-0.039,neutral,"S&P 500, Nasdaq close lower ahead of technology earnings"
+2026-07-22T23:34:33+00:00,close,NVDA,212.06,2.3,0.169,positive,"This Chinese AI Model Became So Popular It Stopped Taking New Users— and Analysts Say Nvidia, Micron Could Be the Real Winners"
+2026-07-22T23:34:33+00:00,close,URG,1.3,-1.52,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-22T23:34:33+00:00,close,LEU,174.28,1.78,0.156,positive,Oklo or Centrus Energy: Truist Picks the Top Nuclear Stock to Buy
+2026-07-22T23:34:33+00:00,close,CCJ,90.37,1.91,0.126,positive,"New Era Energy & Digital, Inc. (NUAI) Surges 14.8%: Is This an Indication of Further Gains?"
+2026-07-22T23:34:33+00:00,close,LUNR,14.09,-3.76,0.099,positive,How Is Intuitive Machines Strengthening Its Lunar Mission Operations?
+2026-07-22T23:34:33+00:00,close,OUST,38.86,-4.47,0.088,positive,Ouster Vs. Hesai: Which Physical AI Stock is a Better Bet Now?
+2026-07-22T23:34:33+00:00,close,MBLY,8.78,-2.34,0.131,positive,Mobileye Global (MBLY) On Stellantis ADAS Deal Is The Undervalued Narrative Starting To Fit
+2026-07-22T23:34:33+00:00,close,SYM,42.46,-0.93,0.298,positive,YMM or SYM: Which Is the Better Value Stock Right Now?
+2026-07-22T23:34:33+00:00,close,INTU,284.47,-1.88,0.351,positive,"Intuit's Competitive Moat Remains Strong Despite Near-Term Pressure, Morgan Stanley Says"
+2026-07-22T23:34:33+00:00,close,CBRS,209.8,0.59,0.077,positive,CrowdStrike Just Gave Cerebras a Big Vote of Confidence
+2026-07-22T23:34:33+00:00,close,SPCX,115.26,-6.7,-0.061,negative,Tesla Earnings Miss Despite Strong EV Sales; Elon Musk Preaches Robotaxi Caution
+2026-07-22T23:34:33+00:00,close,SERV,5.31,-1.3,0.19,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-22T23:34:33+00:00,close,UMAC,19.67,0.72,0.176,positive,UMAC Bets on Organic Expansion for Sustainable Growth: Worth Buying?
+2026-07-22T23:34:33+00:00,close,SNOW,267.8,-1.45,0.177,positive,Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era
+2026-07-22T23:34:33+00:00,close,NOW,95.46,-6.47,0.121,positive,"ServiceNow buys 5% of BusinessNext, values Indian software firm at $700 million"
+2026-07-22T23:34:33+00:00,close,ARKO,8.18,3.15,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-22T23:34:33+00:00,close,ISRG,340.69,-2.68,0.303,positive,Intuitive Surgical (ISRG) Stock Sees Fair Value Cut As Analysts Trim Growth Views
+2026-07-22T23:34:33+00:00,close,TMUS,190.94,0.09,-0.032,neutral,AT&T Reports Greater-than-Expected Mobile Subscriber Gains
+2026-07-22T23:34:33+00:00,close,UBER,70.33,-1.71,0.125,positive,Sunteck Realty Ltd (BOM:512179) Q1 2027 Earnings Call Highlights: Strong Growth in Pre-sales ...
+2026-07-22T23:34:33+00:00,close,PLTR,124.57,-6.1,0.282,positive,3 Reasons Investors Love Palantir Technologies (PLTR)
+2026-07-22T23:34:33+00:00,close,AMR,146.27,2.98,0.057,positive,Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost
+2026-07-22T23:34:33+00:00,close,LAC,2.99,-2.29,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-22T23:34:33+00:00,close,MP,45.68,-1.34,0.161,positive,MP Materials (MP) Stock May Still Look Fully Valued After Export Control News
+2026-07-22T23:34:33+00:00,close,UEC,9.73,1.88,0.402,positive,Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value
+2026-07-22T23:34:33+00:00,close,OKLO,44.5,0.84,-0.077,negative,"These tech stocks look cheap, but history offers a warning sign"
+2026-07-22T23:34:33+00:00,close,UUUU,12.31,-0.32,0.117,positive,Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know
+2026-07-22T23:34:33+00:00,close,RTX,194.88,0.62,-0.055,negative,Are Aerospace Stocks Lagging  Astronics (ATRO) This Year?
+2026-07-22T23:34:33+00:00,close,AMZN,244.85,-1.09,-0.051,negative,Molina Healthcare Earnings Beat Estimates. The Medicaid Insurer Is Confronting Investor Doubts.
+2026-07-22T23:34:33+00:00,close,AMD,552.33,1.45,0.094,positive,AMD inks blockbuster multi-billion-dollar Anthropic AI deal
+2026-07-22T23:34:33+00:00,close,META,627.17,-2.58,0.073,positive,Meta Platforms (META): ‘Dead Money’ or Best Cheap AI Stock?  – Retail Investors Debate
+2026-07-22T23:34:33+00:00,close,AVGO,396.81,2.67,0.047,neutral,Earnings Season Totally Hinges On Great Results From 5 Stocks
+2026-07-22T23:34:33+00:00,close,MRVL,210.99,1.46,0.36,positive,"Super Micro, ServiceNow, GE Vernova, Pegasystems, and More Stocks That Explain Today’s Market"
+2026-07-22T23:34:33+00:00,close,APLD,30.08,0.1,0.133,positive,IREN's AI Pivot Gains Strong Momentum: Time to Buy or Hold the Stock?
