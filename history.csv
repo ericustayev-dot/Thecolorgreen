@@ -761,3 +761,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-22T23:34:33+00:00,close,AVGO,396.81,2.67,0.047,neutral,Earnings Season Totally Hinges On Great Results From 5 Stocks
 2026-07-22T23:34:33+00:00,close,MRVL,210.99,1.46,0.36,positive,"Super Micro, ServiceNow, GE Vernova, Pegasystems, and More Stocks That Explain Today’s Market"
 2026-07-22T23:34:33+00:00,close,APLD,30.08,0.1,0.133,positive,IREN's AI Pivot Gains Strong Momentum: Time to Buy or Hold the Stock?
+2026-07-23T18:03:04+00:00,open,AAPL,320.54,-1.64,0.148,positive,Apple Tests Smarter Shopping Experience
+2026-07-23T18:03:04+00:00,open,TSLA,320.98,-14.18,-0.099,negative,"Update: US Equity Indexes Sink as Houthis Target Saudi Tankers in Red Sea, Mag-7 Stalwarts Disappoint"
+2026-07-23T18:03:04+00:00,open,NVDA,208.91,-1.49,-0.021,neutral,Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks
+2026-07-23T18:03:04+00:00,open,URG,1.29,-0.38,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-23T18:03:04+00:00,open,LEU,169.31,-2.85,0.156,positive,Oklo or Centrus Energy: Truist Picks the Top Nuclear Stock to Buy
+2026-07-23T18:03:04+00:00,open,CCJ,89.43,-1.05,0.126,positive,"New Era Energy & Digital, Inc. (NUAI) Surges 14.8%: Is This an Indication of Further Gains?"
+2026-07-23T18:03:04+00:00,open,LUNR,13.77,-2.25,0.187,positive,How Is Intuitive Machines Strengthening Its Lunar Mission Operations?
+2026-07-23T18:03:04+00:00,open,OUST,38.29,-1.47,0.22,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-23T18:03:04+00:00,open,MBLY,7.3,-16.86,0.102,positive,Mobileye Global (MBLY) Tops Q2 Earnings and Revenue Estimates
+2026-07-23T18:03:04+00:00,open,SYM,40.39,-4.86,0.266,positive,YMM or SYM: Which Is the Better Value Stock Right Now?
+2026-07-23T18:03:04+00:00,open,INTU,280.67,-1.33,0.024,neutral,Generative AI Disruption Fears Hurt Intuit (INTU)
+2026-07-23T18:03:04+00:00,open,CBRS,219.26,4.51,0.132,positive,CrowdStrike partners with Cerebras to accelerate AI security response
+2026-07-23T18:03:04+00:00,open,SPCX,116.78,1.32,-0.096,negative,"SpaceX is a Warning For Crypto and Tech Stocks, Peter Schiff Says"
+2026-07-23T18:03:04+00:00,open,IONQ,34.29,-1.11,0.117,positive,Can IONQ's Profitability and Execution Challenges Weigh on Growth?
+2026-07-23T18:03:04+00:00,open,SERV,5.07,-4.43,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-23T18:03:04+00:00,open,UMAC,21.14,7.45,0.176,positive,UMAC Bets on Organic Expansion for Sustainable Growth: Worth Buying?
+2026-07-23T18:03:04+00:00,open,SNOW,262.57,-1.95,0.109,positive,BreachRx Research: Modern Cyberattacks Create Hundreds of Simultaneous Reporting Obligations Before the Facts are Known
+2026-07-23T18:03:04+00:00,open,NOW,93.56,-1.99,0.357,positive,"ServiceNow's 'Strong' Q2 Supported by Rising Contract Revenue Growth, RBC Capital Markets Says"
+2026-07-23T18:03:04+00:00,open,ARKO,7.97,-2.57,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-23T18:03:04+00:00,open,ISRG,331.48,-2.7,0.396,positive,Intuitive Shares Vision for an AI-Enabled Future of Healthcare
+2026-07-23T18:03:04+00:00,open,TMUS,175.43,-8.13,0.249,positive,TMUS Q2 Earnings Top Estimates on Strong Service Revenue Growth
+2026-07-23T18:03:04+00:00,open,UBER,68.85,-2.11,0.068,positive,"OpenSearchCon North America 2026 to Showcase Five Years of Innovation Powering Enterprise Search, Observability and Analytics"
+2026-07-23T18:03:04+00:00,open,PLTR,122.14,-1.95,0.361,positive,ServiceNow Stock Surges Post-Earnings as Strong Backlog Eases AI Growth Fears—For Now
+2026-07-23T18:03:04+00:00,open,AMR,143.13,-2.15,0.057,positive,Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost
+2026-07-23T18:03:04+00:00,open,LAC,2.91,-2.51,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-23T18:03:04+00:00,open,MP,44.35,-2.91,0.161,positive,MP Materials (MP) Stock May Still Look Fully Valued After Export Control News
+2026-07-23T18:03:04+00:00,open,UEC,9.77,0.41,0.402,positive,Uranium Energy (UEC) Stock Looks Strong On Returns But Rich On Book Value
+2026-07-23T18:03:04+00:00,open,OKLO,43.42,-2.43,0.004,neutral,"These tech stocks look cheap, but history offers a warning sign"
+2026-07-23T18:03:04+00:00,open,UUUU,12.02,-2.32,0.264,positive,Energy Fuels (TSX:EFR) Faces A Valuation Test Following The Rare Earths Growth Story
+2026-07-23T18:03:04+00:00,open,RTX,207.99,6.73,0.123,positive,"RTX, Lockheed Martin Raise Outlook Amid Strong Second Quarter, Record Backlog"
+2026-07-23T18:03:04+00:00,open,AMZN,234.23,-4.34,0.176,positive,"AT&T 'Strong' Wireless Execution Keeps Thesis Intact, RBC Says"
+2026-07-23T18:03:04+00:00,open,AMD,533.93,-3.33,0.377,positive,Why ARM's AI Opportunity Could Extend Beyond Market Hype
+2026-07-23T18:03:04+00:00,open,META,606.02,-3.37,0.015,neutral,"Google, Amazon, Meta, & Microsoft will spend 'unprecedented' $1T on AI capex in 2027: Analyst"
+2026-07-23T18:03:04+00:00,open,AVGO,390.27,-1.65,0.026,neutral,Is Qualcomm Stock a Smart Buy Before Q3 Earnings Release?
+2026-07-23T18:03:04+00:00,open,MRVL,206.68,-2.04,0.253,positive,Lumentum and 5 Other Stocks Set to Win From Big Tech’s AI Spending Spree
+2026-07-23T18:03:04+00:00,open,APLD,29.92,-0.55,0.015,neutral,"Autodesk initiated, Norwegian Cruise downgrade: Wall Street's top analyst calls"
