@@ -869,3 +869,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-24T19:02:59+00:00,open,AVGO,380.67,-3.01,0.148,positive,"Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners"
 2026-07-24T19:02:59+00:00,open,MRVL,193.72,-7.45,0.237,positive,Lumentum and 5 Other Stocks Set to Win From Big Tech’s AI Spending Spree
 2026-07-24T19:02:59+00:00,open,APLD,27.17,-9.1,0.0,neutral,Earnings Calendar and Analysis for This Week (July 27-31)
+2026-07-24T23:41:51+00:00,close,AAPL,333.02,3.53,0.084,positive,Rotation Hits Magnificent 7: How Strong Ratings Sparked Apple Stock Swing Trade
+2026-07-24T23:41:51+00:00,close,TSLA,313.03,-2.08,-0.061,negative,Earnings Are Crushing It. Stocks Are Getting Crushed.
+2026-07-24T23:41:51+00:00,close,NVDA,206.84,-0.92,0.075,positive,Here’s Why Nebius Group N.V. (NBIS) Is a Speculative Growth Play Backed by Nvidia’s $2 Billion Investment
+2026-07-24T23:41:51+00:00,close,URG,1.22,-5.43,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-24T23:41:51+00:00,close,LEU,163.89,-4.03,0.088,positive,Oklo or Centrus Energy: Truist Picks the Top Nuclear Stock to Buy
+2026-07-24T23:41:51+00:00,close,CCJ,87.86,-1.65,0.056,positive,Trump’s Saudi Deal Spurs Watchdog Interest in Nuclear Settlement
+2026-07-24T23:41:51+00:00,close,LUNR,12.92,-5.76,0.132,positive,How Is Intuitive Machines Strengthening Its Lunar Mission Operations?
+2026-07-24T23:41:51+00:00,close,OUST,34.04,-9.68,0.22,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-24T23:41:51+00:00,close,MBLY,8.05,7.76,0.424,positive,Mobileye Global Inc (MBLY) Q2 2026 Earnings Call Highlights: Strong Profit Growth Amid Flat Revenue
+2026-07-24T23:41:51+00:00,close,SYM,40.15,-1.04,0.182,positive,YMM or SYM: Which Is the Better Value Stock Right Now?
+2026-07-24T23:41:51+00:00,close,INTU,296.33,5.26,-0.114,negative,Generative AI Disruption Fears Hurt Intuit (INTU)
+2026-07-24T23:41:51+00:00,close,CBRS,199.12,-9.49,0.123,positive,Can AMD Partnership Strengthen Cerebras' AI Infrastructure Leadership?
+2026-07-24T23:41:51+00:00,close,SPCX,115.07,-2.68,-0.109,negative,"Elon Musk Has Lost This Much Money as SpaceX, Tesla Stock Tank"
+2026-07-24T23:41:51+00:00,close,IONQ,32.84,-3.61,0.213,positive,"2 Quantum Stocks Set for Strong Q2 Earnings, Triple-Digit Price Target"
+2026-07-24T23:41:51+00:00,close,SERV,4.81,-4.56,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-24T23:41:51+00:00,close,UMAC,19.36,-10.04,0.0,neutral,Unusual Machines to Announce Second Quarter 2026 Financial Results and Provide Corporate Update
+2026-07-24T23:41:51+00:00,close,SNOW,268.06,1.11,0.184,positive,Snowflake (SNOW) Stock Looks Pricey Following Fresh AI Growth News
+2026-07-24T23:41:51+00:00,close,NOW,98.78,7.44,-0.025,neutral,ServiceNow CEO Reveals a Literal 'Kill Switch' for Rogue AI Agents— and OpenAI's Latest Mishap Shows Why It's Needed: 'There's Going To Be More Incidents...'
+2026-07-24T23:41:51+00:00,close,ARKO,7.93,-0.63,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-24T23:41:51+00:00,close,ISRG,337.5,1.65,0.107,positive,ISRG vs. ABT: Which MedTech Giant Is the Smarter Investment Now?
+2026-07-24T23:41:51+00:00,close,TMUS,180.09,5.67,-0.055,negative,How T-Mobile Built a Network Ready for One of the Largest Live Events in U.S. History
+2026-07-24T23:41:51+00:00,close,UBER,65.94,-4.31,-0.006,neutral,Uber (UBER) Wins Court Injunction Over New York Driver Deactivation Law
+2026-07-24T23:41:51+00:00,close,PLTR,122.92,-0.36,0.206,positive,The Best Aerospace and Defense ETFs to Buy
+2026-07-24T23:41:51+00:00,close,AMR,142.94,-0.19,0.057,positive,Peabody Energy Stock and More Coal Plays Rise on Trump’s $700 Million Industry Boost
+2026-07-24T23:41:51+00:00,close,LAC,2.81,-3.44,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-24T23:41:51+00:00,close,MP,41.3,-7.5,0.161,positive,MP Materials (MP) Stock May Still Look Fully Valued After Export Control News
+2026-07-24T23:41:51+00:00,close,UEC,9.51,-3.26,0.278,positive,Can Energy Fuels' Liquidity Position Support Its Expansion Plans?
+2026-07-24T23:41:51+00:00,close,OKLO,40.25,-8.52,0.329,positive,Can NuScale Turn Its Regulatory Lead Into Commercial Success?
+2026-07-24T23:41:51+00:00,close,UUUU,11.3,-5.91,0.282,positive,Energy Fuels (TSX:EFR) Faces A Valuation Test Following The Rare Earths Growth Story
+2026-07-24T23:41:51+00:00,close,RTX,212.79,1.74,0.159,positive,"RTX Q2 Results Beat Expectations on Strong Aerospace, Defense Demand, RBC Says"
+2026-07-24T23:41:51+00:00,close,AMZN,232.11,-0.66,-0.007,neutral,"AI spending restraint will reward Magnificent 7 shares, expert says"
+2026-07-24T23:41:51+00:00,close,AMD,521.95,-3.29,-0.034,neutral,Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk.
+2026-07-24T23:41:51+00:00,close,META,595.19,-1.8,-0.191,negative,Earnings Are Crushing It. Stocks Are Getting Crushed.
+2026-07-24T23:41:51+00:00,close,AVGO,381.92,-2.69,0.148,positive,"Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners"
+2026-07-24T23:41:51+00:00,close,MRVL,194.23,-7.21,0.282,positive,Marvell (MRVL) Stock Sees Fair Value Lift As AI Data Center Optimism Builds
+2026-07-24T23:41:51+00:00,close,APLD,27.19,-9.03,0.0,neutral,Earnings Calendar and Analysis for This Week (July 27-31)
