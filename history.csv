@@ -941,3 +941,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-27T18:58:58+00:00,open,AVGO,381.52,-0.11,-0.091,negative,Semiconductor stock charts just formed this bearish shape that signals more potential losses
 2026-07-27T18:58:58+00:00,open,MRVL,188.1,-3.16,0.062,positive,Is Silicon Motion Stock a Strong Buy Before Q2 Earnings?
 2026-07-27T18:58:58+00:00,open,APLD,26.32,-3.2,0.068,positive,KBW says miner selloff erased pipeline value despite AI/HPC leasing rebound
+2026-07-27T23:44:59+00:00,close,AAPL,336.91,1.17,-0.055,negative,"Memory-Chip Stocks Micron, SK Hynix Drop After China Rival's IPO"
+2026-07-27T23:44:59+00:00,close,TSLA,309.22,-1.22,-0.157,negative,Elon Musk Built Tesla and SpaceX While Working Over 100-Hour Weeks. He Says 'Vacations Will Kill You' and the Reasons Behind It Are as Chaotic as You'd Expect.
+2026-07-27T23:44:59+00:00,close,NVDA,196.51,-4.99,0.217,positive,"Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off"
+2026-07-27T23:44:59+00:00,close,URG,1.23,0.82,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-27T23:44:59+00:00,close,LEU,175.98,7.38,0.0,neutral,Everything Went Right for Nuclear This Year. The Stocks Fell Anyway.
+2026-07-27T23:44:59+00:00,close,CCJ,89.35,1.7,0.305,positive,Crescent Energy (CRGY) Reports Next Week: Wall Street Expects Earnings Growth
+2026-07-27T23:44:59+00:00,close,LUNR,13.31,3.02,0.033,neutral,RKLB vs. LUNR: Which Emerging Space Stock Is the Better Pick Today?
+2026-07-27T23:44:59+00:00,close,OUST,35.14,3.23,0.22,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-27T23:44:59+00:00,close,MBLY,8.01,-0.5,0.116,positive,"Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag."
+2026-07-27T23:44:59+00:00,close,SYM,41.49,3.34,0.182,positive,YMM or SYM: Which Is the Better Value Stock Right Now?
+2026-07-27T23:44:59+00:00,close,INTU,303.91,2.56,-0.382,negative,10 Stocks Lost Over 40% in 2026 as Investors Dumped Everything AI Might Kill
+2026-07-27T23:44:59+00:00,close,CBRS,188.61,-5.28,0.034,neutral,AMD and Cerebras Create A New Blueprint For Hardware
+2026-07-27T23:44:59+00:00,close,SPCX,113.5,-1.36,0.066,positive,Elon Musk Built Tesla and SpaceX While Working Over 100-Hour Weeks. He Says 'Vacations Will Kill You' and the Reasons Behind It Are as Chaotic as You'd Expect.
+2026-07-27T23:44:59+00:00,close,IONQ,35.92,9.38,0.185,positive,Will Rigetti's Upcoming Q2 Results Reinforce Its Quantum Growth Story?
+2026-07-27T23:44:59+00:00,close,SERV,4.78,-0.62,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-27T23:44:59+00:00,close,UMAC,20.6,6.4,-0.084,negative,"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears"
+2026-07-27T23:44:59+00:00,close,SNOW,272.92,1.81,0.151,positive,Here Is Why Casey's Ranks Among Hot AI Names Like Dell And Snowflake
+2026-07-27T23:44:59+00:00,close,NOW,105.56,6.86,0.119,positive,"Lucidya expands global leadership team, recruiting senior talent from ServiceNow, Qualtrics, Brandwatch, Talkdesk, and Genesys"
+2026-07-27T23:44:59+00:00,close,ARKO,8.0,0.88,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-27T23:44:59+00:00,close,ISRG,356.83,5.73,-0.092,negative,"UnitedHealth Group Incorporated (UNH) and Intuitive Surgical, Inc. (ISRG) Just Showed Why Beating Estimates Isn’t Enough"
+2026-07-27T23:44:59+00:00,close,TMUS,177.21,-1.6,0.335,positive,Credit Acceptance Announces Leadership Changes to Advance Digital-First Strategy
+2026-07-27T23:44:59+00:00,close,UBER,68.18,3.4,-0.225,negative,Killer marketing secrets that always work (ft. Ogilvy Vice Chairman)
+2026-07-27T23:44:59+00:00,close,PLTR,131.53,7.0,0.15,positive,PAYC vs. PLTR: Which Stock Is the Better Value Option?
+2026-07-27T23:44:59+00:00,close,AMR,145.54,1.82,-0.088,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-07-27T23:44:59+00:00,close,LAC,2.9,3.2,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-27T23:44:59+00:00,close,MP,43.13,4.43,0.116,positive,The U.S. government invested $27 billion in corporate stakes. Good luck finding them
+2026-07-27T23:44:59+00:00,close,UEC,9.91,4.21,0.223,positive,Can Energy Fuels' Liquidity Position Support Its Expansion Plans?
+2026-07-27T23:44:59+00:00,close,OKLO,41.81,3.88,0.16,positive,Can NuScale Turn Its Regulatory Lead Into Commercial Success?
+2026-07-27T23:44:59+00:00,close,UUUU,11.71,3.63,0.336,positive,Energy Fuels (TSX:EFR) Faces A Valuation Test Following The Rare Earths Growth Story
+2026-07-27T23:44:59+00:00,close,RTX,218.42,2.65,0.504,positive,"Woodward, Howmet Likely to Benefit From Strong Engine Market, RBC Says"
+2026-07-27T23:44:59+00:00,close,AMZN,231.39,-0.31,-0.014,neutral,The Worst Should Be Over for UPS Stock
+2026-07-27T23:44:59+00:00,close,AMD,494.95,-5.17,0.05,positive,Advanced Micro Devices (AMD) Stock Falls Amid Market Uptick: What Investors Need to Know
+2026-07-27T23:44:59+00:00,close,META,593.87,-0.22,-0.12,negative,BlackRock Dodges AI Bond Flop as $12.3 Billion Debt Deal Rallies
+2026-07-27T23:44:59+00:00,close,AVGO,383.22,0.34,0.036,neutral,3 Big Reasons to Love Broadcom (AVGO)
+2026-07-27T23:44:59+00:00,close,MRVL,189.17,-2.61,0.102,positive,Is Silicon Motion Stock a Strong Buy Before Q2 Earnings?
+2026-07-27T23:44:59+00:00,close,APLD,26.38,-3.0,0.042,neutral,KBW says miner selloff erased pipeline value despite AI/HPC leasing rebound
