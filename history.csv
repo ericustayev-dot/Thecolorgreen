@@ -905,3 +905,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-24T23:41:51+00:00,close,AVGO,381.92,-2.69,0.148,positive,"Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners"
 2026-07-24T23:41:51+00:00,close,MRVL,194.23,-7.21,0.282,positive,Marvell (MRVL) Stock Sees Fair Value Lift As AI Data Center Optimism Builds
 2026-07-24T23:41:51+00:00,close,APLD,27.19,-9.03,0.0,neutral,Earnings Calendar and Analysis for This Week (July 27-31)
+2026-07-27T18:58:58+00:00,open,AAPL,335.86,0.85,-0.043,neutral,Apple sued after alleged App Store crypto scam cost users $1.8M
+2026-07-27T18:58:58+00:00,open,TSLA,307.58,-1.74,0.056,positive,"Tesla Stock Breaks Down After Worst Week Since 2022, Charts Point to $296"
+2026-07-27T18:58:58+00:00,open,NVDA,197.32,-4.6,0.216,positive,Apple overtakes Nvidia as world's most valuable company
+2026-07-27T18:58:58+00:00,open,URG,1.23,0.41,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-27T18:58:58+00:00,open,LEU,172.09,5.0,0.0,neutral,Everything Went Right for Nuclear This Year. The Stocks Fell Anyway.
+2026-07-27T18:58:58+00:00,open,CCJ,88.65,0.9,0.206,positive,Crescent Energy (CRGY) Reports Next Week: Wall Street Expects Earnings Growth
+2026-07-27T18:58:58+00:00,open,LUNR,13.15,1.82,0.033,neutral,RKLB vs. LUNR: Which Emerging Space Stock Is the Better Pick Today?
+2026-07-27T18:58:58+00:00,open,OUST,34.58,1.59,0.22,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-27T18:58:58+00:00,open,MBLY,8.05,0.04,0.116,positive,"Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag."
+2026-07-27T18:58:58+00:00,open,SYM,41.24,2.71,0.182,positive,YMM or SYM: Which Is the Better Value Stock Right Now?
+2026-07-27T18:58:58+00:00,open,INTU,307.67,3.83,-0.456,negative,10 Stocks Lost Over 40% in 2026 as Investors Dumped Everything AI Might Kill
+2026-07-27T18:58:58+00:00,open,CBRS,186.38,-6.4,0.186,positive,CrowdStrike’s Cerebras Deal Puts Its AI Security Strategy to the Test
+2026-07-27T18:58:58+00:00,open,SPCX,111.58,-3.03,0.277,positive,Can a $266 Million Defense Deal Help Rocket Lab Escape SpaceX’s Shadow?
+2026-07-27T18:58:58+00:00,open,IONQ,34.62,5.4,0.319,positive,"Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement"
+2026-07-27T18:58:58+00:00,open,SERV,4.72,-1.98,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-27T18:58:58+00:00,open,UMAC,19.8,2.27,-0.084,negative,"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears"
+2026-07-27T18:58:58+00:00,open,SNOW,272.87,1.79,0.151,positive,Here Is Why Casey's Ranks Among Hot AI Names Like Dell And Snowflake
+2026-07-27T18:58:58+00:00,open,NOW,107.76,9.09,0.119,positive,"Lucidya expands global leadership team, recruiting senior talent from ServiceNow, Qualtrics, Brandwatch, Talkdesk, and Genesys"
+2026-07-27T18:58:58+00:00,open,ARKO,8.09,2.02,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-27T18:58:58+00:00,open,ISRG,356.87,5.74,0.0,neutral,The ACA Coverage Debate Just Became a $50 Billion Question for Intuitive Surgical
+2026-07-27T18:58:58+00:00,open,TMUS,179.66,-0.24,0.213,positive,Credit Acceptance Announces Leadership Changes to Advance Digital-First Strategy
+2026-07-27T18:58:58+00:00,open,UBER,67.75,2.74,-0.225,negative,Killer marketing secrets that always work (ft. Ogilvy Vice Chairman)
+2026-07-27T18:58:58+00:00,open,PLTR,131.61,7.07,0.166,positive,PAYC vs. PLTR: Which Stock Is the Better Value Option?
+2026-07-27T18:58:58+00:00,open,AMR,145.31,1.66,-0.088,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-07-27T18:58:58+00:00,open,LAC,2.88,2.49,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-27T18:58:58+00:00,open,MP,42.55,3.03,0.116,positive,The U.S. government invested $27 billion in corporate stakes. Good luck finding them
+2026-07-27T18:58:58+00:00,open,UEC,9.76,2.58,0.223,positive,Can Energy Fuels' Liquidity Position Support Its Expansion Plans?
+2026-07-27T18:58:58+00:00,open,OKLO,41.15,2.24,0.16,positive,Can NuScale Turn Its Regulatory Lead Into Commercial Success?
+2026-07-27T18:58:58+00:00,open,UUUU,11.57,2.39,0.336,positive,Energy Fuels (TSX:EFR) Faces A Valuation Test Following The Rare Earths Growth Story
+2026-07-27T18:58:58+00:00,open,RTX,220.24,3.5,0.504,positive,"Woodward, Howmet Likely to Benefit From Strong Engine Market, RBC Says"
+2026-07-27T18:58:58+00:00,open,AMZN,232.82,0.31,0.056,positive,"Amazon Leo Plans 5,105-Satellite Network for Direct-to-Phone Service"
+2026-07-27T18:58:58+00:00,open,AMD,488.11,-6.48,0.0,neutral,Wedbush Tweaks AMD Stock Price Target Ahead of Earnings
+2026-07-27T18:58:58+00:00,open,META,596.96,0.3,0.105,positive,"S&P 500 Second-Quarter Earnings Growth Reaches 70%, Oppenheimer Says"
+2026-07-27T18:58:58+00:00,open,AVGO,381.52,-0.11,-0.091,negative,Semiconductor stock charts just formed this bearish shape that signals more potential losses
+2026-07-27T18:58:58+00:00,open,MRVL,188.1,-3.16,0.062,positive,Is Silicon Motion Stock a Strong Buy Before Q2 Earnings?
+2026-07-27T18:58:58+00:00,open,APLD,26.32,-3.2,0.068,positive,KBW says miner selloff erased pipeline value despite AI/HPC leasing rebound
