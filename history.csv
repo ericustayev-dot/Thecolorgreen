@@ -977,3 +977,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-27T23:44:59+00:00,close,AVGO,383.22,0.34,0.036,neutral,3 Big Reasons to Love Broadcom (AVGO)
 2026-07-27T23:44:59+00:00,close,MRVL,189.17,-2.61,0.102,positive,Is Silicon Motion Stock a Strong Buy Before Q2 Earnings?
 2026-07-27T23:44:59+00:00,close,APLD,26.38,-3.0,0.042,neutral,KBW says miner selloff erased pipeline value despite AI/HPC leasing rebound
+2026-07-28T18:06:16+00:00,open,AAPL,339.52,0.78,-0.09,negative,Apple faces lawsuit over alleged Bitcoin scam
+2026-07-28T18:06:16+00:00,open,TSLA,306.17,-0.98,0.038,neutral,"Elon Musk warns America will 1,000% go bankrupt and fail as a country"
+2026-07-28T18:06:16+00:00,open,NVDA,197.15,0.33,-0.02,neutral,Cadence Stock Jumps 5% as AI Chip Demand Lifts Forecast
+2026-07-28T18:06:16+00:00,open,URG,1.21,-2.03,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-28T18:06:16+00:00,open,LEU,168.1,-4.48,0.0,neutral,Everything Went Right for Nuclear This Year. The Stocks Fell Anyway.
+2026-07-28T18:06:16+00:00,open,CCJ,86.33,-3.38,0.305,positive,Crescent Energy (CRGY) Reports Next Week: Wall Street Expects Earnings Growth
+2026-07-28T18:06:16+00:00,open,LUNR,12.4,-6.8,0.136,positive,New Strong Sell Stocks for July 28th
+2026-07-28T18:06:16+00:00,open,OUST,32.94,-6.26,0.22,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-28T18:06:16+00:00,open,MBLY,8.44,5.31,0.012,neutral,"Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag."
+2026-07-28T18:06:16+00:00,open,SYM,40.99,-1.21,0.182,positive,YMM or SYM: Which Is the Better Value Stock Right Now?
+2026-07-28T18:06:16+00:00,open,INTU,316.75,4.22,-0.174,negative,TD Cowen downgrades Intuit on more negative near-term catalyst path
+2026-07-28T18:06:16+00:00,open,CBRS,190.3,0.9,0.034,neutral,AMD and Cerebras Create A New Blueprint For Hardware
+2026-07-28T18:06:16+00:00,open,SPCX,115.58,1.84,-0.034,neutral,"Elon Musk warns America will 1,000% go bankrupt and fail as a country"
+2026-07-28T18:06:16+00:00,open,IONQ,33.63,-6.38,0.068,positive,The D-Wave Quantum Bet: How an Expanded AT&T Deal Is Boosting the Stock
+2026-07-28T18:06:16+00:00,open,SERV,4.59,-4.08,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-28T18:06:16+00:00,open,UMAC,19.26,-6.5,-0.084,negative,"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears"
+2026-07-28T18:06:16+00:00,open,SNOW,273.07,0.05,0.296,positive,Aembit Joins Snowflake to Tackle AI's Next Security Frontier: Trusted Agent Interoperability
+2026-07-28T18:06:16+00:00,open,NOW,111.62,5.74,0.221,positive,FJTSY or NOW: Which Is the Better Value Stock Right Now?
+2026-07-28T18:06:16+00:00,open,ARKO,8.06,0.75,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-28T18:06:16+00:00,open,ISRG,364.75,2.22,0.032,neutral,"UnitedHealth Group Incorporated (UNH) and Intuitive Surgical, Inc. (ISRG) Just Showed Why Beating Estimates Isn’t Enough"
+2026-07-28T18:06:16+00:00,open,TMUS,184.18,3.93,0.317,positive,Credit Acceptance Announces Leadership Changes to Advance Digital-First Strategy
+2026-07-28T18:06:16+00:00,open,UBER,70.21,2.98,-0.059,negative,Marketing teams adopted AI to move faster. 85% still missed a campaign launch date last year
+2026-07-28T18:06:16+00:00,open,PLTR,123.74,-5.92,-0.004,neutral,Palantir Seen Crushing Q2 Estimates and Raising 2026 Outlook
+2026-07-28T18:06:16+00:00,open,AMR,145.08,-0.32,-0.088,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-07-28T18:06:16+00:00,open,LAC,2.8,-3.62,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-28T18:06:16+00:00,open,MP,40.53,-6.03,0.021,neutral,The U.S. government invested $27 billion in corporate stakes. Good luck finding them
+2026-07-28T18:06:16+00:00,open,UEC,9.37,-5.44,0.223,positive,Can Energy Fuels' Liquidity Position Support Its Expansion Plans?
+2026-07-28T18:06:16+00:00,open,OKLO,39.24,-6.13,0.274,positive,What Could Drive the Next Phase of Nuclear Energy Growth?
+2026-07-28T18:06:16+00:00,open,UUUU,11.15,-4.74,0.336,positive,Energy Fuels (TSX:EFR) Faces A Valuation Test Following The Rare Earths Growth Story
+2026-07-28T18:06:16+00:00,open,RTX,216.91,-0.69,0.139,positive,RTX (RTX) Stock May Be Below Fair Value On Cash Flow Yet Full On Earnings
+2026-07-28T18:06:16+00:00,open,AMZN,231.15,-0.1,0.172,positive,Corning Stock Plunges 16% as Fiber Growth Slows
+2026-07-28T18:06:16+00:00,open,AMD,457.53,-7.56,0.068,positive,Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?
+2026-07-28T18:06:16+00:00,open,META,593.12,-0.13,0.215,positive,MarketRank Names Ryze AI the Best AI Tool for Managing Google and Meta Ads in 2026
+2026-07-28T18:06:16+00:00,open,AVGO,379.7,-0.92,0.153,positive,3 Big Reasons to Love Broadcom (AVGO)
+2026-07-28T18:06:16+00:00,open,MRVL,175.16,-7.41,-0.034,neutral,"U.S. chip stocks extend sell-off on AI financing, China competition worries"
+2026-07-28T18:06:16+00:00,open,APLD,26.36,-0.06,0.084,positive,Applied Digital (APLD) Tops Quarterly Revenue Estimates As AI Data Center Demand Holds Up
