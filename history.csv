@@ -1013,3 +1013,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-28T18:06:16+00:00,open,AVGO,379.7,-0.92,0.153,positive,3 Big Reasons to Love Broadcom (AVGO)
 2026-07-28T18:06:16+00:00,open,MRVL,175.16,-7.41,-0.034,neutral,"U.S. chip stocks extend sell-off on AI financing, China competition worries"
 2026-07-28T18:06:16+00:00,open,APLD,26.36,-0.06,0.084,positive,Applied Digital (APLD) Tops Quarterly Revenue Estimates As AI Data Center Demand Holds Up
+2026-07-28T23:33:34+00:00,close,AAPL,340.08,0.94,0.194,positive,"Coca-Cola Stock Is Rocking Like the 1990s, With a Higher P/E Than Most of the Magnificent 7"
+2026-07-28T23:33:34+00:00,close,TSLA,307.44,-0.58,0.214,positive,"Coca-Cola Stock Is Rocking Like the 1990s, With a Higher P/E Than Most of the Magnificent 7"
+2026-07-28T23:33:34+00:00,close,NVDA,197.01,0.25,0.185,positive,"Coca-Cola Stock Is Rocking Like the 1990s, With a Higher P/E Than Most of the Magnificent 7"
+2026-07-28T23:33:34+00:00,close,URG,1.21,-1.63,0.175,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-28T23:33:34+00:00,close,LEU,169.65,-3.6,0.0,neutral,Everything Went Right for Nuclear This Year. The Stocks Fell Anyway.
+2026-07-28T23:33:34+00:00,close,CCJ,86.96,-2.67,0.213,positive,Crescent Energy (CRGY) Reports Next Week: Wall Street Expects Earnings Growth
+2026-07-28T23:33:34+00:00,close,LUNR,12.37,-7.06,0.136,positive,New Strong Sell Stocks for July 28th
+2026-07-28T23:33:34+00:00,close,OUST,33.91,-3.5,0.143,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-28T23:33:34+00:00,close,MBLY,8.43,5.24,-0.164,negative,Assessing the chip sector's damage: Chart of the Day
+2026-07-28T23:33:34+00:00,close,SYM,42.34,2.05,0.182,positive,YMM or SYM: Which Is the Better Value Stock Right Now?
+2026-07-28T23:33:34+00:00,close,INTU,312.99,2.99,-0.174,negative,TD Cowen downgrades Intuit on more negative near-term catalyst path
+2026-07-28T23:33:34+00:00,close,CBRS,192.72,2.18,0.034,neutral,AMD and Cerebras Create A New Blueprint For Hardware
+2026-07-28T23:33:34+00:00,close,SPCX,116.41,2.56,0.178,positive,Musk’s Wealth Has Taken a Huge SpaceX Hit. He’s Still Worth 45 Times China’s CXMT Billionaire.
+2026-07-28T23:33:34+00:00,close,IONQ,33.88,-5.68,0.095,positive,IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology
+2026-07-28T23:33:34+00:00,close,SERV,4.7,-1.67,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-28T23:33:34+00:00,close,UMAC,19.92,-3.3,-0.049,neutral,"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears"
+2026-07-28T23:33:34+00:00,close,SNOW,270.36,-0.94,0.296,positive,Aembit Joins Snowflake to Tackle AI's Next Security Frontier: Trusted Agent Interoperability
+2026-07-28T23:33:34+00:00,close,NOW,110.62,4.79,0.221,positive,FJTSY or NOW: Which Is the Better Value Stock Right Now?
+2026-07-28T23:33:34+00:00,close,ARKO,8.03,0.37,0.323,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-28T23:33:34+00:00,close,ISRG,361.8,1.39,0.032,neutral,"UnitedHealth Group Incorporated (UNH) and Intuitive Surgical, Inc. (ISRG) Just Showed Why Beating Estimates Isn’t Enough"
+2026-07-28T23:33:34+00:00,close,TMUS,182.39,2.92,0.339,positive,Can T-Mobile and Verizon win on the strength of customer experience?
+2026-07-28T23:33:34+00:00,close,UBER,70.74,3.75,-0.072,negative,Uber (UBER) Backs Travis Kalanick’s Atoms With $100 Million
+2026-07-28T23:33:34+00:00,close,PLTR,123.53,-6.08,0.148,positive,Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models
+2026-07-28T23:33:34+00:00,close,AMR,145.07,-0.32,-0.088,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-07-28T23:33:34+00:00,close,LAC,2.77,-4.48,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-28T23:33:34+00:00,close,MP,41.28,-4.29,0.021,neutral,The U.S. government invested $27 billion in corporate stakes. Good luck finding them
+2026-07-28T23:33:34+00:00,close,UEC,9.44,-4.74,0.106,positive,"Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion"
+2026-07-28T23:33:34+00:00,close,OKLO,39.58,-5.33,0.274,positive,What Could Drive the Next Phase of Nuclear Energy Growth?
+2026-07-28T23:33:34+00:00,close,UUUU,11.33,-3.25,0.347,positive,Energy Fuels (UUUU) Stock Declines While Market Improves: Some Information for Investors
+2026-07-28T23:33:34+00:00,close,RTX,218.58,0.07,0.134,positive,RTX (RTX) Stock May Be Below Fair Value On Cash Flow Yet Full On Earnings
+2026-07-28T23:33:34+00:00,close,AMZN,230.86,-0.23,0.131,positive,Prestige Cookware and Clean Coatings Defined Amazon Prime Day 2026's Home & Kitchen Winners: Market Defense Report
+2026-07-28T23:33:34+00:00,close,AMD,454.62,-8.15,0.115,positive,Micron Stock Is Leading a Brutal New Chip Slump
+2026-07-28T23:33:34+00:00,close,META,593.41,-0.08,0.007,neutral,"Coca-Cola Stock Is Rocking Like the 1990s, With a Higher P/E Than Most of the Magnificent 7"
+2026-07-28T23:33:34+00:00,close,AVGO,380.91,-0.6,0.147,positive,"EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says"
+2026-07-28T23:33:34+00:00,close,MRVL,174.47,-7.77,-0.068,negative,"EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says"
+2026-07-28T23:33:34+00:00,close,APLD,26.62,0.93,0.084,positive,Applied Digital (APLD) Tops Quarterly Revenue Estimates As AI Data Center Demand Holds Up
