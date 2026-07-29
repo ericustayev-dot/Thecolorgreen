@@ -1085,3 +1085,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-29T17:58:24+00:00,open,AVGO,376.61,-1.13,-0.018,neutral,"EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says"
 2026-07-29T17:58:24+00:00,open,MRVL,167.28,-4.12,-0.064,negative,Nvidia: Stop Worrying About Circular Financing and Embrace the Bank
 2026-07-29T17:58:24+00:00,open,APLD,24.28,-8.79,0.084,positive,Applied Digital (APLD) Tops Quarterly Revenue Estimates As AI Data Center Demand Holds Up
+2026-07-29T23:38:24+00:00,close,AAPL,338.19,-0.56,0.052,positive,"Apple Stock Misses the $5 Trillion Mark, Snapping Three-Day Winning Streak"
+2026-07-29T23:38:24+00:00,close,TSLA,298.32,-2.97,-0.17,negative,Tesla Stock Breaks $300. How Far It Needs to Fall to Lose Trillion-Dollar Status.
+2026-07-29T23:38:24+00:00,close,NVDA,190.01,-3.55,-0.021,neutral,Senators Warn Apple Not to Buy Memory Chips From Chinese Firms
+2026-07-29T23:38:24+00:00,close,URG,1.18,-2.48,0.33,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-07-29T23:38:24+00:00,close,LEU,159.69,-5.87,0.125,positive,Centrus Energy to Report Q2 Earnings: What's in Store for the Stock?
+2026-07-29T23:38:24+00:00,close,CCJ,84.57,-2.75,0.042,neutral,The U.S. Army Just Called China’s Bluff in the Rare Earth War
+2026-07-29T23:38:24+00:00,close,LUNR,11.39,-7.92,0.017,neutral,New Strong Sell Stocks for July 28th
+2026-07-29T23:38:24+00:00,close,OUST,31.3,-7.7,0.143,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-29T23:38:24+00:00,close,MBLY,8.01,-4.98,-0.07,negative,Qualcomm wins BMW chip supply deal for future vehicle platforms
+2026-07-29T23:38:24+00:00,close,SYM,40.34,-4.72,0.052,positive,Symbotic Inc. (SYM) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-29T23:38:24+00:00,close,INTU,333.13,6.43,-0.086,negative,TD Cowen downgrades Intuit on more negative near-term catalyst path
+2026-07-29T23:38:24+00:00,close,CBRS,169.39,-12.11,0.099,positive,"CleanCore Solutions, Inc. (NYSE AMERICAN: ZONE) Signs AI Colocation Services Agreement with Cerebras Systems (NASDAQ: CBRS) for a Data Center Campus in Minnesota"
+2026-07-29T23:38:24+00:00,close,SPCX,112.55,-3.32,0.019,neutral,SpaceX (NasdaqGS:SPCX) Wins NASA Backing For Moon Base And Orbital AI Plans
+2026-07-29T23:38:24+00:00,close,IONQ,31.99,-5.58,0.095,positive,IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology
+2026-07-29T23:38:24+00:00,close,SERV,4.37,-7.02,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-29T23:38:24+00:00,close,UMAC,17.26,-13.35,-0.049,neutral,"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears"
+2026-07-29T23:38:24+00:00,close,SNOW,282.9,4.64,0.119,positive,Smart Money Shifts: Palantir (PLTR) Gains Hedge Fund Backing as Snowflake (SNOW) Sees Trims
+2026-07-29T23:38:24+00:00,close,NOW,115.76,4.65,0.071,positive,Cyware Announces Partnership with Armis from ServiceNow to Deliver Asset-Centric Threat Context
+2026-07-29T23:38:24+00:00,close,ARKO,7.74,-3.61,0.228,positive,4 Top-Ranked Stocks With Solid Net Profit Margins to Boost Your Gains
+2026-07-29T23:38:24+00:00,close,ISRG,353.1,-2.4,0.093,positive,Why Are Intuitive Surgical (ISRG) Shares Soaring Today
+2026-07-29T23:38:24+00:00,close,TMUS,181.52,-0.48,0.082,positive,Can T-Mobile and Verizon win on the strength of customer experience?
+2026-07-29T23:38:24+00:00,close,UBER,71.2,0.65,0.026,neutral,Cardlytics Appoints Chris Cheng as Chief Legal Officer
+2026-07-29T23:38:24+00:00,close,PLTR,123.0,-0.43,0.208,positive,Smart Money Shifts: Palantir (PLTR) Gains Hedge Fund Backing as Snowflake (SNOW) Sees Trims
+2026-07-29T23:38:24+00:00,close,AMR,139.16,-4.07,-0.088,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-07-29T23:38:24+00:00,close,LAC,2.71,-2.17,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-29T23:38:24+00:00,close,MP,38.1,-7.7,-0.166,negative,A Junior Just Pulled Rock Grading Double the Historical Numbers From a Nevada Tungsten District the U.S. Badly Needs
+2026-07-29T23:38:24+00:00,close,UEC,9.04,-4.24,0.106,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-07-29T23:38:24+00:00,close,OKLO,36.84,-6.92,0.285,positive,Oklo (OKLO) Wins DOE Startup Approval For Its Groves Test Reactor
+2026-07-29T23:38:24+00:00,close,UUUU,10.74,-5.21,0.111,positive,Energy Fuels (UUUU) Stock Declines While Market Improves: Some Information for Investors
+2026-07-29T23:38:24+00:00,close,RTX,215.25,-1.52,0.307,positive,EMBJ or RTX: Which Is the Better Value Stock Right Now?
+2026-07-29T23:38:24+00:00,close,AMZN,226.65,-1.82,0.294,positive,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady"
+2026-07-29T23:38:24+00:00,close,AMD,429.56,-5.51,-0.105,negative,"Nvidia, AMD, Micron Lead Chip Stocks Selloff as SK hynix Earnings Disappoint"
+2026-07-29T23:38:24+00:00,close,META,585.61,-1.31,0.029,neutral,Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents
+2026-07-29T23:38:24+00:00,close,AVGO,370.32,-2.78,-0.072,negative,Tesla Stock Breaks $300. How Far It Needs to Fall to Lose Trillion-Dollar Status.
+2026-07-29T23:38:24+00:00,close,MRVL,163.4,-6.34,-0.064,negative,Nvidia: Stop Worrying About Circular Financing and Embrace the Bank
+2026-07-29T23:38:24+00:00,close,APLD,23.22,-12.77,0.084,positive,Applied Digital (APLD) Tops Quarterly Revenue Estimates As AI Data Center Demand Holds Up

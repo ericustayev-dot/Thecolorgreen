@@ -63,3 +63,5 @@ timestamp,session,ticker,label,price,change_pct
 2026-07-28T23:33:34+00:00,close,SI=F,Silver,57.19,-2.18
 2026-07-29T17:58:24+00:00,open,GC=F,Gold,4104.4,1.69
 2026-07-29T17:58:24+00:00,open,SI=F,Silver,58.13,1.46
+2026-07-29T23:38:24+00:00,close,GC=F,Gold,4151.2,2.85
+2026-07-29T23:38:24+00:00,close,SI=F,Silver,58.54,2.18
