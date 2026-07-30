@@ -22,33 +22,16 @@ def load_daily_movers() -> dict:
 
 def render_mover_row(m: dict, direction: str) -> None:
     color = "green" if direction == "bullish" else "red"
+    price_color = "#2D6B40" if direction == "bullish" else "#A32D2D"
     with st.container(border=True):
-        if st.button(f"{m['ticker']} · {m['name']}", key=f"mover_{m['ticker']}"):
+        if st.button(m["ticker"], key=f"mover_{m['ticker']}", width="stretch"):
             st.session_state.selected_mover = m["ticker"]
-
-        st.markdown(f"{cap_indicator(m['cap'], color)} :{color}[{m['cap'].capitalize()} cap]")
-        st.write(f"${m['price']} ({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}")
-
-        if m.get("analyst_target_mean"):
-            st.caption(
-                f"Analyst target: \\${m['analyst_target_mean']:.2f} "
-                f"(\\${m['analyst_target_low']:.2f}-\\${m['analyst_target_high']:.2f}) · "
-                f"{m['analyst_count']} analysts · {m['analyst_recommendation']}"
-            )
-
-        driver_title = m.get(f"{direction}_driver")
-        driver_source = m.get(f"{direction}_driver_source")
-        driver_link = m.get(f"{direction}_driver_link")
-        driver_category = m.get(f"{direction}_driver_category")
-        driver_explanation = m.get(f"{direction}_driver_explanation")
-        if driver_title:
-            box = st.success if direction == "bullish" else st.error
-            icon = ":material/trending_up:" if direction == "bullish" else ":material/trending_down:"
-            box(f"[{driver_title}]({driver_link}) ({driver_source})", icon=icon)
-            if driver_category:
-                st.caption(f"{driver_category}: {driver_explanation}")
-
-        st.caption(f"{m['positive_headlines']} positive · {m['negative_headlines']} negative headlines")
+        st.caption(m["name"])
+        st.markdown(
+            f"<span style='font-size:1.15rem; font-weight:700; color:{price_color};'>${m['price']} ({m['change_pct']:+.2f}%)</span>",
+            unsafe_allow_html=True,
+        )
+        st.markdown(f"{cap_indicator(m['cap'], color)} {m['cap'].capitalize()} cap")
 
 
 def render_mover_detail(ticker: str) -> None:
@@ -91,6 +74,18 @@ st.markdown(
     "</p>",
     unsafe_allow_html=True,
 )
+
+with st.expander(":material/help: What do these symbols mean?"):
+    st.markdown(
+        """
+- **Ticker** (e.g. `AAPL`) is always the big bold text at the top of a card — the company name is the smaller line underneath it.
+- **$$$$ / $$$ / $$ / $** — company size: 4 filled = mega cap, 3 = large cap, 2 = mid cap, 1 = small cap. Gray dollar signs are unfilled.
+- **Green** generally means bullish / positive / buy-weighted. **Red** means bearish / negative / no-buy-weighted.
+- **Buy-weight scale** (green/red bar in a stock's "Show details") compares its analyst-target upside against its estimated risk — heavier green means a bigger upside for the risk, heavier red means the risk isn't worth the small upside. It's a formula, not investment advice.
+- **Sentiment score** ranges from -1 (very negative news) to +1 (very positive news), based on recent headlines.
+- **"Show details"** on any stock card reveals the analyst target, buy-weight scale, sentiment, and recent headlines - collapsed by default to keep things easy to scan.
+        """
+    )
 
 # ---- Search ----
 st.header(":material/search: Search any stock")
