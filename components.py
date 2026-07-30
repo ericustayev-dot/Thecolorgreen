@@ -4,8 +4,17 @@ import streamlit as st
 
 from main import load_watchlist, WATCHLIST_FILE
 from movers import classify_cap
-from cached import cached_stock_report
+from cached import cached_stock_report, cached_deep_research
 from buy_score import compute_buy_weight
+from deep_research import fmt_usd_big
+
+SIGNAL_ICON = {
+    "good": ":material/check_circle:",
+    "bad": ":material/cancel:",
+    "caution": ":material/warning:",
+    "unknown": ":material/help:",
+}
+SIGNAL_COLOR = {"good": "green", "bad": "red", "caution": "orange", "unknown": "gray"}
 
 CAP_LEVELS = {"mega": 4, "large": 3, "mid": 2, "small": 1}
 
@@ -46,7 +55,61 @@ def render_buy_weight(price: dict, cap: str) -> None:
     )
 
 
-def render_stock_card(ticker: str) -> None:
+def render_deep_research(ticker: str) -> None:
+    try:
+        dr = cached_deep_research(ticker)
+    except Exception as e:
+        st.error(f"Deep research report failed to load: {e}")
+        return
+
+    st.markdown("##### :material/travel_explore: Deep research report")
+    st.caption(
+        "Every number below is straight from the company's own reported financials "
+        "(via Yahoo Finance) - no AI, no predictions. Each metric is checked against a "
+        "fixed threshold applied the same way to every stock."
+    )
+
+    rated = [s for s in dr["signals"] if s["signal"] != "unknown"]
+    good = sum(1 for s in rated if s["signal"] == "good")
+    bad = sum(1 for s in rated if s["signal"] == "bad")
+    if rated:
+        st.write(f"**{good} of {len(rated)} rated signals are strong, {bad} are weak.**")
+
+    for s in dr["signals"]:
+        icon = SIGNAL_ICON[s["signal"]]
+        color = SIGNAL_COLOR[s["signal"]]
+        st.markdown(f"{icon} **{s['label']}:** :{color}[{s['value']}]")
+
+    val = dr["valuation"]
+    if val.get("fifty_two_week_low") and val.get("fifty_two_week_high"):
+        st.divider()
+        st.markdown("**Valuation**")
+        st.write(f"52-week range: ${val['fifty_two_week_low']:.2f} - ${val['fifty_two_week_high']:.2f}")
+        if val.get("pct_from_52w_high") is not None:
+            st.caption(f"{val['pct_from_52w_high']:+.1f}% vs. 52-week high")
+        multiples = []
+        if val.get("ps_ratio"):
+            multiples.append(f"P/S {val['ps_ratio']:.1f}x")
+        if val.get("pe_forward"):
+            multiples.append(f"forward P/E {val['pe_forward']:.1f}x")
+        if val.get("ev_to_ebitda"):
+            multiples.append(f"EV/EBITDA {val['ev_to_ebitda']:.1f}x")
+        if multiples:
+            st.caption(" · ".join(multiples))
+
+    cash = dr["cash_flow"]
+    if cash.get("free_cash_flow") is not None:
+        st.divider()
+        quarter_note = f", quarter ended {cash['quarter_end']}" if cash.get("quarter_end") else ""
+        st.markdown(f"**Cash flow** (latest reported quarter{quarter_note})")
+        st.write(
+            f"Operating cash flow: {fmt_usd_big(cash.get('operating_cash_flow'))} · "
+            f"Capex: {fmt_usd_big(cash.get('capital_expenditure'))} · "
+            f"Free cash flow: {fmt_usd_big(cash.get('free_cash_flow'))}"
+        )
+
+
+def render_stock_card(ticker: str, key_prefix: str = "") -> None:
     report = cached_stock_report(ticker)
     price = report["price"]
     sentiment = report["sentiment"]
@@ -83,6 +146,21 @@ def render_stock_card(ticker: str) -> None:
         for h in groups["negative"]:
             st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
             st.caption(f"{h['category']}: {h['explanation']}")
+
+    dr_state_key = f"dr_open_{key_prefix}{ticker}"
+    if dr_state_key not in st.session_state:
+        st.session_state[dr_state_key] = False
+
+    if st.button(
+        "Hide deep research report" if st.session_state[dr_state_key] else "Deep research report",
+        icon=":material/close:" if st.session_state[dr_state_key] else ":material/travel_explore:",
+        key=f"btn_{dr_state_key}",
+    ):
+        st.session_state[dr_state_key] = not st.session_state[dr_state_key]
+        st.rerun()
+
+    if st.session_state[dr_state_key]:
+        render_deep_research(ticker)
 
 
 def remove_from_watchlist(ticker: str) -> None:

@@ -22,7 +22,7 @@ for row_num, row in enumerate(chunked(tickers, 4)):
     for col, ticker in zip(cols, row):
         with col:
             try:
-                render_stock_card(ticker)
+                render_stock_card(ticker, key_prefix="watchlist_")
                 if st.button("Remove from watchlist", icon=":material/delete:", key=f"remove_{ticker}"):
                     remove_from_watchlist(ticker)
                     st.rerun()

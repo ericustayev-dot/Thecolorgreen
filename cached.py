@@ -7,6 +7,7 @@ import streamlit as st
 from report import build_stock_report, build_commodity_report, build_world_news_report
 from search import search_tickers
 from earnings import get_earnings_summary
+from deep_research import compute_deep_research
 
 
 @st.cache_data(ttl=300)
@@ -32,3 +33,8 @@ def cached_search(query: str) -> list:
 @st.cache_data(ttl=3600)
 def cached_earnings_summary(ticker: str) -> dict:
     return get_earnings_summary(ticker)
+
+
+@st.cache_data(ttl=3600)
+def cached_deep_research(ticker: str) -> dict:
+    return compute_deep_research(ticker)

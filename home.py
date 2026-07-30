@@ -70,7 +70,7 @@ def render_mover_row(m: dict, direction: str) -> None:
             )
             st.divider()
             try:
-                render_stock_card(m["ticker"])
+                render_stock_card(m["ticker"], key_prefix=f"mover_{direction}_")
                 current_watchlist = load_watchlist(WATCHLIST_FILE)
                 if m["ticker"] in current_watchlist:
                     st.caption(f"{m['ticker']} is already in your watchlist.")
@@ -119,7 +119,7 @@ selected = st_searchbox(
 
 if selected:
     try:
-        render_stock_card(selected)
+        render_stock_card(selected, key_prefix="search_")
         current_watchlist = load_watchlist(WATCHLIST_FILE)
         if selected in current_watchlist:
             st.caption(f"{selected} is already in your watchlist.")
