@@ -24,7 +24,11 @@ def render_mover_row(m: dict, direction: str) -> None:
     color = "green" if direction == "bullish" else "red"
     with st.container(border=True):
         if st.button(f"{m['ticker']} · {m['name']}", key=f"mover_{m['ticker']}"):
-            st.session_state.selected_mover = m["ticker"]
+            if st.session_state.get("selected_mover") == m["ticker"]:
+                st.session_state.selected_mover = None
+            else:
+                st.session_state.selected_mover = m["ticker"]
+            st.rerun()
 
         st.markdown(f"{cap_indicator(m['cap'], color)} :{color}[{m['cap'].capitalize()} cap]")
         st.write(f"${m['price']} ({m['change_pct']:+.2f}%) · sentiment {m['sentiment_score']:+.3f}")
@@ -50,24 +54,23 @@ def render_mover_row(m: dict, direction: str) -> None:
 
         st.caption(f"{m['positive_headlines']} positive · {m['negative_headlines']} negative headlines")
 
-
-def render_mover_detail(ticker: str) -> None:
-    st.subheader(f"Details: {ticker}")
-    try:
-        render_stock_card(ticker)
-        current_watchlist = load_watchlist(WATCHLIST_FILE)
-        if ticker in current_watchlist:
-            st.caption(f"{ticker} is already in your watchlist.")
-        elif st.button(f"Add {ticker} to my watchlist", icon=":material/add:", key=f"add_mover_detail_{ticker}"):
-            with open(WATCHLIST_FILE, "a") as f:
-                f.write(f"{ticker}\n")
-            st.success(f"Added {ticker}.")
-            st.rerun()
-    except Exception as e:
-        st.error(f"{ticker}: failed to load ({e})")
-    if st.button("Close details", key="close_mover_detail"):
-        st.session_state.selected_mover = None
-        st.rerun()
+        if st.session_state.get("selected_mover") == m["ticker"]:
+            st.divider()
+            try:
+                render_stock_card(m["ticker"])
+                current_watchlist = load_watchlist(WATCHLIST_FILE)
+                if m["ticker"] in current_watchlist:
+                    st.caption(f"{m['ticker']} is already in your watchlist.")
+                elif st.button(f"Add {m['ticker']} to my watchlist", icon=":material/add:", key=f"add_inline_{m['ticker']}"):
+                    with open(WATCHLIST_FILE, "a") as f:
+                        f.write(f"{m['ticker']}\n")
+                    st.success(f"Added {m['ticker']}.")
+                    st.rerun()
+            except Exception as e:
+                st.error(f"{m['ticker']}: failed to load ({e})")
+            if st.button("Close", key=f"close_inline_{m['ticker']}"):
+                st.session_state.selected_mover = None
+                st.rerun()
 
 
 def suggest_tickers(searchterm: str) -> list:
@@ -157,9 +160,6 @@ else:
     if st.button("Show less" if st.session_state.show_all_movers else "See more"):
         st.session_state.show_all_movers = not st.session_state.show_all_movers
         st.rerun()
-
-    if st.session_state.selected_mover:
-        render_mover_detail(st.session_state.selected_mover)
 
 st.divider()
 
