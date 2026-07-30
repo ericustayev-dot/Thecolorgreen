@@ -79,6 +79,30 @@ def render_deep_research(ticker: str) -> None:
         icon = SIGNAL_ICON[s["signal"]]
         color = SIGNAL_COLOR[s["signal"]]
         st.markdown(f"{icon} **{s['label']}:** :{color}[{s['value']}]")
+        if s.get("description"):
+            st.caption(s["description"])
+
+    entry = dr.get("entry_price")
+    if entry:
+        st.divider()
+        st.markdown("**Entry price weight scale**")
+        if entry["already_attractive"]:
+            st.success(
+                f"At \\${dr['current_price']:.2f}, this is already at or below the price where the "
+                f"reward-vs-risk formula turns attractive (\\${entry['entry_price']:.2f}).",
+                icon=":material/check_circle:",
+            )
+        else:
+            st.warning(
+                f"Currently \\${dr['current_price']:.2f} - better to buy at \\${entry['entry_price']:.2f} "
+                f"or below ({entry['pct_below_current']:.1f}% lower), where upside vs. estimated risk "
+                f"turns clearly favorable.",
+                icon=":material/schedule:",
+            )
+        st.caption(
+            "Same formula as the buy-weight bar above, solved backwards for the price where it would "
+            "read a clear buy - not a prediction that the price will actually get there."
+        )
 
     val = dr["valuation"]
     if val.get("fifty_two_week_low") and val.get("fifty_two_week_high"):

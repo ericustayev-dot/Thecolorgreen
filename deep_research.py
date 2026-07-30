@@ -6,6 +6,18 @@ reported financials via Yahoo Finance."""
 
 import yfinance as yf
 
+from movers import classify_cap
+from buy_score import compute_entry_price
+
+SIGNAL_DESCRIPTIONS = {
+    "Revenue growth (YoY)": "How much more the company sold this year vs. the same period last year - the clearest sign of whether the underlying business is actually growing.",
+    "Operating margin": "The share of each revenue dollar left after running the core business, before interest and taxes - higher means the business itself is efficient.",
+    "Net margin": "The share of each revenue dollar left as actual profit after everything, including interest and taxes.",
+    "Free cash flow (latest quarter)": "Cash left over after paying for the equipment and investments needed to run the business. Positive means the company funds itself; negative means it's burning cash or investing heavily for future growth.",
+    "P/E (trailing)": "How many dollars investors are currently paying for every $1 of the company's past year of profit. Higher means more future growth is already priced in - and more room to disappoint.",
+    "Return on equity": "How efficiently the company turns shareholders' invested money into profit.",
+}
+
 
 def fmt_pct(x) -> str:
     return f"{x * 100:.1f}%" if x is not None else "N/A"
@@ -83,6 +95,9 @@ def compute_deep_research(ticker: str) -> dict:
     fifty_two_low = info.get("fiftyTwoWeekLow")
     pct_from_high = ((price - fifty_two_high) / fifty_two_high * 100) if price and fifty_two_high else None
 
+    cap = classify_cap(info.get("marketCap"))
+    entry_price = compute_entry_price(price, info.get("targetMeanPrice"), info.get("beta"), cap)
+
     fundamentals = {
         "revenue_ttm": info.get("totalRevenue"),
         "revenue_growth_yoy": info.get("revenueGrowth"),
@@ -141,12 +156,17 @@ def compute_deep_research(ticker: str) -> dict:
             "signal": _signal(fundamentals["return_on_equity"], 0.15, 0.0),
         })
 
+    for s in signals:
+        s["description"] = SIGNAL_DESCRIPTIONS.get(s["label"], "")
+
     return {
         "ticker": ticker.upper(),
         "fundamentals": fundamentals,
         "valuation": valuation,
         "cash_flow": cash,
         "signals": signals,
+        "entry_price": entry_price,
+        "current_price": price,
     }
 
 
