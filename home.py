@@ -55,6 +55,18 @@ def render_mover_row(m: dict, direction: str) -> None:
         st.caption(f"{m['positive_headlines']} positive · {m['negative_headlines']} negative headlines")
 
         if st.session_state.get("selected_mover") == m["ticker"]:
+            st.markdown(f'<div id="detail-{m["ticker"]}"></div>', unsafe_allow_html=True)
+            st.markdown(
+                f"""
+                <script>
+                setTimeout(function() {{
+                    var el = document.getElementById("detail-{m['ticker']}");
+                    if (el) {{ el.scrollIntoView({{behavior: "smooth", block: "start"}}); }}
+                }}, 150);
+                </script>
+                """,
+                unsafe_allow_html=True,
+            )
             st.divider()
             try:
                 render_stock_card(m["ticker"])
