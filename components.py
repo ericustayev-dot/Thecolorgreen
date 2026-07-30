@@ -46,26 +46,6 @@ def render_buy_weight(price: dict, cap: str) -> None:
     )
 
 
-def render_ticker_header(ticker: str, name: str, price: float, change_pct: float) -> None:
-    """Big, bold ticker-forward header - the ticker is the primary thing a
-    user scans for, so it leads; everything else is secondary."""
-    price_color = "#2D6B40" if change_pct >= 0 else "#A32D2D"
-    st.markdown(
-        f"""
-        <div style="line-height:1.1; margin-bottom:0.1rem;">
-            <span style="font-family:'Bebas Neue', sans-serif; font-size:2.2rem; letter-spacing:1px;">{ticker}</span>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-    st.caption(name)
-    st.markdown(
-        f"<span style='font-size:1.4rem; font-weight:700;'>${price:,.2f}</span> "
-        f"<span style='font-size:1.05rem; font-weight:700; color:{price_color};'>({change_pct:+.2f}%)</span>",
-        unsafe_allow_html=True,
-    )
-
-
 def render_stock_card(ticker: str) -> None:
     report = cached_stock_report(ticker)
     price = report["price"]
@@ -75,41 +55,34 @@ def render_stock_card(ticker: str) -> None:
     groups = report["headline_groups"]
     cap = classify_cap(price["market_cap"])
 
-    render_ticker_header(price["ticker"], price["name"], price["price"], price["change_pct"])
+    st.subheader(f"{price['name']} ({price['ticker']})")
+    st.metric("Price", f"${price['price']}", f"{price['change_pct']:+.2f}%")
     st.markdown(f"{cap_indicator(cap)} {cap.capitalize()} cap")
 
-    with st.expander("Show details"):
-        if price["analyst_target_mean"]:
-            st.write(
-                f"Analyst 12-mo target: **\\${price['analyst_target_mean']:.2f}** "
-                f"(\\${price['analyst_target_low']:.2f}-\\${price['analyst_target_high']:.2f})"
-            )
-            st.caption(f"{price['analyst_count']} analysts · {price['analyst_recommendation']} · not a prediction, just published Wall Street consensus")
-            render_buy_weight(price, cap)
+    if price["analyst_target_mean"]:
+        st.write(
+            f"Analyst 12-mo target: **\\${price['analyst_target_mean']:.2f}** "
+            f"(\\${price['analyst_target_low']:.2f}-\\${price['analyst_target_high']:.2f})"
+        )
+        st.caption(f"{price['analyst_count']} analysts · {price['analyst_recommendation']} · not a prediction, just published Wall Street consensus")
+        render_buy_weight(price, cap)
 
-        st.write(f"Sentiment: **{sentiment['label']}** ({sentiment['average_score']:+.3f})")
-        if bullish:
-            st.success(f"Bullish driver: [{bullish['title']}]({bullish['link']}) ({bullish['source']})", icon=":material/trending_up:")
-            st.caption(f"{bullish['category']}: {bullish['explanation']}")
-        if bearish:
-            st.error(f"Bearish driver: [{bearish['title']}]({bearish['link']}) ({bearish['source']})", icon=":material/trending_down:")
-            st.caption(f"{bearish['category']}: {bearish['explanation']}")
+    st.write(f"Sentiment: **{sentiment['label']}** ({sentiment['average_score']:+.3f})")
+    if bullish:
+        st.success(f"Bullish driver: [{bullish['title']}]({bullish['link']}) ({bullish['source']})", icon=":material/trending_up:")
+        st.caption(f"{bullish['category']}: {bullish['explanation']}")
+    if bearish:
+        st.error(f"Bearish driver: [{bearish['title']}]({bearish['link']}) ({bearish['source']})", icon=":material/trending_down:")
+        st.caption(f"{bearish['category']}: {bearish['explanation']}")
 
-        st.markdown(f"**Positive headlines ({len(groups['positive'])})**")
-        if groups["positive"]:
-            for h in groups["positive"]:
-                st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
-                st.caption(f"{h['category']}: {h['explanation']}")
-        else:
-            st.caption("None recent.")
-
-        st.markdown(f"**Negative headlines ({len(groups['negative'])})**")
-        if groups["negative"]:
-            for h in groups["negative"]:
-                st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
-                st.caption(f"{h['category']}: {h['explanation']}")
-        else:
-            st.caption("None recent.")
+    with st.expander(f"Positive headlines ({len(groups['positive'])})"):
+        for h in groups["positive"]:
+            st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
+            st.caption(f"{h['category']}: {h['explanation']}")
+    with st.expander(f"Negative headlines ({len(groups['negative'])})"):
+        for h in groups["negative"]:
+            st.markdown(f"- [{h['title']}]({h['link']}) ({h['source']})")
+            st.caption(f"{h['category']}: {h['explanation']}")
 
 
 def remove_from_watchlist(ticker: str) -> None:
