@@ -1,2 +1,3 @@
 GC=F,Gold
 SI=F,Silver
+CL=F,Oil (WTI)
