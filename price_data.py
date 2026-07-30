@@ -40,6 +40,7 @@ def get_price_summary(ticker: str) -> dict:
         "analyst_target_high": info.get("targetHighPrice"),
         "analyst_count": info.get("numberOfAnalystOpinions"),
         "analyst_recommendation": humanize(info.get("recommendationKey")),
+        "beta": info.get("beta"),
     }
 
 
