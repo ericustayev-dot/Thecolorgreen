@@ -5,6 +5,7 @@ import json
 import os
 
 import streamlit as st
+import streamlit.components.v1 as components
 from streamlit_searchbox import st_searchbox
 
 from main import load_watchlist, load_commodities, WATCHLIST_FILE, COMMODITIES_FILE
@@ -56,16 +57,16 @@ def render_mover_row(m: dict, direction: str) -> None:
 
         if st.session_state.get("selected_mover") == m["ticker"]:
             st.markdown(f'<div id="detail-{m["ticker"]}"></div>', unsafe_allow_html=True)
-            st.markdown(
+            components.html(
                 f"""
                 <script>
                 setTimeout(function() {{
-                    var el = document.getElementById("detail-{m['ticker']}");
+                    var el = window.parent.document.getElementById("detail-{m['ticker']}");
                     if (el) {{ el.scrollIntoView({{behavior: "smooth", block: "start"}}); }}
                 }}, 150);
                 </script>
                 """,
-                unsafe_allow_html=True,
+                height=0,
             )
             st.divider()
             try:
