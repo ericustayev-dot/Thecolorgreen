@@ -1157,3 +1157,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-30T18:06:33+00:00,open,AVGO,385.48,4.09,0.228,positive,Is Broadcom (AVGO) Stock Below Fair Value After Its AI Deals?
 2026-07-30T18:06:33+00:00,open,MRVL,181.11,10.84,-0.064,negative,Nvidia: Stop Worrying About Circular Financing and Embrace the Bank
 2026-07-30T18:06:33+00:00,open,APLD,27.85,19.94,0.084,positive,Applied Digital (APLD) Tops Quarterly Revenue Estimates As AI Data Center Demand Holds Up
+2026-07-30T23:37:20+00:00,close,AAPL,333.43,-1.41,0.116,positive,"Apple tops estimates in CEO Cook's final quarter, but shares fall"
+2026-07-30T23:37:20+00:00,close,TSLA,308.85,3.53,0.04,neutral,Rivian Stock Got a Boost From Q2 Earnings Results. The R2 Rollout Is Paying Off.
+2026-07-30T23:37:20+00:00,close,NVDA,195.04,2.65,0.0,neutral,"Huntington Ingalls Industries, Inc. Q2 2026 Earnings Call Summary"
+2026-07-30T23:37:20+00:00,close,URG,1.25,5.93,0.33,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-07-30T23:37:20+00:00,close,LEU,176.75,10.68,0.14,positive,Centrus Energy to Report Q2 Earnings: What's in Store for the Stock?
+2026-07-30T23:37:20+00:00,close,CCJ,88.23,4.33,0.252,positive,Purecore Signs Definitive Agreement with Skyharbour for Yurchison Uranium Property Option in Athabasca Basin
+2026-07-30T23:37:20+00:00,close,LUNR,12.25,7.55,0.017,neutral,New Strong Sell Stocks for July 28th
+2026-07-30T23:37:20+00:00,close,OUST,35.53,13.51,0.143,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-30T23:37:20+00:00,close,MBLY,7.9,-1.37,0.011,neutral,Qualcomm wins BMW chip supply deal for future vehicle platforms
+2026-07-30T23:37:20+00:00,close,SYM,42.94,6.45,-0.043,neutral,Symbotic Inc. (SYM) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-30T23:37:20+00:00,close,INTU,315.5,-5.29,0.138,positive,Intuit and College Board Partner to Bring Free Financial Tools and Resources to High School Classrooms Through New AP® Business with Personal Finance Course
+2026-07-30T23:37:20+00:00,close,CBRS,203.07,19.88,0.176,positive,"CleanCore Solutions, Inc. (NYSE AMERICAN: ZONE) Signs AI Colocation Services Agreement with Cerebras Systems (NASDAQ: CBRS) for a Data Center Campus in Minnesota"
+2026-07-30T23:37:20+00:00,close,SPCX,112.2,-0.31,0.117,positive,"SpaceX Feels For A Bottom Amid $1.6 Bil Contract Win, Permitting Scrap"
+2026-07-30T23:37:20+00:00,close,IONQ,35.77,11.82,0.095,positive,IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology
+2026-07-30T23:37:20+00:00,close,SERV,4.81,10.07,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-30T23:37:20+00:00,close,UMAC,20.51,18.83,-0.049,neutral,"This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots— Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears"
+2026-07-30T23:37:20+00:00,close,SNOW,298.1,5.37,0.233,positive,CCC Intelligent Solutions Holdings Inc. (CCC) Q2 Earnings Match Estimates
+2026-07-30T23:37:20+00:00,close,NOW,110.07,-4.92,-0.062,negative,Has ServiceNow (NOW) Fallen Far Enough To Look Cheap?
+2026-07-30T23:37:20+00:00,close,ARKO,8.05,4.01,0.064,positive,Is ARKO (ARKO) a Buy as Wall Street Analysts Look Optimistic?
+2026-07-30T23:37:20+00:00,close,ISRG,352.97,-0.04,0.049,neutral,Is ISRG Winning the Next Phase of Robotic Surgery Beyond Urology?
+2026-07-30T23:37:20+00:00,close,TMUS,173.34,-4.51,0.082,positive,Can T-Mobile and Verizon win on the strength of customer experience?
+2026-07-30T23:37:20+00:00,close,UBER,70.37,-1.17,-0.032,neutral,Uber Technologies (UBER) Stock Drops Despite Market Gains: Important Facts to Note
+2026-07-30T23:37:20+00:00,close,PLTR,122.26,-0.6,0.119,positive,"Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key"
+2026-07-30T23:37:20+00:00,close,AMR,143.81,3.34,-0.088,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-07-30T23:37:20+00:00,close,LAC,2.89,6.64,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-30T23:37:20+00:00,close,MP,41.66,9.34,-0.023,neutral,Investors Are Racing to Find America's Next Rare Earth Winner
+2026-07-30T23:37:20+00:00,close,UEC,9.74,7.74,0.106,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-07-30T23:37:20+00:00,close,OKLO,41.09,11.54,0.285,positive,Oklo (OKLO) Wins DOE Startup Approval For Its Groves Test Reactor
+2026-07-30T23:37:20+00:00,close,UUUU,11.71,9.03,0.166,positive,Energy Fuels (UUUU) Stock Declines While Market Improves: Some Information for Investors
+2026-07-30T23:37:20+00:00,close,RTX,214.38,-0.4,0.0,neutral,Lockheed Martin Gets a ‘Mega’ Missile Contract. War Spending Hasn’t Peaked.
+2026-07-30T23:37:20+00:00,close,AMZN,235.5,3.9,0.301,positive,"Investors love AI, as long as you’re a cloud host"
+2026-07-30T23:37:20+00:00,close,AMD,485.39,13.0,0.461,positive,AMD Stock Gets Powerful Vote of Confidence
+2026-07-30T23:37:20+00:00,close,META,539.03,-7.95,0.107,positive,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge"
+2026-07-30T23:37:20+00:00,close,AVGO,387.84,4.73,0.216,positive,"Apple Tops Third-Quarter Estimates; IPad, Services Revenue Falls Short"
+2026-07-30T23:37:20+00:00,close,MRVL,183.3,12.18,-0.064,negative,Nvidia: Stop Worrying About Circular Financing and Embrace the Bank
+2026-07-30T23:37:20+00:00,close,APLD,27.97,20.46,0.121,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
