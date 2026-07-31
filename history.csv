@@ -1229,3 +1229,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-31T18:51:52+00:00,open,AVGO,389.24,0.36,0.133,positive,The 5 Best Long-Term Investment Stocks to Buy for Steady Returns
 2026-07-31T18:51:52+00:00,open,MRVL,193.14,5.37,0.036,neutral,"Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market"
 2026-07-31T18:51:52+00:00,open,APLD,27.86,-0.39,0.152,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
+2026-07-31T23:38:18+00:00,close,AAPL,308.91,-7.35,0.313,positive,Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles
+2026-07-31T23:38:18+00:00,close,TSLA,311.21,0.76,-0.139,negative,Tesla Stock Falls 1.8% as Musk Denies China Separation Report
+2026-07-31T23:38:18+00:00,close,NVDA,200.75,2.93,0.232,positive,Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles
+2026-07-31T23:38:18+00:00,close,URG,1.22,-2.4,0.33,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-07-31T23:38:18+00:00,close,LEU,176.93,0.1,0.201,positive,"STARTRADER expands AI offering with 31 New US Share & ETF CFDs in Semiconductors, Optical Networking & Nuclear"
+2026-07-31T23:38:18+00:00,close,CCJ,86.38,-2.1,0.213,positive,Cameco shares gain on revenue beat despite earnings miss
+2026-07-31T23:38:18+00:00,close,LUNR,12.34,0.73,0.017,neutral,New Strong Sell Stocks for July 28th
+2026-07-31T23:38:18+00:00,close,OUST,39.01,9.79,0.143,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-07-31T23:38:18+00:00,close,MBLY,7.94,0.51,0.011,neutral,Qualcomm wins BMW chip supply deal for future vehicle platforms
+2026-07-31T23:38:18+00:00,close,SYM,43.05,0.26,-0.043,neutral,Symbotic Inc. (SYM) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-31T23:38:18+00:00,close,INTU,316.07,0.18,0.335,positive,Ontario Superior Court of Justice Certifies Consumer Protection and Competition Act Class Action Against Intuit
+2026-07-31T23:38:18+00:00,close,CBRS,198.71,-2.15,0.273,positive,"CleanCore Solutions, Inc. (NYSE AMERICAN: ZONE) Signs AI Colocation Services Agreement with Cerebras Systems (NASDAQ: CBRS) for a Data Center Campus in Minnesota"
+2026-07-31T23:38:18+00:00,close,SPCX,108.37,-3.41,0.112,positive,S&P 500 Posts Weekly Gain Amid AI Monetization Optimism
+2026-07-31T23:38:18+00:00,close,IONQ,36.44,1.87,0.326,positive,IonQ (IONQ) Wins Approval To Buy SkyWater And Secure A U.S. Chip Foundry
+2026-07-31T23:38:18+00:00,close,SERV,4.78,-0.62,0.253,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-07-31T23:38:18+00:00,close,UMAC,21.16,3.17,0.211,positive,UMAC Set to Report Q2 Results: Can Revenue Growth Boost Earnings?
+2026-07-31T23:38:18+00:00,close,SNOW,293.28,-1.62,0.148,positive,AI Traction Fuels Snowflake’s (SNOW) Guidance Boost
+2026-07-31T23:38:18+00:00,close,NOW,111.23,1.05,0.035,neutral,"IBM's Enterprise AI Strategy Targets Security, Data Control and Trust"
+2026-07-31T23:38:18+00:00,close,ARKO,7.99,-0.75,0.064,positive,Is ARKO (ARKO) a Buy as Wall Street Analysts Look Optimistic?
+2026-07-31T23:38:18+00:00,close,ISRG,353.33,0.1,0.209,positive,Intuitive Surgical (ISRG) vs. Medtronic (MDT): Which MedTech Stock Looks Better Positioned for Growth?
+2026-07-31T23:38:18+00:00,close,TMUS,172.71,-0.36,-0.105,negative,AT&T and Verizon tumble as Musk’s SpaceX plots direct mobile threat
+2026-07-31T23:38:18+00:00,close,UBER,70.36,-0.01,-0.071,negative,S&P 500 Posts Weekly Gain Amid AI Monetization Optimism
+2026-07-31T23:38:18+00:00,close,PLTR,123.06,0.65,0.229,positive,S&P 500 Posts Weekly Gain Amid AI Monetization Optimism
+2026-07-31T23:38:18+00:00,close,AMR,137.16,-4.62,-0.088,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-07-31T23:38:18+00:00,close,LAC,2.87,-0.69,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-07-31T23:38:18+00:00,close,MP,41.37,-0.7,-0.023,neutral,Investors Are Racing to Find America's Next Rare Earth Winner
+2026-07-31T23:38:18+00:00,close,UEC,9.6,-1.44,0.201,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-07-31T23:38:18+00:00,close,OKLO,38.83,-5.5,0.412,positive,Oklo (OKLO) Wins DOE Startup Approval For Its Groves Test Reactor
+2026-07-31T23:38:18+00:00,close,UUUU,11.44,-2.31,0.1,positive,"First Quantum Minerals (FQVLF) Reports Q2 Loss, Beats Revenue Estimates"
+2026-07-31T23:38:18+00:00,close,RTX,215.22,0.39,0.106,positive,Lockheed Martin Gets a ‘Mega’ Missile Contract. War Spending Hasn’t Peaked.
+2026-07-31T23:38:18+00:00,close,AMZN,271.58,15.32,0.244,positive,Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles
+2026-07-31T23:38:18+00:00,close,AMD,476.15,-1.9,0.147,positive,S&P 500 Posts Weekly Gain Amid AI Monetization Optimism
+2026-07-31T23:38:18+00:00,close,META,556.71,3.28,0.165,positive,Meta Stock Rebounds as Amazon Revives AI Confidence
+2026-07-31T23:38:18+00:00,close,AVGO,389.28,0.37,0.133,positive,The 5 Best Long-Term Investment Stocks to Buy for Steady Returns
+2026-07-31T23:38:18+00:00,close,MRVL,187.56,2.32,-0.116,negative,Marvell Stock Has Been Cut in Half. Its Biggest Fear May No Longer Be Valid.
+2026-07-31T23:38:18+00:00,close,APLD,27.39,-2.07,0.152,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
