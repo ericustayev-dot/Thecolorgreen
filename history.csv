@@ -1265,3 +1265,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-07-31T23:38:18+00:00,close,AVGO,389.28,0.37,0.133,positive,The 5 Best Long-Term Investment Stocks to Buy for Steady Returns
 2026-07-31T23:38:18+00:00,close,MRVL,187.56,2.32,-0.116,negative,Marvell Stock Has Been Cut in Half. Its Biggest Fear May No Longer Be Valid.
 2026-07-31T23:38:18+00:00,close,APLD,27.39,-2.07,0.152,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
+2026-08-03T19:10:02+00:00,open,AAPL,305.85,-0.99,0.267,positive,Stock Market Today: Nasdaq Jumps 2% As Amazon Passes $3 Trillion Level; This Viking Tops Entry (Live Coverage)
+2026-08-03T19:10:02+00:00,open,TSLA,323.2,3.85,0.013,neutral,"A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap"
+2026-08-03T19:10:02+00:00,open,NVDA,208.36,3.79,0.154,positive,Amazon Stock Jumps 5% -- Tops $3 Trillion for the First Time Ever
+2026-08-03T19:10:02+00:00,open,URG,1.25,2.87,0.33,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-08-03T19:10:02+00:00,open,LEU,184.25,4.14,0.201,positive,"STARTRADER expands AI offering with 31 New US Share & ETF CFDs in Semiconductors, Optical Networking & Nuclear"
+2026-08-03T19:10:02+00:00,open,CCJ,89.58,3.7,0.102,positive,"News of the day: GDP gains, Ontario nickel mine approval, oilpatch growth, ignoring rate hike risk, Cameco's Westinghouse IPO and more"
+2026-08-03T19:10:02+00:00,open,LUNR,13.06,5.88,0.017,neutral,New Strong Sell Stocks for July 28th
+2026-08-03T19:10:02+00:00,open,OUST,41.79,7.13,0.143,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-08-03T19:10:02+00:00,open,MBLY,8.14,2.46,0.011,neutral,Qualcomm wins BMW chip supply deal for future vehicle platforms
+2026-08-03T19:10:02+00:00,open,SYM,45.83,6.46,0.076,positive,IperionX Advances American Titanium Growth Strategy With Proposed U.S. Redomiciliation and Board Appointment
+2026-08-03T19:10:02+00:00,open,INTU,321.32,1.66,0.228,positive,Is Intuit (INTU) Undervalued Following Strong Q3 Results And Its AI Restructuring?
+2026-08-03T19:10:02+00:00,open,CBRS,218.38,9.9,0.273,positive,"CleanCore Solutions, Inc. (NYSE AMERICAN: ZONE) Signs AI Colocation Services Agreement with Cerebras Systems (NASDAQ: CBRS) for a Data Center Campus in Minnesota"
+2026-08-03T19:10:02+00:00,open,SPCX,110.39,1.86,0.076,positive,Top Analyst Drops Last Minute Call on SpaceX Before Earnings
+2026-08-03T19:10:02+00:00,open,IONQ,39.68,8.89,0.197,positive,FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry
+2026-08-03T19:10:02+00:00,open,SERV,5.59,16.84,0.169,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-08-03T19:10:02+00:00,open,UMAC,22.57,6.66,0.211,positive,UMAC Set to Report Q2 Results: Can Revenue Growth Boost Earnings?
+2026-08-03T19:10:02+00:00,open,SNOW,309.44,5.51,0.151,positive,"Wall Street Is Rewarding AI Results, Not Just AI Spending"
+2026-08-03T19:10:02+00:00,open,NOW,115.26,3.62,-0.114,negative,ServiceNow cuts nearly 300 jobs in Silicon Valley
+2026-08-03T19:10:02+00:00,open,ARKO,7.66,-4.07,0.045,neutral,Is It Worth Investing in ARKO (ARKO) Based on Wall Street's Bullish Views?
+2026-08-03T19:10:02+00:00,open,ISRG,372.17,5.33,0.185,positive,Intuitive Surgical (ISRG) vs. Medtronic (MDT): Which MedTech Stock Looks Better Positioned for Growth?
+2026-08-03T19:10:02+00:00,open,TMUS,176.96,2.46,-0.111,negative,"Glide.id Beta Launches First Carrier-Native Cryptographic Authentication Across AT&T, T-Mobile and Verizon as AI Fraud Reaches Record Highs"
+2026-08-03T19:10:02+00:00,open,UBER,71.42,1.5,0.262,positive,"Update: Equities Rise Intraday, Oil Slides Amid Middle East Deal Optimism"
+2026-08-03T19:10:02+00:00,open,PLTR,125.61,2.08,0.378,positive,Palantir Reports Earnings Today. Can Strong Results Inject Some Fresh Enthusiasm Back Into the Stock?
+2026-08-03T19:10:02+00:00,open,AMR,139.22,1.5,0.0,neutral,Silvercorp (SVM) Earnings Expected to Grow: What to Know Ahead of Next Week's Release
+2026-08-03T19:10:02+00:00,open,LAC,3.02,5.17,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-08-03T19:10:02+00:00,open,MP,43.96,6.26,-0.023,neutral,Investors Are Racing to Find America's Next Rare Earth Winner
+2026-08-03T19:10:02+00:00,open,UEC,9.93,3.44,0.201,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-08-03T19:10:02+00:00,open,OKLO,41.48,6.82,0.528,positive,Oklo (OKLO) Stock Looks Above Fair Value Following DOE Reactor Approval
+2026-08-03T19:10:02+00:00,open,UUUU,12.07,5.51,0.1,positive,"First Quantum Minerals (FQVLF) Reports Q2 Loss, Beats Revenue Estimates"
+2026-08-03T19:10:02+00:00,open,RTX,216.6,0.64,0.106,positive,RTX's Pratt & Whitney awarded $1.3 billion F135 sustainment contract
+2026-08-03T19:10:02+00:00,open,AMZN,283.04,4.22,0.163,positive,Stock Market Today: Nasdaq Jumps 2% As Amazon Passes $3 Trillion Level; This Viking Tops Entry (Live Coverage)
+2026-08-03T19:10:02+00:00,open,AMD,484.66,1.79,0.459,positive,"S&P 500 Quarterly Profit Growth Eases Amid Sharp Tech Slowdown, Oppenheimer Says"
+2026-08-03T19:10:02+00:00,open,META,593.38,6.59,0.007,neutral,How the S&P 500 Survives a Chip Meltdown Without Falling Into a Bear Market
+2026-08-03T19:10:02+00:00,open,AVGO,391.34,0.53,0.022,neutral,Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?
+2026-08-03T19:10:02+00:00,open,MRVL,192.34,2.55,-0.11,negative,Semiconductor stocks pare losses amid fears of increased competition from China
+2026-08-03T19:10:02+00:00,open,APLD,29.57,7.96,0.152,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
