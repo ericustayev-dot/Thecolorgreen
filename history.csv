@@ -1373,3 +1373,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-04T19:11:44+00:00,open,AVGO,421.61,7.49,0.072,positive,MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses
 2026-08-04T19:11:44+00:00,open,MRVL,220.46,13.77,0.003,neutral,Marvell Technology (MRVL) Could Be 38% Above Fair Value As AI Narrative Builds
 2026-08-04T19:11:44+00:00,open,APLD,31.8,7.84,0.219,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
+2026-08-04T23:39:55+00:00,close,AAPL,309.38,1.96,-0.141,negative,"Google Should Be Forced To Shed Chrome, Advocacy Group Argues"
+2026-08-04T23:39:55+00:00,close,TSLA,327.35,1.64,0.026,neutral,Ross Gerber Says Tesla's FSD 'Almost' Caused an Accident While Passing Emergency Vehicles: 'Still Has Major Issues'
+2026-08-04T23:39:55+00:00,close,NVDA,211.94,2.56,0.139,positive,United Parks & Resorts Inc. Q2 2026 Earnings Call Summary
+2026-08-04T23:39:55+00:00,close,URG,1.3,3.17,0.175,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-08-04T23:39:55+00:00,close,LEU,189.24,2.42,0.255,positive,Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?
+2026-08-04T23:39:55+00:00,close,CCJ,93.09,3.76,0.108,positive,Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?
+2026-08-04T23:39:55+00:00,close,LUNR,13.96,6.56,0.264,positive,Intuitive Machines (LUNR) Is Up 5.9% After Winning 18 SDA IM‑300 Defense Spacecraft Orders
+2026-08-04T23:39:55+00:00,close,OUST,47.84,12.62,0.143,positive,Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy
+2026-08-04T23:39:55+00:00,close,MBLY,8.64,6.93,0.011,neutral,Qualcomm wins BMW chip supply deal for future vehicle platforms
+2026-08-04T23:39:55+00:00,close,SYM,47.46,3.51,0.076,positive,IperionX Advances American Titanium Growth Strategy With Proposed U.S. Redomiciliation and Board Appointment
+2026-08-04T23:39:55+00:00,close,INTU,323.6,1.64,0.13,positive,Intuit cut to Hold at Truist on softening growth outlook; shares dip
+2026-08-04T23:39:55+00:00,close,CBRS,227.15,3.26,0.273,positive,"CleanCore Solutions, Inc. (NYSE AMERICAN: ZONE) Signs AI Colocation Services Agreement with Cerebras Systems (NASDAQ: CBRS) for a Data Center Campus in Minnesota"
+2026-08-04T23:39:55+00:00,close,SPCX,125.33,9.43,0.24,positive,"Dow, S&P 500 close at records on AI results, Mideast deal hopes"
+2026-08-04T23:39:55+00:00,close,IONQ,41.72,7.39,0.118,positive,IonQ and Sandia National Laboratories Sign MOU to Accelerate Quantum Co-Design for National Security Applications
+2026-08-04T23:39:55+00:00,close,SERV,5.69,0.71,0.169,positive,Serve Robotics vs. DoorDash: Which Autonomous Delivery Stock Wins?
+2026-08-04T23:39:55+00:00,close,UMAC,26.67,15.55,0.211,positive,UMAC Set to Report Q2 Results: Can Revenue Growth Boost Earnings?
+2026-08-04T23:39:55+00:00,close,SNOW,316.77,3.0,0.295,positive,Why Palantir is the 'best' publicly traded tech company
+2026-08-04T23:39:55+00:00,close,NOW,118.14,3.46,0.227,positive,"ServiceNow delivers Autonomous Security, the industry's most complete security offering"
+2026-08-04T23:39:55+00:00,close,ARKO,7.49,-1.32,0.045,neutral,Is It Worth Investing in ARKO (ARKO) Based on Wall Street's Bullish Views?
+2026-08-04T23:39:55+00:00,close,ISRG,368.27,-1.9,0.156,positive,Intuitive Surgical (ISRG) vs. Medtronic (MDT): Which MedTech Stock Looks Better Positioned for Growth?
+2026-08-04T23:39:55+00:00,close,TMUS,177.21,0.07,-0.059,negative,Wireless Stocks Turn Lower on SpaceX Mobile Plans
+2026-08-04T23:39:55+00:00,close,UBER,71.99,0.53,0.072,positive,Is CAR Stock Worth Buying Despite Weak Liquidity and High Valuation?
+2026-08-04T23:39:55+00:00,close,PLTR,162.66,29.45,0.387,positive,"Update: S&P 500, Dow Scale New Peaks Amid Strong Earnings Flow, Strait of Hormuz Reopening Optimism"
+2026-08-04T23:39:55+00:00,close,AMR,140.59,1.58,0.0,neutral,Almonty Industries Inc. (ALM) Stock Jumps 13.6%: Will It Continue to Soar?
+2026-08-04T23:39:55+00:00,close,LAC,3.08,3.36,-0.122,negative,Lithium Americas Corp. (LAC) Suffers a Larger Drop Than the General Market: Key Insights
+2026-08-04T23:39:55+00:00,close,MP,47.47,8.28,-0.1,negative,A Junior Just Pulled Rock Grading Double the Historical Numbers From a Nevada Tungsten District the U.S. Badly Needs
+2026-08-04T23:39:55+00:00,close,UEC,10.5,5.32,0.201,positive,The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman
+2026-08-04T23:39:55+00:00,close,OKLO,43.33,5.12,0.528,positive,Oklo (OKLO) Stock Looks Above Fair Value Following DOE Reactor Approval
+2026-08-04T23:39:55+00:00,close,UUUU,12.86,5.84,0.272,positive,Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?
+2026-08-04T23:39:55+00:00,close,RTX,217.93,0.59,0.047,neutral,RTX's Pratt & Whitney awarded $1.3 billion F135 sustainment contract
+2026-08-04T23:39:55+00:00,close,AMZN,277.42,-2.32,0.005,neutral,AMD Stock Slides After Solid  Earnings Report
+2026-08-04T23:39:55+00:00,close,AMD,518.58,7.0,0.131,positive,Advanced Micro Devices Q2 Earnings Call Highlights
+2026-08-04T23:39:55+00:00,close,META,587.94,-0.39,0.105,positive,AI data-centre race builds $1 trillion lease burden for Big Tech
+2026-08-04T23:39:55+00:00,close,AVGO,418.16,6.61,0.221,positive,"Intel, AMD Lead Powerful Chip Stocks Rally on AI Optimism"
+2026-08-04T23:39:55+00:00,close,MRVL,218.59,12.8,0.067,positive,Marvell Technology (MRVL) Could Be 38% Above Fair Value As AI Narrative Builds
+2026-08-04T23:39:55+00:00,close,APLD,31.27,6.04,0.139,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
