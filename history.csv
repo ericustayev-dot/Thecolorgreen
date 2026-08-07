@@ -1517,3 +1517,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-07T04:35:09+00:00,close,AVGO,420.57,0.55,0.13,positive,Broadcom Enables Enterprises to Strengthen Multi-Layer Cyber Defense and Operational Efficiency with New vDefend and Avi Load Balancer Capabilities
 2026-08-07T04:35:09+00:00,close,MRVL,210.54,-0.23,0.016,neutral,Sandisk's Weak Guidance Sends AI Chip Stocks Tumbling
 2026-08-07T04:35:09+00:00,close,APLD,28.86,-3.38,0.139,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
+2026-08-07T16:35:32+00:00,open,AAPL,312.14,-0.09,0.047,neutral,Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes
+2026-08-07T16:35:32+00:00,open,TSLA,329.21,3.03,0.2,positive,Tesla Stock Rises to End Good Week. Thank the Usual Suspects.
+2026-08-07T16:35:32+00:00,open,NVDA,222.33,1.53,-0.091,negative,Top Midday Stories: Stocks Rise on Dismal Jobs Report; Doximity Shares Soar After CEO Touts New AI Search Tool
+2026-08-07T16:35:32+00:00,open,URG,1.38,4.96,0.377,positive,Cameco Gains 7% Despite Q2 Earnings Miss: How to Play the Stock?
+2026-08-07T16:35:32+00:00,open,LEU,185.96,4.46,0.546,positive,Centrus Energy (NYSE:LEU) Beats Expectations in Strong Q2 CY2026
+2026-08-07T16:35:32+00:00,open,CCJ,96.86,3.47,0.339,positive,Cameco Gains 7% Despite Q2 Earnings Miss: How to Play the Stock?
+2026-08-07T16:35:32+00:00,open,LUNR,16.31,9.24,0.15,positive,Intuitive Machines (LUNR) Is Up 5.9% After Winning 18 SDA IM‑300 Defense Spacecraft Orders
+2026-08-07T16:35:32+00:00,open,OUST,44.26,-2.91,0.165,positive,"Ouster (OUST) Names A Chief People Officer, Is It Still Below Fair Value?"
+2026-08-07T16:35:32+00:00,open,MBLY,8.69,3.15,0.268,positive,Mobileye Global Inc (MBLY) Q2 2026 Earnings Call Highlights: Strong Profit Growth Amid Flat Revenue
+2026-08-07T16:35:32+00:00,open,SYM,40.0,1.01,0.192,positive,Symbotic (SYM) Is Up 15.3% After Q3 Profit Return And Higher Revenue Outlook - What’s Changed
+2026-08-07T16:35:32+00:00,open,INTU,330.23,2.59,0.101,positive,Intuit cut to Hold at Truist on softening growth outlook; shares dip
+2026-08-07T16:35:32+00:00,open,CBRS,223.24,5.65,0.403,positive,Lovable and Cerebras Partner to Power AI Software Creation on the World's Fastest Inference Platform
+2026-08-07T16:35:32+00:00,open,SPCX,129.76,12.91,0.114,positive,SPCX Fell 24.5% in the Past Month: Is the Sell-Off an Opportunity?
+2026-08-07T16:35:32+00:00,open,IONQ,43.01,8.29,0.128,positive,"IonQ Q2 Showed Strong Commercial Momentum, 256-Qubit System Remains on Track, Morgan Stanley Says"
+2026-08-07T16:35:32+00:00,open,SERV,5.11,-10.12,-0.117,negative,"Serve Robotics Inc. (SERV) Reports Q2 Loss, Lags Revenue Estimates"
+2026-08-07T16:35:32+00:00,open,UMAC,26.26,8.4,0.018,neutral,Why Unusual Machines (UMAC) Is Up 18.1% After Q2 Loss But First-Half Turn to Profit
+2026-08-07T16:35:32+00:00,open,SNOW,325.64,2.4,0.017,neutral,Atlassian results seen as ’game changer’ for AI kills software worries
+2026-08-07T16:35:32+00:00,open,NOW,124.87,6.41,0.175,positive,ServiceNow Opens First Brazil Office; Expands Academic Partnerships to Build Regional AI Talent
+2026-08-07T16:35:32+00:00,open,ARKO,6.02,-17.42,0.002,neutral,"ARKO Petroleum Corp Announces Agreement to Acquire the Business of U.S. Petroleum Partners, LLC (“USPP”), a Vertically Integrated Fuel Supply and Distribution Platform Expected to Increase Annual Wholesale Fuel Volumes by Approximately 280 Million Gallons and Add Approximately $30 Million of Annual Adjusted EBITDA"
+2026-08-07T16:35:32+00:00,open,ISRG,376.81,0.83,0.156,positive,Intuitive Surgical (ISRG) vs. Medtronic (MDT): Which MedTech Stock Looks Better Positioned for Growth?
+2026-08-07T16:35:32+00:00,open,TMUS,176.93,-1.69,0.365,positive,T Mobile (TMUS) Stock Looks Fairly Valued Despite Recent Pressure
+2026-08-07T16:35:32+00:00,open,UBER,74.81,6.15,0.239,positive,"How ride-hailing services Uber, Lyft boosted local economies: Carnegie Mellon study"
+2026-08-07T16:35:32+00:00,open,PLTR,169.71,8.85,0.008,neutral,Software Stocks Are a Hot Mess. So Is the Whole AI Trade.
+2026-08-07T16:35:32+00:00,open,AMR,149.37,-1.81,-0.152,negative,Stacker Reclaimer Equipment at Dominion Terminal Associates Damaged by High Winds
+2026-08-07T16:35:32+00:00,open,LAC,3.18,5.31,0.097,positive,Lithium Americas Further Strengthens Balance Sheet with $175 Million Financing as Thacker Pass Approaches Peak Construction
+2026-08-07T16:35:32+00:00,open,MP,51.76,8.99,0.082,positive,Why MP Materials (MP) Is Up 14.0% After Strong Q2 Results And Project Swarm Progress
+2026-08-07T16:35:32+00:00,open,UEC,11.28,4.88,0.405,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-07T16:35:32+00:00,open,OKLO,48.02,13.82,0.046,neutral,Is Oklo (OKLO) Undervalued After Reaching Criticality At Its Groves Reactor?
+2026-08-07T16:35:32+00:00,open,UUUU,14.1,9.26,0.164,positive,Energy Fuels starts construction on White Mesa Mill expansion
+2026-08-07T16:35:32+00:00,open,RTX,221.97,-0.57,0.229,positive,"Honeywell Aerospace Needs to Resolve Supply Chain Issues for Upside, Morgan Stanley Says"
+2026-08-07T16:35:32+00:00,open,AMZN,276.07,1.4,-0.04,neutral,Top Midday Stories: Stocks Rise on Dismal Jobs Report; Doximity Shares Soar After CEO Touts New AI Search Tool
+2026-08-07T16:35:32+00:00,open,AMD,478.8,-2.14,0.114,positive,ETFs to Buy as AMD Shares Sink 7% Despite Q2 Earnings Beat
+2026-08-07T16:35:32+00:00,open,META,593.64,0.63,0.036,neutral,"Microsoft, Amazon, Meta, Google Are 'Collectively Overinvesting' In AI: 'That's Betting, Not Investing,' Says 'Dean of Valuation'"
+2026-08-07T16:35:32+00:00,open,AVGO,423.55,0.71,0.236,positive,"Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate"
+2026-08-07T16:35:32+00:00,open,MRVL,216.62,2.89,0.08,positive,Stock Index Futures Gain With All Eyes on Key U.S. Jobs Report
+2026-08-07T16:35:32+00:00,open,APLD,28.96,0.35,0.139,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
