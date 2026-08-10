@@ -1625,3 +1625,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-10T16:29:43+00:00,open,AVGO,425.44,-0.54,0.156,positive,Alphabet's Higher AI Spending Could Boost These ETFs
 2026-08-10T16:29:43+00:00,open,MRVL,214.52,-1.92,0.329,positive,Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth
 2026-08-10T16:29:43+00:00,open,APLD,29.2,-0.06,0.287,positive,Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock
+2026-08-10T22:08:52+00:00,close,AAPL,308.26,-1.62,-0.159,negative,Apple Stock Downgraded to Sell as Analyst Claims All-Glass iPhone Is Dead
+2026-08-10T22:08:52+00:00,close,TSLA,330.88,0.7,-0.021,neutral,Tesla Autopilot under scrutiny after crash involving 49ers coach Kyle Shanahan
+2026-08-10T22:08:52+00:00,close,NVDA,217.55,-2.86,-0.055,negative,CoreWeave Investors Face a Growing Problem
+2026-08-10T22:08:52+00:00,close,URG,1.42,1.43,0.322,positive,Cameco Gains 7% Despite Q2 Earnings Miss: How to Play the Stock?
+2026-08-10T22:08:52+00:00,close,LEU,189.34,-1.06,0.496,positive,Centrus Energy (NYSE:LEU) Beats Expectations in Strong Q2 CY2026
+2026-08-10T22:08:52+00:00,close,CCJ,97.31,-0.08,0.183,positive,Cameco Gains 7% Despite Q2 Earnings Miss: How to Play the Stock?
+2026-08-10T22:08:52+00:00,close,LUNR,15.78,-3.78,0.127,positive,Intuitive Machines (LUNR) Is Up 5.9% After Winning 18 SDA IM‑300 Defense Spacecraft Orders
+2026-08-10T22:08:52+00:00,close,OUST,42.13,-2.93,0.051,positive,Ouster Q2 Earnings Surpass Expectations on Sensor Growth
+2026-08-10T22:08:52+00:00,close,MBLY,8.75,0.23,0.016,neutral,Qualcomm wins BMW chip supply deal for future vehicle platforms
+2026-08-10T22:08:52+00:00,close,SYM,40.11,-0.17,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-10T22:08:52+00:00,close,INTU,334.43,2.82,0.364,positive,Ontario Superior Court of Justice Certifies Consumer Protection and Competition Act Class Action Against Intuit
+2026-08-10T22:08:52+00:00,close,CBRS,230.01,1.45,0.064,positive,"Cerebras Systems (CBRS) Partners With Lovable, Is The Stock Still A Bargain?"
+2026-08-10T22:08:52+00:00,close,SPCX,138.74,4.23,-0.005,neutral,Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings
+2026-08-10T22:08:52+00:00,close,IONQ,42.53,-4.28,0.116,positive,IONQ Sees Favorable Q2 Revenue Trends: More Upside Ahead?
+2026-08-10T22:08:52+00:00,close,SERV,4.92,-3.24,0.162,positive,Is Serve Robotics (SERV) Undervalued On Strong Revenue Growth Despite A Wider Loss And Lower Outlook?
+2026-08-10T22:08:52+00:00,close,UMAC,27.14,3.94,0.095,positive,Why Unusual Machines (UMAC) Is Up 18.1% After Q2 Loss But First-Half Turn to Profit
+2026-08-10T22:08:52+00:00,close,SNOW,334.7,1.27,0.052,positive,Is Snowflake (SNOW) Stock A Bargain as AI Hopes Grow?
+2026-08-10T22:08:52+00:00,close,NOW,127.44,2.05,0.138,positive,ServiceNow (NOW) Unveils Autonomous Security to Accelerate Growth
+2026-08-10T22:08:52+00:00,close,ARKO,4.7,-16.96,0.026,neutral,ARKO Q2 Earnings Call Centers on USPP Deal and Margin Defense
+2026-08-10T22:08:52+00:00,close,ISRG,393.38,3.85,0.21,positive,Intuitive Surgical (ISRG) Stock Looks Fairly Valued Despite Its 33% Slide
+2026-08-10T22:08:52+00:00,close,TMUS,178.2,0.57,0.226,positive,Array Digital Infrastructure Inc (AD) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth ...
+2026-08-10T22:08:52+00:00,close,UBER,78.03,4.01,0.046,neutral,Is JOBY Worth Buying as Commercial Progress Meets Execution Risk?
+2026-08-10T22:08:52+00:00,close,PLTR,175.23,1.87,0.38,positive,Palantir Technologies (PLTR) Is Considered a Good Investment by Brokers: Is That True?
+2026-08-10T22:08:52+00:00,close,AMR,153.81,1.22,-0.228,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-08-10T22:08:52+00:00,close,LAC,3.25,0.62,0.097,positive,Lithium Americas Further Strengthens Balance Sheet with $175 Million Financing as Thacker Pass Approaches Peak Construction
+2026-08-10T22:08:52+00:00,close,MP,54.66,6.95,0.071,positive,MP Materials to Participate in Canaccord Genuity’s 46th Annual Growth Conference
+2026-08-10T22:08:52+00:00,close,UEC,11.38,1.07,0.405,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-10T22:08:52+00:00,close,OKLO,44.49,-8.12,-0.099,negative,"OKLO Q2 Loss Widens Y/Y, Misses Estimates on Higher Costs"
+2026-08-10T22:08:52+00:00,close,UUUU,14.29,1.06,0.133,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-10T22:08:52+00:00,close,RTX,224.12,0.49,0.139,positive,RTX's Raytheon awarded $745 million contract for SM-3 IIA interceptors
+2026-08-10T22:08:52+00:00,close,AMZN,278.09,1.32,0.16,positive,AI Spending Boom Isn’t Boosting Profit Margins—at Least Not Yet
+2026-08-10T22:08:52+00:00,close,AMD,469.56,-2.86,0.107,positive,Taalas Buyout Boosts AMD's AI Inference Abilities Against NVDA & GOOGL
+2026-08-10T22:08:52+00:00,close,META,594.92,0.48,-0.05,negative,CoreWeave Investors Face a Growing Problem
+2026-08-10T22:08:52+00:00,close,AVGO,422.4,-1.25,0.12,positive,Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?
+2026-08-10T22:08:52+00:00,close,MRVL,208.56,-4.65,0.392,positive,Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth
+2026-08-10T22:08:52+00:00,close,APLD,29.06,-0.55,0.233,positive,IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?
