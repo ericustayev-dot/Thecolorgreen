@@ -1769,3 +1769,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-12T14:39:11+00:00,open,AVGO,421.65,1.34,0.012,neutral,Latest News In AI Chips - Advanced Chip Packaging Sparks Market Growth Shift
 2026-08-12T14:39:11+00:00,open,MRVL,222.04,4.59,0.443,positive,Marvell Could Be Next Winner in Microsoft AI Bet
 2026-08-12T14:39:11+00:00,open,APLD,30.49,2.68,0.298,positive,"CoreWeave, Super Micro climb on signs of sustained AI buildout"
+2026-08-12T20:50:00+00:00,close,AAPL,302.25,-0.87,0.079,positive,Sector Update: Tech Stocks Gain Late Afternoon
+2026-08-12T20:50:00+00:00,close,TSLA,327.51,-1.59,0.292,positive,Great News For Tesla Stock Fans
+2026-08-12T20:50:00+00:00,close,NVDA,224.09,3.03,0.047,neutral,Wells Fargo Has Fresh Message for Microsoft Investors
+2026-08-12T20:50:00+00:00,close,URG,1.35,-2.88,0.15,positive,"Ur Energy (URG) Reports Q2 Loss, Tops Revenue Estimates"
+2026-08-12T20:50:00+00:00,close,LEU,185.06,-2.18,0.3,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-12T20:50:00+00:00,close,CCJ,99.03,0.3,0.055,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-12T20:50:00+00:00,close,LUNR,16.95,2.85,0.082,positive,Intuitive Machines (LUNR) Is Up 5.9% After Winning 18 SDA IM‑300 Defense Spacecraft Orders
+2026-08-12T20:50:00+00:00,close,OUST,46.12,2.19,0.165,positive,Ouster BlueCity with REV8 Lidar Wins Multimillion-Dollar Utah Traffic Modernization Expansion
+2026-08-12T20:50:00+00:00,close,MBLY,8.8,-0.79,0.268,positive,Mobileye Global Inc (MBLY) Q2 2026 Earnings Call Highlights: Strong Profit Growth Amid Flat Revenue
+2026-08-12T20:50:00+00:00,close,SYM,41.19,-1.2,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-12T20:50:00+00:00,close,INTU,334.71,-0.51,0.097,positive,What Could Intuit (INTU) New AI ERP Push Mean For Mid Market Growth?
+2026-08-12T20:50:00+00:00,close,CBRS,262.06,11.63,0.165,positive,Cerebras raises annual targets on strong AI chip demand
+2026-08-12T20:50:00+00:00,close,SPCX,146.15,9.65,0.158,positive,World’s Largest Sovereign Wealth Fund Bought $1.2 Billion in SpaceX Stock
+2026-08-12T20:50:00+00:00,close,IONQ,45.2,4.05,0.047,neutral,"IonQ, D-Wave or Rigetti: Which Quantum Stock Is the Best Buy After Q2?"
+2026-08-12T20:50:00+00:00,close,SERV,4.83,-1.43,-0.012,neutral,Serve Q2 Earnings Call Centers on Uber Reset and Lower Outlook
+2026-08-12T20:50:00+00:00,close,UMAC,27.03,4.08,0.171,positive,Why Unusual Machines (UMAC) Is Up 18.1% After Q2 Loss But First-Half Turn to Profit
+2026-08-12T20:50:00+00:00,close,SNOW,332.26,-0.56,0.111,positive,Is Snowflake (SNOW) Stock A Bargain as AI Hopes Grow?
+2026-08-12T20:50:00+00:00,close,NOW,124.94,-2.04,0.111,positive,Wells Fargo Has Fresh Message for Microsoft Investors
+2026-08-12T20:50:00+00:00,close,ARKO,4.46,1.13,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-12T20:50:00+00:00,close,ISRG,401.27,0.01,0.02,neutral,Intuitive Surgical (ISRG) Just Beat Earnings. Is the Stock Still Worth Paying a Premium?
+2026-08-12T20:50:00+00:00,close,TMUS,177.13,-0.81,0.127,positive,America’s Best Network. Pixel 11 Pro XL on Us. Only at T-Mobile
+2026-08-12T20:50:00+00:00,close,UBER,75.36,-4.05,0.21,positive,Uber's AV Ambitions in London Receive a Boost: Here's How
+2026-08-12T20:50:00+00:00,close,PLTR,171.04,-2.23,0.263,positive,"SpaceX, Nebius, Palantir, Super Micro, Quantinuum, Wendy’s, and More Stocks That Explain Today’s Market"
+2026-08-12T20:50:00+00:00,close,AMR,159.52,3.71,-0.228,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-08-12T20:50:00+00:00,close,LAC,3.26,0.31,0.097,positive,Lithium Americas Further Strengthens Balance Sheet with $175 Million Financing as Thacker Pass Approaches Peak Construction
+2026-08-12T20:50:00+00:00,close,MP,54.11,-2.05,0.141,positive,MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?
+2026-08-12T20:50:00+00:00,close,UEC,11.36,-0.87,0.368,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-12T20:50:00+00:00,close,OKLO,45.13,-4.0,0.177,positive,Can NuScale's TVA Opportunity Unlock Its Next Growth Phase?
+2026-08-12T20:50:00+00:00,close,UUUU,14.47,-2.1,0.292,positive,MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?
+2026-08-12T20:50:00+00:00,close,RTX,222.76,-0.49,0.25,positive,Can L3Harris' Platform-Agnostic Model Expand Growth Opportunities?
+2026-08-12T20:50:00+00:00,close,AMZN,267.28,-1.83,0.281,positive,"Is Amazon (AMZN) a Solid Growth Stock? 3 Reasons to Think ""Yes"""
+2026-08-12T20:50:00+00:00,close,AMD,482.93,1.82,0.108,positive,AMD Rises 3% as AI Server Demand Stays Strong
+2026-08-12T20:50:00+00:00,close,META,578.85,-3.38,-0.003,neutral,"Global Artificial General Intelligence (AGI) Market Report 2026–2033: Evaluating Foundation Models, Autonomous Agents, and Market Strategies of OpenAI, Meta, Google, xAI, and NVIDIA"
+2026-08-12T20:50:00+00:00,close,AVGO,416.05,-0.01,-0.036,neutral,This AI Stock Is Surging. Can It Shake the ‘Meme Stock’ Label?
+2026-08-12T20:50:00+00:00,close,MRVL,217.08,2.25,0.172,positive,Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC
+2026-08-12T20:50:00+00:00,close,APLD,31.15,4.92,0.31,positive,"AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro"
