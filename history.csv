@@ -1805,3 +1805,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-12T20:50:00+00:00,close,AVGO,416.05,-0.01,-0.036,neutral,This AI Stock Is Surging. Can It Shake the ‘Meme Stock’ Label?
 2026-08-12T20:50:00+00:00,close,MRVL,217.08,2.25,0.172,positive,Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC
 2026-08-12T20:50:00+00:00,close,APLD,31.15,4.92,0.31,positive,"AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro"
+2026-08-13T14:40:15+00:00,open,AAPL,305.28,1.0,0.156,positive,Market Chatter: Apple Seeks Deals With News Publishers to Improve Siri
+2026-08-13T14:40:15+00:00,open,TSLA,333.74,1.9,0.337,positive,"Virtuix to Highlight Accelerating Consumer Growth and Expansion Across Defense, Robotics, and Healthcare at Sidoti Investor Conference"
+2026-08-13T14:40:15+00:00,open,NVDA,226.29,0.98,0.085,positive,Wall Street sends strong signal to Nvidia stock investors
+2026-08-13T14:40:15+00:00,open,URG,1.34,-0.74,0.15,positive,"Ur Energy (URG) Reports Q2 Loss, Tops Revenue Estimates"
+2026-08-13T14:40:15+00:00,open,LEU,186.11,0.57,0.496,positive,Centrus Energy (NYSE:LEU) Beats Expectations in Strong Q2 CY2026
+2026-08-13T14:40:15+00:00,open,CCJ,98.74,-0.29,0.055,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-13T14:40:15+00:00,open,LUNR,16.59,-2.13,-0.099,negative,"Intuitive Machines, Inc. (LUNR) Reports Q2 Loss, Misses Revenue Estimates"
+2026-08-13T14:40:15+00:00,open,OUST,47.1,2.11,0.232,positive,Ouster (OUST) Is Down 5.7% After Utah Lidar Contract Win And Mixed Q3 Revenue Outlook
+2026-08-13T14:40:15+00:00,open,MBLY,8.93,1.42,0.016,neutral,Qualcomm wins BMW chip supply deal for future vehicle platforms
+2026-08-13T14:40:15+00:00,open,SYM,41.62,1.06,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-13T14:40:15+00:00,open,INTU,342.71,2.39,0.153,positive,"Dear Intuit Stock Fans, Mark Your Calendars for August 25"
+2026-08-13T14:40:15+00:00,open,CBRS,233.38,-10.94,0.126,positive,"Stock market today: Dow, S&P 500, Nasdaq gain on soft inflation data, earnings"
+2026-08-13T14:40:15+00:00,open,SPCX,141.47,-3.2,0.102,positive,"SpaceX, Defense Contractors Progress On Orbital Interceptors, Pass Golden Dome Test"
+2026-08-13T14:40:15+00:00,open,IONQ,46.86,3.67,0.34,positive,"IonQ, D-Wave or Rigetti: Which Quantum Stock Is the Best Buy After Q2?"
+2026-08-13T14:40:15+00:00,open,SERV,4.91,1.76,-0.012,neutral,Serve Q2 Earnings Call Centers on Uber Reset and Lower Outlook
+2026-08-13T14:40:15+00:00,open,UMAC,26.86,-0.63,0.153,positive,Unusual Machines Q2 Earnings Call Puts Capacity Ahead of Q3 Growth
+2026-08-13T14:40:15+00:00,open,SNOW,335.35,0.93,0.188,positive,Is Snowflake (SNOW) Stock A Bargain as AI Hopes Grow?
+2026-08-13T14:40:15+00:00,open,NOW,124.17,-0.62,0.111,positive,Wells Fargo Has Fresh Message for Microsoft Investors
+2026-08-13T14:40:15+00:00,open,ARKO,4.57,2.35,0.134,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-13T14:40:15+00:00,open,ISRG,400.01,-0.31,0.081,positive,ISRG's US Procedure Growth Slows: Is ACA Headwind a Temporary Concern?
+2026-08-13T14:40:15+00:00,open,TMUS,181.0,2.18,0.102,positive,T-Mobile excludes 2 generous customer perks from new phone plans
+2026-08-13T14:40:15+00:00,open,UBER,74.96,-0.53,0.134,positive,Uber's AV Ambitions in London Receive a Boost: Here's How
+2026-08-13T14:40:15+00:00,open,PLTR,174.86,2.23,-0.203,negative,Michael Burry delivers brutal verdict on $420 billion AI giant
+2026-08-13T14:40:15+00:00,open,AMR,157.51,-1.26,-0.228,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-08-13T14:40:15+00:00,open,LAC,3.46,6.29,0.127,positive,Lithium Americas Further Strengthens Balance Sheet with $175 Million Financing as Thacker Pass Approaches Peak Construction
+2026-08-13T14:40:15+00:00,open,MP,54.97,1.6,0.089,positive,MP Materials to Participate in Canaccord Genuity’s 46th Annual Growth Conference
+2026-08-13T14:40:15+00:00,open,UEC,11.23,-1.1,0.368,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-13T14:40:15+00:00,open,OKLO,45.65,1.15,0.177,positive,Can NuScale's TVA Opportunity Unlock Its Next Growth Phase?
+2026-08-13T14:40:15+00:00,open,UUUU,14.39,-0.55,0.452,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-13T14:40:15+00:00,open,RTX,220.07,-1.21,0.5,positive,Can L3Harris' Platform-Agnostic Model Expand Growth Opportunities?
+2026-08-13T14:40:15+00:00,open,AMZN,268.33,0.39,0.274,positive,"Credit Acceptance Announces New Chief Technology Officer to Advance Digital-First, AI-Enabled Business Evolution"
+2026-08-13T14:40:15+00:00,open,AMD,494.95,2.49,0.038,neutral,The 5 Most Interesting Analyst Questions From AMD’s Q2 Earnings Call
+2026-08-13T14:40:15+00:00,open,META,589.97,1.92,0.258,positive,New Engen Announces Wave of New Client Wins Including Arena Club and More as Brands Shift to Creative-Led Growth
+2026-08-13T14:40:15+00:00,open,AVGO,424.13,1.94,0.197,positive,Broadcom (AVGO) Strengthens Market Position with Major Customers and Strategic Agreements
+2026-08-13T14:40:15+00:00,open,MRVL,227.9,4.99,-0.009,neutral,"Alpha and Omega Semiconductor (AOSL) Reports Q4 Loss, Beats Revenue Estimates"
+2026-08-13T14:40:15+00:00,open,APLD,31.76,1.97,0.344,positive,New Strong Sell Stocks for August 13th
