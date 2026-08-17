@@ -1949,3 +1949,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-14T20:33:39+00:00,close,AVGO,392.99,-5.94,-0.112,negative,Nvidia’s $500 Billion Plan Envelops Wall Street in Its AI Frenzy
 2026-08-14T20:33:39+00:00,close,MRVL,222.02,-0.07,0.214,positive,"Marvell Technology, MACOM, Micron, Western Digital, and Semtech Shares Skyrocket, What You Need To Know"
 2026-08-14T20:33:39+00:00,close,APLD,31.2,1.89,0.204,positive,New Strong Sell Stocks for August 13th
+2026-08-17T14:03:50+00:00,open,AAPL,304.97,-0.31,0.066,positive,Intel's $23 Billion Raise May Signal Foundry Progress
+2026-08-17T14:03:50+00:00,open,TSLA,339.74,-0.74,-0.087,negative,Tesla (TSLA) Advances After Beating Key Metrics in Q1
+2026-08-17T14:03:50+00:00,open,NVDA,225.76,0.27,-0.049,neutral,"Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday Amid Lower Rate Hike Expectations"
+2026-08-17T14:03:50+00:00,open,URG,1.35,-0.37,0.15,positive,"Ur Energy (URG) Reports Q2 Loss, Tops Revenue Estimates"
+2026-08-17T14:03:50+00:00,open,LEU,185.23,-2.59,0.279,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-17T14:03:50+00:00,open,CCJ,98.2,0.47,0.229,positive,Cameco Gains 7% Despite Q2 Earnings Miss: How to Play the Stock?
+2026-08-17T14:03:50+00:00,open,LUNR,19.87,4.52,0.292,positive,Is Intuitive Machines (LUNR) Above Fair Value After Its $1.8B Backlog?
+2026-08-17T14:03:50+00:00,open,OUST,49.09,0.77,0.232,positive,Ouster (OUST) Is Down 5.7% After Utah Lidar Contract Win And Mixed Q3 Revenue Outlook
+2026-08-17T14:03:50+00:00,open,MBLY,9.1,2.07,0.182,positive,Mobileye Q2 Earnings Surpass Expectations on R&D Incentive Grant
+2026-08-17T14:03:50+00:00,open,SYM,42.52,-0.42,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-17T14:03:50+00:00,open,INTU,337.32,-2.41,0.309,positive,Intuit's AI and Mid-Market Push: Can Growth Follow Through?
+2026-08-17T14:03:50+00:00,open,CBRS,250.26,14.29,-0.024,neutral,Cerebras shares tank 10% as weak hardware sales trigger investor alarm
+2026-08-17T14:03:50+00:00,open,SPCX,147.76,5.54,0.077,positive,SpaceX bulls would be wise to remember one thing
+2026-08-17T14:03:50+00:00,open,IONQ,46.17,-0.21,0.29,positive,"IonQ, D-Wave or Rigetti: Which Quantum Stock Is the Best Buy After Q2?"
+2026-08-17T14:03:50+00:00,open,SERV,5.09,1.9,-0.035,neutral,Serve Q2 Earnings Call Centers on Uber Reset and Lower Outlook
+2026-08-17T14:03:50+00:00,open,UMAC,30.85,-9.42,0.076,positive,Unusual Machines (UMAC) Stock May Be Overvalued Following Explosive Q2 Growth
+2026-08-17T14:03:50+00:00,open,SNOW,330.48,0.47,0.076,positive,Top Analyst Names Snowflake and CrowdStrike Among Top AI Software Picks
+2026-08-17T14:03:50+00:00,open,NOW,120.67,-2.69,0.13,positive,FJTSY or NOW: Which Is the Better Value Stock Right Now?
+2026-08-17T14:03:50+00:00,open,ARKO,4.9,1.03,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-17T14:03:50+00:00,open,ISRG,392.42,-0.53,-0.025,neutral,Oppenheimer Sees $500 for Intuitive Surgical as Rivals Stall
+2026-08-17T14:03:50+00:00,open,TMUS,182.9,0.16,0.016,neutral,Wolfe Research cuts T-Mobile as revenue growth forecast risk tilts negative
+2026-08-17T14:03:50+00:00,open,UBER,76.32,0.48,0.0,neutral,"‘Boring, Not Broken’ – Claude AI Just Bought Uber (UBER). Should You?"
+2026-08-17T14:03:50+00:00,open,PLTR,174.78,0.43,0.142,positive,"Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know"
+2026-08-17T14:03:50+00:00,open,AMR,167.16,0.67,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-08-17T14:03:50+00:00,open,LAC,3.22,-4.59,0.005,neutral,Lithium Americas (TSX:LAC) Stock Looks Undervalued On Book Value But Mixed Overall
+2026-08-17T14:03:50+00:00,open,MP,57.06,-2.86,0.122,positive,Is MP Materials (MP) Undervalued Following Q2 Revenue Growth And New Magnet Supply Deals?
+2026-08-17T14:03:50+00:00,open,UEC,11.14,-0.67,0.368,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-17T14:03:50+00:00,open,OKLO,43.97,-0.92,0.126,positive,The AI build-out has a problem that $1 trillion in cash can't fix
+2026-08-17T14:03:50+00:00,open,UUUU,14.82,-1.82,0.267,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-17T14:03:50+00:00,open,RTX,224.01,0.46,0.315,positive,Is RTX Strengthening Its Position in the Global Missile Market?
+2026-08-17T14:03:50+00:00,open,AMZN,261.58,-0.41,0.168,positive,Goldman Sachs warns of consumer spending slowdown as tax refund boost fades
+2026-08-17T14:03:50+00:00,open,AMD,510.48,-0.76,0.021,neutral,"Stocks Mostly Up Pre-Bell as Traders Await Fed Meeting Minutes, Retail Earnings"
+2026-08-17T14:03:50+00:00,open,META,579.38,-1.77,0.038,neutral,"Tech stocks today: Anthropic's huge haul, Meta trial to kick off"
+2026-08-17T14:03:50+00:00,open,AVGO,392.87,-0.03,0.026,neutral,AI Chips Today - Fort Technology Expands Amid Record Revenue and Strategic Acquisitions
+2026-08-17T14:03:50+00:00,open,MRVL,236.79,6.65,0.181,positive,1 Growth Stock with Explosive Upside and 2 We Question
+2026-08-17T14:03:50+00:00,open,APLD,30.96,-0.77,0.335,positive,New Strong Sell Stocks for August 13th
