@@ -1985,3 +1985,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-17T14:03:50+00:00,open,AVGO,392.87,-0.03,0.026,neutral,AI Chips Today - Fort Technology Expands Amid Record Revenue and Strategic Acquisitions
 2026-08-17T14:03:50+00:00,open,MRVL,236.79,6.65,0.181,positive,1 Growth Stock with Explosive Upside and 2 We Question
 2026-08-17T14:03:50+00:00,open,APLD,30.96,-0.77,0.335,positive,New Strong Sell Stocks for August 13th
+2026-08-17T20:30:11+00:00,close,AAPL,305.59,-0.11,0.061,positive,Apple Wins Major Relief in Antitrust Battle
+2026-08-17T20:30:11+00:00,close,TSLA,339.3,-0.87,-0.031,neutral,Top Tesla investor says gold beats Bitcoin but he isn't selling like Saylor
+2026-08-17T20:30:11+00:00,close,NVDA,225.01,-0.07,-0.053,negative,Groq Gets Brutal Valuation Reset After Nvidia Deal
+2026-08-17T20:30:11+00:00,close,URG,1.36,0.74,0.15,positive,"Ur Energy (URG) Reports Q2 Loss, Tops Revenue Estimates"
+2026-08-17T20:30:11+00:00,close,LEU,184.12,-3.17,0.224,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-17T20:30:11+00:00,close,CCJ,98.58,0.86,0.055,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-17T20:30:11+00:00,close,LUNR,20.38,7.21,0.251,positive,"MDA Space Valuation Attractive Amid Space Economy Exposure, RBC Says"
+2026-08-17T20:30:11+00:00,close,OUST,48.13,-1.19,0.277,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-08-17T20:30:11+00:00,close,MBLY,9.23,3.48,0.06,positive,"Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag."
+2026-08-17T20:30:11+00:00,close,SYM,42.35,-0.82,0.253,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-17T20:30:11+00:00,close,INTU,335.6,-2.91,0.373,positive,"INTU Targets a Massive Mid-Market Opportunity: Buy, Hold or Sell?"
+2026-08-17T20:30:11+00:00,close,CBRS,251.98,15.07,0.158,positive,Cerebras Shares Jump 15% as Wedbush Flags Bigger OpenAI Deal Opportunity
+2026-08-17T20:30:11+00:00,close,SPCX,146.23,4.45,-0.065,negative,"Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; This Peter Thiel Stock Jumps (Live Coverage)"
+2026-08-17T20:30:11+00:00,close,IONQ,46.84,1.25,0.319,positive,"IonQ, D-Wave or Rigetti: Which Quantum Stock Is the Best Buy After Q2?"
+2026-08-17T20:30:11+00:00,close,SERV,4.9,-1.8,-0.035,neutral,Serve Q2 Earnings Call Centers on Uber Reset and Lower Outlook
+2026-08-17T20:30:11+00:00,close,UMAC,30.15,-11.48,0.076,positive,Unusual Machines (UMAC) Stock May Be Overvalued Following Explosive Q2 Growth
+2026-08-17T20:30:11+00:00,close,SNOW,330.11,0.36,0.084,positive,13F Season: Where Wall Street's Smart Money is Betting
+2026-08-17T20:30:11+00:00,close,NOW,117.7,-5.08,0.198,positive,FJTSY or NOW: Which Is the Better Value Stock Right Now?
+2026-08-17T20:30:11+00:00,close,ARKO,4.86,0.21,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-17T20:30:11+00:00,close,ISRG,390.33,-1.06,-0.025,neutral,Oppenheimer Sees $500 for Intuitive Surgical as Rivals Stall
+2026-08-17T20:30:11+00:00,close,TMUS,180.12,-1.36,-0.087,negative,Wolfe Research cuts T-Mobile as revenue growth forecast risk tilts negative
+2026-08-17T20:30:11+00:00,close,UBER,74.99,-1.26,0.0,neutral,Uber Rises on Zipline Drone Delivery Deal
+2026-08-17T20:30:11+00:00,close,PLTR,172.55,-0.86,0.025,neutral,These AI Companies Have Little to Fear From Coming Regulation
+2026-08-17T20:30:11+00:00,close,AMR,169.01,1.78,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-08-17T20:30:11+00:00,close,LAC,3.15,-6.8,0.127,positive,Lithium Americas Further Strengthens Balance Sheet with $175 Million Financing as Thacker Pass Approaches Peak Construction
+2026-08-17T20:30:11+00:00,close,MP,58.51,-0.39,0.122,positive,Is MP Materials (MP) Undervalued Following Q2 Revenue Growth And New Magnet Supply Deals?
+2026-08-17T20:30:11+00:00,close,UEC,11.17,-0.36,0.368,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-17T20:30:11+00:00,close,OKLO,43.88,-1.13,0.08,positive,The AI build-out has a problem that $1 trillion in cash can't fix
+2026-08-17T20:30:11+00:00,close,UUUU,14.79,-2.05,0.267,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-17T20:30:11+00:00,close,RTX,221.64,-0.6,0.202,positive,Is RTX Strengthening Its Position in the Global Missile Market?
+2026-08-17T20:30:11+00:00,close,AMZN,261.31,-0.51,0.178,positive,AI/R Compass UOL Named Amazon Quick SI Partner by AWS Generative AI Innovation Center
+2026-08-17T20:30:11+00:00,close,AMD,506.0,-1.63,0.06,positive,Micron vs. AMD: Only One AI Stock Looks Like a Better Buy Now
+2026-08-17T20:30:11+00:00,close,META,568.97,-3.54,-0.117,negative,Morgan Stanley Drops Stark Stock Market Warning
+2026-08-17T20:30:11+00:00,close,AVGO,392.43,-0.14,-0.242,negative,"Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer"
+2026-08-17T20:30:11+00:00,close,MRVL,234.33,5.54,0.064,positive,Memory Shares Start Week Strong as Sandisk Stock Climbs
+2026-08-17T20:30:11+00:00,close,APLD,31.18,-0.06,0.376,positive,IREN's NVIDIA Status and Microsoft Win: Time to Buy or Hold the Stock?
