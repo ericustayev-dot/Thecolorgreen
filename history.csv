@@ -2021,3 +2021,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-17T20:30:11+00:00,close,AVGO,392.43,-0.14,-0.242,negative,"Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer"
 2026-08-17T20:30:11+00:00,close,MRVL,234.33,5.54,0.064,positive,Memory Shares Start Week Strong as Sandisk Stock Climbs
 2026-08-17T20:30:11+00:00,close,APLD,31.18,-0.06,0.376,positive,IREN's NVIDIA Status and Microsoft Win: Time to Buy or Hold the Stock?
+2026-08-18T14:09:34+00:00,open,AAPL,309.84,1.28,0.226,positive,"Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick"
+2026-08-18T14:09:34+00:00,open,TSLA,337.16,-1.49,0.0,neutral,This Stock Is Jumping on Its Big Plans for the Tesla Semi Truck
+2026-08-18T14:09:34+00:00,open,NVDA,219.64,-2.45,0.056,positive,Nvidia Stock Is in for Cathie Wood’s ARK and This AI Play Is Out
+2026-08-18T14:09:34+00:00,open,URG,1.32,-2.22,0.15,positive,"Ur Energy (URG) Reports Q2 Loss, Tops Revenue Estimates"
+2026-08-18T14:09:34+00:00,open,LEU,179.0,-5.86,0.21,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-18T14:09:34+00:00,open,CCJ,95.27,-2.53,0.091,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-18T14:09:34+00:00,open,LUNR,19.69,3.58,0.223,positive,"MDA Space Valuation Attractive Amid Space Economy Exposure, RBC Says"
+2026-08-18T14:09:34+00:00,open,OUST,44.1,-9.47,0.277,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-08-18T14:09:34+00:00,open,MBLY,8.81,-1.23,0.25,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-08-18T14:09:34+00:00,open,SYM,40.38,-5.43,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-18T14:09:34+00:00,open,INTU,354.91,2.68,0.313,positive,"INTU Targets a Massive Mid-Market Opportunity: Buy, Hold or Sell?"
+2026-08-18T14:09:34+00:00,open,CBRS,221.86,1.32,0.226,positive,Cerebras Shares Jump 15% as Wedbush Flags Bigger OpenAI Deal Opportunity
+2026-08-18T14:09:34+00:00,open,SPCX,140.87,0.62,0.005,neutral,SpaceX shares slip as another 319 million come up for sale
+2026-08-18T14:09:34+00:00,open,IONQ,45.28,-2.12,0.192,positive,IonQ Stock Up 16% Since Q2 Earnings: Should You Buy or Book Profits?
+2026-08-18T14:09:34+00:00,open,SERV,4.61,-7.52,0.036,neutral,"Serve Launches Robot Delivery with Wonder, Adding Grubhub to Its Growing Delivery Network"
+2026-08-18T14:09:34+00:00,open,UMAC,31.72,-6.87,0.076,positive,Unusual Machines (UMAC) Stock May Be Overvalued Following Explosive Q2 Growth
+2026-08-18T14:09:34+00:00,open,SNOW,325.8,-0.95,0.237,positive,"Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers"
+2026-08-18T14:09:34+00:00,open,NOW,120.51,-2.81,0.198,positive,FJTSY or NOW: Which Is the Better Value Stock Right Now?
+2026-08-18T14:09:34+00:00,open,ARKO,4.84,-0.21,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-18T14:09:34+00:00,open,ISRG,397.99,0.88,-0.025,neutral,Oppenheimer Sees $500 for Intuitive Surgical as Rivals Stall
+2026-08-18T14:09:34+00:00,open,TMUS,183.04,0.24,-0.087,negative,Wolfe Research cuts T-Mobile as revenue growth forecast risk tilts negative
+2026-08-18T14:09:34+00:00,open,UBER,76.7,0.99,0.203,positive,Uber Technologies’ (Uber) Operating Strength Outpaces Market Valuation
+2026-08-18T14:09:34+00:00,open,PLTR,174.17,0.07,0.064,positive,The AI Trade Had 1 Sure Bet. Now Even That’s Gone.
+2026-08-18T14:09:34+00:00,open,AMR,167.1,0.63,0.0,neutral,Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
+2026-08-18T14:09:34+00:00,open,LAC,3.04,-10.21,0.005,neutral,Lithium Americas (TSX:LAC) Stock Looks Undervalued On Book Value But Mixed Overall
+2026-08-18T14:09:34+00:00,open,MP,56.81,-3.29,0.122,positive,Is MP Materials (MP) Undervalued Following Q2 Revenue Growth And New Magnet Supply Deals?
+2026-08-18T14:09:34+00:00,open,UEC,10.77,-3.93,0.368,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-18T14:09:34+00:00,open,OKLO,41.59,-6.29,0.3,positive,H2O America Receives Regulatory Approval for Texas Subsidiary’s Acquisition of Quadvest
+2026-08-18T14:09:34+00:00,open,UUUU,14.06,-6.89,0.467,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-18T14:09:34+00:00,open,RTX,223.26,0.13,0.133,positive,3 Market-Beating Stocks with Competitive Advantages
+2026-08-18T14:09:34+00:00,open,AMZN,258.98,-1.4,0.144,positive,INNELS Launches Free EU Compliance Checker for Amazon Sellers in Europe
+2026-08-18T14:09:34+00:00,open,AMD,480.04,-6.68,0.118,positive,Nvidia Stock Is in for Cathie Wood’s ARK and This AI Play Is Out
+2026-08-18T14:09:34+00:00,open,META,547.57,-7.17,0.12,positive,Meta Platforms’ (META) Strong Growth Backdrop Highlights Valuation Disconnect
+2026-08-18T14:09:34+00:00,open,AVGO,378.42,-3.71,-0.242,negative,"Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer"
+2026-08-18T14:09:34+00:00,open,MRVL,217.72,-1.94,0.15,positive,Marvell Stock Gets a Major AI Boost: UBS Sees Billions in New Revenue Ahead
+2026-08-18T14:09:34+00:00,open,APLD,29.55,-5.29,0.238,positive,IREN's NVIDIA Status and Microsoft Win: Time to Buy or Hold the Stock?
