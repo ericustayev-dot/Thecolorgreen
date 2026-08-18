@@ -2057,3 +2057,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-18T14:09:34+00:00,open,AVGO,378.42,-3.71,-0.242,negative,"Stanley Druckenmiller Opens Positions in Hut 8, Riot Platforms And Bitdeer"
 2026-08-18T14:09:34+00:00,open,MRVL,217.72,-1.94,0.15,positive,Marvell Stock Gets a Major AI Boost: UBS Sees Billions in New Revenue Ahead
 2026-08-18T14:09:34+00:00,open,APLD,29.55,-5.29,0.238,positive,IREN's NVIDIA Status and Microsoft Win: Time to Buy or Hold the Stock?
+2026-08-18T20:27:07+00:00,close,AAPL,310.03,1.45,-0.064,negative,Apple Cuts EU App Fees to 5% Outside the App Store
+2026-08-18T20:27:07+00:00,close,TSLA,336.87,-0.72,-0.068,negative,‘Highly Contentious’ Tesla Stock Drops Despite Cybercab Hope
+2026-08-18T20:27:07+00:00,close,NVDA,219.74,-2.34,-0.147,negative,Nvidia Stock Drops as Bond Yields Attack AI Valuations
+2026-08-18T20:27:07+00:00,close,URG,1.34,-1.47,0.15,positive,"Ur Energy (URG) Reports Q2 Loss, Tops Revenue Estimates"
+2026-08-18T20:27:07+00:00,close,LEU,175.7,-4.57,0.21,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-18T20:27:07+00:00,close,CCJ,96.03,-2.59,0.091,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-18T20:27:07+00:00,close,LUNR,19.31,-5.25,0.135,positive,"Back From Orbit, Intuitive Machines' Share Price Enters the Buy Zone"
+2026-08-18T20:27:07+00:00,close,OUST,42.99,-10.68,0.417,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-08-18T20:27:07+00:00,close,MBLY,8.87,-3.9,0.25,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-08-18T20:27:07+00:00,close,SYM,40.46,-4.46,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-18T20:27:07+00:00,close,INTU,350.41,4.41,0.206,positive,INTU or CDNS: Which Is the Better Value Stock Right Now?
+2026-08-18T20:27:07+00:00,close,CBRS,220.01,-12.69,0.25,positive,Cerebras Shares Jump 15% as Wedbush Flags Bigger OpenAI Deal Opportunity
+2026-08-18T20:27:07+00:00,close,SPCX,143.34,-1.98,-0.108,negative,Former Fidelity manager sends troubling SpaceX signal
+2026-08-18T20:27:07+00:00,close,IONQ,44.12,-5.81,0.255,positive,IonQ Stock Up 16% Since Q2 Earnings: Should You Buy or Book Profits?
+2026-08-18T20:27:07+00:00,close,SERV,4.55,-7.14,0.036,neutral,"Serve Launches Robot Delivery with Wonder, Adding Grubhub to Its Growing Delivery Network"
+2026-08-18T20:27:07+00:00,close,UMAC,30.58,1.43,0.076,positive,Unusual Machines (UMAC) Stock May Be Overvalued Following Explosive Q2 Growth
+2026-08-18T20:27:07+00:00,close,SNOW,325.33,-1.45,0.255,positive,"Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers"
+2026-08-18T20:27:07+00:00,close,NOW,119.49,1.52,0.068,positive,ServiceNow (NOW) Is Spending $7.75 Billion On AI Security
+2026-08-18T20:27:07+00:00,close,ARKO,4.72,-2.88,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-18T20:27:07+00:00,close,ISRG,391.18,0.22,0.066,positive,Is ISRG's Software Strategy Becoming as Important as Its Robots?
+2026-08-18T20:27:07+00:00,close,TMUS,182.75,1.46,-0.081,negative,Wolfe Research cuts T-Mobile as revenue growth forecast risk tilts negative
+2026-08-18T20:27:07+00:00,close,UBER,74.66,-0.44,0.196,positive,Uber Technologies’ (Uber) Operating Strength Outpaces Market Valuation
+2026-08-18T20:27:07+00:00,close,PLTR,171.54,-0.59,0.064,positive,The AI Trade Had 1 Sure Bet. Now Even That’s Gone.
+2026-08-18T20:27:07+00:00,close,AMR,169.44,0.25,0.0,neutral,Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
+2026-08-18T20:27:07+00:00,close,LAC,2.96,-6.03,0.005,neutral,Lithium Americas (TSX:LAC) Stock Looks Undervalued On Book Value But Mixed Overall
+2026-08-18T20:27:07+00:00,close,MP,56.67,-3.14,0.122,positive,Is MP Materials (MP) Undervalued Following Q2 Revenue Growth And New Magnet Supply Deals?
+2026-08-18T20:27:07+00:00,close,UEC,10.96,-1.88,0.368,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-18T20:27:07+00:00,close,OKLO,41.36,-5.74,0.3,positive,H2O America Receives Regulatory Approval for Texas Subsidiary’s Acquisition of Quadvest
+2026-08-18T20:27:07+00:00,close,UUUU,14.09,-4.73,0.467,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-18T20:27:07+00:00,close,RTX,225.49,1.74,0.208,positive,3 Market-Beating Stocks with Competitive Advantages
+2026-08-18T20:27:07+00:00,close,AMZN,259.45,-0.71,-0.059,negative,Amazon's $500 Bull Case Puts AWS Under Massive Pressure
+2026-08-18T20:27:07+00:00,close,AMD,484.39,-4.27,0.031,neutral,AMD (AMD) Stock Gets Fair Value Boost As Analysts Rework AI Growth Expectations
+2026-08-18T20:27:07+00:00,close,META,543.67,-4.45,-0.174,negative,Meta heads to court over claims it harms children
+2026-08-18T20:27:07+00:00,close,AVGO,380.0,-3.17,0.008,neutral,ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?
+2026-08-18T20:27:07+00:00,close,MRVL,216.0,-7.82,0.091,positive,Marvell Stock Gets a Major AI Boost: UBS Sees Billions in New Revenue Ahead
+2026-08-18T20:27:07+00:00,close,APLD,28.51,-8.56,0.198,positive,New Strong Sell Stocks for August 13th
