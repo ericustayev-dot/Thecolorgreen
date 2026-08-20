@@ -2201,3 +2201,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-20T14:17:48+00:00,open,AVGO,363.5,0.28,-0.024,neutral,Why Broadcom (AVGO) Stock Is Trading Lower Today
 2026-08-20T14:17:48+00:00,open,MRVL,241.11,1.62,0.223,positive,Marvell's Google Warrant Could Add $6.15 to Earnings Per Share
 2026-08-20T14:17:48+00:00,open,APLD,28.5,0.96,0.239,positive,Can Applied Digital’s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?
+2026-08-20T20:31:13+00:00,close,AAPL,311.3,-1.75,0.024,neutral,"Apple must relearn how to surprise under new CEO Ternus, says BofA"
+2026-08-20T20:31:13+00:00,close,TSLA,345.13,-1.71,0.0,neutral,JPMorgan Hints At Another Delay For Tesla Optimus Release
+2026-08-20T20:31:13+00:00,close,NVDA,216.85,-0.33,0.102,positive,DeepSeek Sends Strong Signal to Nvidia Investors
+2026-08-20T20:31:13+00:00,close,URG,1.33,-5.0,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-08-20T20:31:13+00:00,close,LEU,176.13,-4.11,0.155,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-20T20:31:13+00:00,close,CCJ,95.59,-2.44,0.091,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-20T20:31:13+00:00,close,LUNR,17.93,-3.19,0.352,positive,Moonshot to Money: Intuitive Machines Lands $600M Defense Win
+2026-08-20T20:31:13+00:00,close,OUST,37.95,-5.27,0.495,positive,Can Ouster's BlueCity Expand Its LiDAR Growth Opportunity?
+2026-08-20T20:31:13+00:00,close,MBLY,8.88,-2.42,0.277,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-08-20T20:31:13+00:00,close,SYM,41.46,-1.33,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-20T20:31:13+00:00,close,INTU,361.87,-0.17,0.348,positive,Can Intuit's Key Growth Engines Power Strong Q4 Results?
+2026-08-20T20:31:13+00:00,close,CBRS,209.85,-2.71,0.199,positive,Cerebras Positioned for Robust Growth on Manufacturing Expansion and Swelling RPO
+2026-08-20T20:31:13+00:00,close,SPCX,134.0,-4.05,0.04,neutral,Anthropic IPO May Top SpaceX Record: Will It Raise $100 Billion?
+2026-08-20T20:31:13+00:00,close,IONQ,41.53,-4.22,0.223,positive,How IonQ Could Benefit From Its Latest Quantum Collaborations
+2026-08-20T20:31:13+00:00,close,SERV,4.74,-0.84,0.051,positive,"Can Serve Robotics Turn 2,000 Robots Into a Revenue Growth Engine?"
+2026-08-20T20:31:13+00:00,close,UMAC,25.98,-8.2,0.172,positive,UMAC Rides on Favorable Industry Tailwinds: Should You Bet on It?
+2026-08-20T20:31:13+00:00,close,SNOW,321.29,-1.14,0.126,positive,"Snowflake Faces High But 'Achievable' Sales Growth Expectations, UBS Says"
+2026-08-20T20:31:13+00:00,close,NOW,129.75,2.0,-0.026,neutral,Inside the $8 billion cybersecurity acquisition that helped ServiceNow’s stock buck the ‘Saaspocalypse’ fears
+2026-08-20T20:31:13+00:00,close,ARKO,4.59,-2.34,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-20T20:31:13+00:00,close,ISRG,374.48,-5.84,0.21,positive,Abbott vs. Intuitive Surgical: Is Consistent Growth Better Than Premium Growth?
+2026-08-20T20:31:13+00:00,close,TMUS,181.22,-0.63,0.014,neutral,Wolfe Research cuts T-Mobile as revenue growth forecast risk tilts negative
+2026-08-20T20:31:13+00:00,close,UBER,78.55,0.65,0.015,neutral,"Baidu's Apollo Go Goes Live on Uber in Dubai, Offering a New Way for Users to Hail Fully Driverless Rides"
+2026-08-20T20:31:13+00:00,close,PLTR,173.96,-0.7,0.188,positive,Palantir's Margin Expansion Signals a Structural Growth Advantage
+2026-08-20T20:31:13+00:00,close,AMR,194.3,-0.06,0.0,neutral,Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
+2026-08-20T20:31:13+00:00,close,LAC,2.97,-1.0,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-08-20T20:31:13+00:00,close,MP,55.04,-2.89,0.081,positive,"MP Materials, USA Rare Earth Stock Rise Amid Trump Drone News; Energy Fuels Touted"
+2026-08-20T20:31:13+00:00,close,UEC,11.15,-4.13,0.405,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-20T20:31:13+00:00,close,OKLO,41.66,-2.98,0.4,positive,H2O America Receives Regulatory Approval for Texas Subsidiary’s Acquisition of Quadvest
+2026-08-20T20:31:13+00:00,close,UUUU,13.9,-6.4,0.522,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-20T20:31:13+00:00,close,RTX,212.29,-3.66,0.416,positive,RTX Stock Gets a Radar Lock on a $23B Navy Win
+2026-08-20T20:31:13+00:00,close,AMZN,260.11,-2.16,0.355,positive,Amazon Falls as $53.4 Billion AI Gain Faces Scrutiny
+2026-08-20T20:31:13+00:00,close,AMD,469.45,0.65,0.213,positive,Is Advanced Micro Devices (AMD) Priced For Perfection Or Trading At A Discount?
+2026-08-20T20:31:13+00:00,close,META,545.83,-0.04,0.015,neutral,Meta faces risks whether it wins or loses major social media trial
+2026-08-20T20:31:13+00:00,close,AVGO,364.03,0.43,0.012,neutral,Marvell vs. Broadcom: One AI Stock Is a Better Buy After Google's Deal
+2026-08-20T20:31:13+00:00,close,MRVL,251.01,5.79,0.071,positive,Marvell vs. Broadcom: One AI Stock Is a Better Buy After Google's Deal
+2026-08-20T20:31:13+00:00,close,APLD,28.65,1.49,0.251,positive,Can Applied Digital’s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?
