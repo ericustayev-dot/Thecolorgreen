@@ -2165,3 +2165,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-19T20:31:00+00:00,close,AVGO,362.48,-4.61,-0.108,negative,Inside Google’s $12 Billion Stake in Marvell—and Why It’s Bad News for Broadcom.
 2026-08-19T20:31:00+00:00,close,MRVL,237.27,9.85,0.059,positive,Marvell Technology Shares Jump on AI Chip Deal With Google
 2026-08-19T20:31:00+00:00,close,APLD,28.23,-0.98,0.342,positive,Can Applied Digital’s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?
+2026-08-20T14:17:48+00:00,open,AAPL,316.86,0.01,0.126,positive,Great Eight? Why SpaceX Stock Isn’t Like the Magnificent Seven.
+2026-08-20T14:17:48+00:00,open,TSLA,341.97,-2.61,0.251,positive,"JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platform—FSD V15 a ‘Step-Change’ From Previous Versions"
+2026-08-20T14:17:48+00:00,open,NVDA,217.36,-0.09,0.138,positive,Super Micro Says Top Management Didn’t Know of Diversion Scheme
+2026-08-20T14:17:48+00:00,open,URG,1.35,-3.93,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-08-20T14:17:48+00:00,open,LEU,176.62,-3.84,0.155,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-20T14:17:48+00:00,open,CCJ,95.49,-2.55,0.091,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-20T14:17:48+00:00,open,LUNR,17.86,-3.56,0.352,positive,Moonshot to Money: Intuitive Machines Lands $600M Defense Win
+2026-08-20T14:17:48+00:00,open,OUST,38.45,-4.02,0.495,positive,Can Ouster's BlueCity Expand Its LiDAR Growth Opportunity?
+2026-08-20T14:17:48+00:00,open,MBLY,9.01,-0.99,0.277,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-08-20T14:17:48+00:00,open,SYM,40.83,-2.83,0.286,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-20T14:17:48+00:00,open,INTU,360.36,-0.58,0.206,positive,INTU or CDNS: Which Is the Better Value Stock Right Now?
+2026-08-20T14:17:48+00:00,open,CBRS,205.7,-4.63,0.199,positive,Cerebras Positioned for Robust Growth on Manufacturing Expansion and Swelling RPO
+2026-08-20T14:17:48+00:00,open,SPCX,133.0,-4.76,0.127,positive,Space Exploration Technologies (SPCX) Stock Gets Fair Value Trim As Analysts Debate AI And Starlink
+2026-08-20T14:17:48+00:00,open,IONQ,41.62,-4.01,0.311,positive,How IonQ Could Benefit From Its Latest Quantum Collaborations
+2026-08-20T14:17:48+00:00,open,SERV,4.64,-2.82,0.051,positive,"Can Serve Robotics Turn 2,000 Robots Into a Revenue Growth Engine?"
+2026-08-20T14:17:48+00:00,open,UMAC,26.39,-6.75,0.076,positive,Unusual Machines (UMAC) Stock May Be Overvalued Following Explosive Q2 Growth
+2026-08-20T14:17:48+00:00,open,SNOW,320.15,-1.49,0.126,positive,"Snowflake Faces High But 'Achievable' Sales Growth Expectations, UBS Says"
+2026-08-20T14:17:48+00:00,open,NOW,128.04,0.66,-0.021,neutral,Inside the $8 billion cybersecurity acquisition that helped ServiceNow’s stock buck the ‘Saaspocalypse’ fears
+2026-08-20T14:17:48+00:00,open,ARKO,4.65,-1.06,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-20T14:17:48+00:00,open,ISRG,391.67,-1.52,0.21,positive,Abbott vs. Intuitive Surgical: Is Consistent Growth Better Than Premium Growth?
+2026-08-20T14:17:48+00:00,open,TMUS,181.88,-0.26,-0.108,negative,Wolfe Research cuts T-Mobile as revenue growth forecast risk tilts negative
+2026-08-20T14:17:48+00:00,open,UBER,78.6,0.72,0.015,neutral,"Baidu's Apollo Go Goes Live on Uber in Dubai, Offering a New Way for Users to Hail Fully Driverless Rides"
+2026-08-20T14:17:48+00:00,open,PLTR,174.68,-0.29,0.087,positive,Is Palantir Technologies (PLTR) Overvalued As Revenue Growth And 2026 Outlook Jump?
+2026-08-20T14:17:48+00:00,open,AMR,189.82,-2.37,0.0,neutral,Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
+2026-08-20T14:17:48+00:00,open,LAC,2.9,-3.33,0.036,neutral,Lithium Americas (TSX:LAC) Stock Looks Undervalued On Book Value But Mixed Overall
+2026-08-20T14:17:48+00:00,open,MP,53.24,-6.07,0.1,positive,Will Energy Fuels' Tb Breakthrough Diversify Rare Earth Supply?
+2026-08-20T14:17:48+00:00,open,UEC,11.13,-4.3,0.368,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-20T14:17:48+00:00,open,OKLO,41.33,-3.75,0.4,positive,H2O America Receives Regulatory Approval for Texas Subsidiary’s Acquisition of Quadvest
+2026-08-20T14:17:48+00:00,open,UUUU,14.05,-5.39,0.522,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-20T14:17:48+00:00,open,RTX,219.57,-0.35,0.416,positive,RTX Stock Gets a Radar Lock on a $23B Navy Win
+2026-08-20T14:17:48+00:00,open,AMZN,260.86,-1.87,0.192,positive,Olifant Digital Helps DTC Beauty Brand Reach $1M on Amazon From Launch
+2026-08-20T14:17:48+00:00,open,AMD,466.97,0.12,0.155,positive,AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Ground
+2026-08-20T14:17:48+00:00,open,META,543.48,-0.47,-0.17,negative,Meta’s Trial Adds a Trillion-Dollar Risk to Its Struggling Stock
+2026-08-20T14:17:48+00:00,open,AVGO,363.5,0.28,-0.024,neutral,Why Broadcom (AVGO) Stock Is Trading Lower Today
+2026-08-20T14:17:48+00:00,open,MRVL,241.11,1.62,0.223,positive,Marvell's Google Warrant Could Add $6.15 to Earnings Per Share
+2026-08-20T14:17:48+00:00,open,APLD,28.5,0.96,0.239,positive,Can Applied Digital’s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?
