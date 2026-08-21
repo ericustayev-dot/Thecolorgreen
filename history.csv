@@ -2273,3 +2273,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-21T14:09:49+00:00,open,AVGO,366.76,0.75,-0.217,negative,Broadcom’s (AVGO) Massive New Debt Deal Points To Where AI Is Headed
 2026-08-21T14:09:49+00:00,open,MRVL,243.86,-2.85,0.012,neutral,Marvell vs. Broadcom: One AI Stock Is a Better Buy After Google's Deal
 2026-08-21T14:09:49+00:00,open,APLD,28.18,-1.64,0.251,positive,Can Applied Digital’s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?
+2026-08-21T20:28:38+00:00,close,AAPL,309.35,-0.63,-0.056,negative,Apple Falls as Leadership Questions Deepen Its AI Dilemma
+2026-08-21T20:28:38+00:00,close,TSLA,362.86,5.14,0.108,positive,Alphabet Rises as Waymo Secures Another Robotaxi Market
+2026-08-21T20:28:38+00:00,close,NVDA,214.72,-0.98,0.026,neutral,"Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock"
+2026-08-21T20:28:38+00:00,close,URG,1.42,6.77,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-08-21T20:28:38+00:00,close,LEU,186.26,5.75,0.155,positive,Centrus Energy (LEU) Stock Fair Value Edges Lower As Analysts Weigh Growth Against Risks
+2026-08-21T20:28:38+00:00,close,CCJ,102.51,7.24,0.091,positive,Energy Fuels Q2 Earnings Call Highlights
+2026-08-21T20:28:38+00:00,close,LUNR,18.32,2.18,0.247,positive,Moonshot to Money: Intuitive Machines Lands $600M Defense Win
+2026-08-21T20:28:38+00:00,close,OUST,38.42,1.24,0.495,positive,Can Ouster's BlueCity Expand Its LiDAR Growth Opportunity?
+2026-08-21T20:28:38+00:00,close,MBLY,9.03,1.69,0.285,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-08-21T20:28:38+00:00,close,SYM,41.83,0.89,0.187,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-08-21T20:28:38+00:00,close,INTU,367.0,1.42,0.23,positive,Can Intuit's Key Growth Engines Power Strong Q4 Results?
+2026-08-21T20:28:38+00:00,close,CBRS,196.13,-6.54,0.131,positive,Cerebras Makes Bold Move Against Nvidia
+2026-08-21T20:28:38+00:00,close,SPCX,136.97,2.22,0.071,positive,SpaceX Rebounds After $43 Billion Share Unlock
+2026-08-21T20:28:38+00:00,close,IONQ,44.86,8.02,0.223,positive,How IonQ Could Benefit From Its Latest Quantum Collaborations
+2026-08-21T20:28:38+00:00,close,SERV,4.98,5.06,0.051,positive,"Can Serve Robotics Turn 2,000 Robots Into a Revenue Growth Engine?"
+2026-08-21T20:28:38+00:00,close,UMAC,27.43,5.58,0.172,positive,UMAC Rides on Favorable Industry Tailwinds: Should You Bet on It?
+2026-08-21T20:28:38+00:00,close,SNOW,332.78,3.58,0.126,positive,"Snowflake Faces High But 'Achievable' Sales Growth Expectations, UBS Says"
+2026-08-21T20:28:38+00:00,close,NOW,128.48,-0.98,0.327,positive,Is UiPath's Expanding ARR Strengthening Its Long-Term Growth Story?
+2026-08-21T20:28:38+00:00,close,ARKO,4.75,3.49,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-21T20:28:38+00:00,close,ISRG,378.81,1.16,0.22,positive,Abbott vs. Intuitive Surgical: Is Consistent Growth Better Than Premium Growth?
+2026-08-21T20:28:38+00:00,close,TMUS,183.04,1.0,-0.113,negative,T-Mobile suffers a loss as competition for customers intensifies
+2026-08-21T20:28:38+00:00,close,UBER,78.8,0.32,0.144,positive,"Tesla, Waymo, Uber Granted Las Vegas Robotaxi Permits"
+2026-08-21T20:28:38+00:00,close,PLTR,179.94,3.44,0.315,positive,3 Unpopular Stocks That Deserve Some Love
+2026-08-21T20:28:38+00:00,close,AMR,210.01,8.09,0.0,neutral,Alpha Metallurgical (AMR) Weathers A Rough Quarter On Multiple Fronts
+2026-08-21T20:28:38+00:00,close,LAC,3.14,5.72,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-08-21T20:28:38+00:00,close,MP,60.05,9.1,0.149,positive,US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher
+2026-08-21T20:28:38+00:00,close,UEC,12.76,14.44,0.405,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-21T20:28:38+00:00,close,OKLO,42.09,1.03,0.454,positive,Liberty Energy Targets 3 GW Data Center Power Buildout While Defending Frac Growth
+2026-08-21T20:28:38+00:00,close,UUUU,15.14,8.92,0.522,positive,Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval
+2026-08-21T20:28:38+00:00,close,RTX,209.91,-1.12,0.343,positive,RTX Stock Gets a Radar Lock on a $23B Navy Win
+2026-08-21T20:28:38+00:00,close,AMZN,258.63,-0.57,0.264,positive,Marvell Stock Flashes Strong Signal Before Earnings
+2026-08-21T20:28:38+00:00,close,AMD,473.25,0.81,0.05,neutral,Can Cerebras' Latest CS-4 Help the Stock in Confronting NVDA & AMD?
+2026-08-21T20:28:38+00:00,close,META,549.9,0.75,-0.005,neutral,Meta's $800 Bull Case Comes Down to One AI Win
+2026-08-21T20:28:38+00:00,close,AVGO,368.45,1.21,-0.032,neutral,Broadcom seeks up to $80 billion in debt for AI chip deal
+2026-08-21T20:28:38+00:00,close,MRVL,237.04,-5.57,0.138,positive,"Marvell Quarterly Results Poised for Upside Led by AI, Customer Wins, Oppenheimer Says"
+2026-08-21T20:28:38+00:00,close,APLD,27.21,-5.03,0.239,positive,Can Applied Digital’s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?
