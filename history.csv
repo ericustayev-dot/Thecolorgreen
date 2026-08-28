@@ -2561,3 +2561,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-27T23:02:46+00:00,open,AVGO,371.54,4.49,-0.064,negative,Broadcom Urges Enterprises to Prepare Now for Post-Quantum Cyber Threats
 2026-08-27T23:02:46+00:00,open,MRVL,241.45,-1.49,0.209,positive,Marvell Technology Tops Second-Quarter Expectations on Data Center Revenue Surge
 2026-08-27T23:02:46+00:00,open,APLD,27.44,2.12,0.0,neutral,Why Is Applied Digital Corporation (APLD) Up 8.4% Since Last Earnings Report?
+2026-08-28T04:06:06+00:00,close,AAPL,314.58,0.36,0.263,positive,New Patent Intelligence Report Reveals the Hidden Competitors in the Race to Build AI Smart Glasses
+2026-08-28T04:06:06+00:00,close,TSLA,354.81,2.6,0.13,positive,"Nvidia M&A Target Hugging Face Releases New Robot, As Deal Rumors Swirl"
+2026-08-28T04:06:06+00:00,close,NVDA,227.98,8.74,0.059,positive,OpenAI’s agents breached Hugging Face. Nvidia wants it.
+2026-08-28T04:06:06+00:00,close,URG,1.53,0.66,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-08-28T04:06:06+00:00,close,LEU,194.78,3.81,0.444,positive,Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity
+2026-08-28T04:06:06+00:00,close,CCJ,106.33,-0.96,0.0,neutral,CCJ's Uranium Production Down 5% in 1H26: Will 2026 Targets be Met?
+2026-08-28T04:06:06+00:00,close,LUNR,16.18,0.43,0.161,positive,Moonshot to Money: Intuitive Machines Lands $600M Defense Win
+2026-08-28T04:06:06+00:00,close,OUST,36.54,1.87,0.227,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-08-28T04:06:06+00:00,close,MBLY,8.61,0.82,0.285,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-08-28T04:06:06+00:00,close,SYM,41.14,1.31,0.099,positive,VNT vs. SYM: Which Stock Is the Better Value Option?
+2026-08-28T04:06:06+00:00,close,INTU,348.0,0.61,0.31,positive,Intuit (INTU) is Lowering TurboTax Revenue per User to Win Customers. Can the Strategy Restore Double-Digit Growth?
+2026-08-28T04:06:06+00:00,close,CBRS,186.67,2.48,-0.169,negative,Cathie Wood Dumps AMD and Adds to This AI Chip Stock
+2026-08-28T04:06:06+00:00,close,SPCX,140.87,0.89,0.24,positive,SpaceX’s $100 Billion Starship Plan: Growth Opportunity Meets Execution Risk
+2026-08-28T04:06:06+00:00,close,IONQ,42.46,6.07,0.072,positive,Quantum Stocks Looked Like Nvidia in 2019. Then They Belly-Flopped 50%.
+2026-08-28T04:06:06+00:00,close,SERV,4.88,2.09,0.165,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-08-28T04:06:06+00:00,close,UMAC,26.3,10.09,0.026,neutral,Is Unusual Machines’ (UMAC) NDAA-Compliant Expansion Redefining Its Long-Term Defense Drone Investment Profile?
+2026-08-28T04:06:06+00:00,close,SNOW,329.11,4.36,0.245,positive,3 Reasons Investors Love Snowflake (SNOW)
+2026-08-28T04:06:06+00:00,close,NOW,138.43,10.04,0.261,positive,"Sophus IT Solutions Named an OpenAI Select Partner, Expanding Production AI Deployments and Geospatial Intelligence Solutions"
+2026-08-28T04:06:06+00:00,close,ARKO,4.46,-4.5,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-28T04:06:06+00:00,close,ISRG,367.07,-0.9,0.573,positive,Is Intuitive Surgical (ISRG) Below Fair Value After Strong Revenue And Procedure Growth?
+2026-08-28T04:06:06+00:00,close,TMUS,177.75,-1.04,-0.243,negative,T-Mobile suffers a loss as competition for customers intensifies
+2026-08-28T04:06:06+00:00,close,UBER,76.95,-1.96,0.007,neutral,"I’m in the Navy and Have a Home-Based Side Hustle Making $8,000 to $11,000 a Month. It’s Better Than Uber."
+2026-08-28T04:06:06+00:00,close,PLTR,185.93,4.75,-0.006,neutral,Palantir CEO Alexander Karp Dumps $86 million in Palantir Stock
+2026-08-28T04:06:06+00:00,close,AMR,227.38,4.34,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-08-28T04:06:06+00:00,close,LAC,3.17,-1.25,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-08-28T04:06:06+00:00,close,MP,59.03,-0.47,0.096,positive,MP's Operating Cash Flow Turns Positive in Q2: More Upside Ahead?
+2026-08-28T04:06:06+00:00,close,UEC,13.62,3.73,0.314,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-28T04:06:06+00:00,close,OKLO,42.53,2.24,0.195,positive,OKLO vs. TLN: Which Nuclear Energy Stock Looks Better Now?
+2026-08-28T04:06:06+00:00,close,UUUU,15.74,0.25,0.443,positive,Energy Fuels (TSX:EFR) Stock Trades At A Premium To Fair Value
+2026-08-28T04:06:06+00:00,close,RTX,212.08,0.04,0.165,positive,Why Is RTX (RTX) Testing Progress Important For Its Next Generation Defense Systems?
+2026-08-28T04:06:06+00:00,close,AMZN,256.26,-1.54,0.251,positive,Just received a settlement? Here are 5 smart ways to use the money.
+2026-08-28T04:06:06+00:00,close,AMD,476.67,-0.89,0.073,positive,AMD Stock Alert: Raymond James Sees $201B Revenue Opportunity by 2030
+2026-08-28T04:06:06+00:00,close,META,571.1,-0.87,0.089,positive,Uber (UBER)’s $966 Million Fine: A Temporary Headwind or Bigger Regulatory Threat?
+2026-08-28T04:06:06+00:00,close,AVGO,371.54,4.49,0.023,neutral,Spicy Stocks: Why BNP Thinks Jalapeño Could Benefit Broadcom Stock
+2026-08-28T04:06:06+00:00,close,MRVL,241.45,-1.49,0.209,positive,Marvell Technology Tops Second-Quarter Expectations on Data Center Revenue Surge
+2026-08-28T04:06:06+00:00,close,APLD,27.44,2.12,0.0,neutral,Why Is Applied Digital Corporation (APLD) Up 8.4% Since Last Earnings Report?
