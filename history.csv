@@ -2669,3 +2669,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-08-29T02:45:29+00:00,close,AVGO,368.79,-0.74,-0.048,neutral,Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward?
 2026-08-29T02:45:29+00:00,close,MRVL,216.62,-10.28,-0.182,negative,Marvell Stock Faces Critical Test After Sharp Drop
 2026-08-29T02:45:29+00:00,close,APLD,25.34,-7.65,0.149,positive,1 of Wall Street’s Favorite Stocks to Own for Decades and 2 Facing Headwinds
+2026-08-31T19:36:54+00:00,open,AAPL,315.95,0.43,0.0,neutral,Here's what Tim Cook posted on his last day as Apple's CEO
+2026-08-31T19:36:54+00:00,open,TSLA,367.64,3.62,-0.085,negative,Tesla Just Cut the Model 3 Entry Price by 8.5%
+2026-08-31T19:36:54+00:00,open,NVDA,219.62,-3.66,0.068,positive,OpenAI Got $5.5B in SB Energy Warrants to Lease Nvidia-Backed AI Data Centers
+2026-08-31T19:36:54+00:00,open,URG,1.41,-7.76,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-08-31T19:36:54+00:00,open,LEU,172.48,-11.45,0.444,positive,Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity
+2026-08-31T19:36:54+00:00,open,CCJ,98.29,-7.56,0.245,positive,Cameco (TSX:CCO) Tests Nuclear Growth Hopes On A Fair Value Gap
+2026-08-31T19:36:54+00:00,open,LUNR,15.26,-5.69,0.057,positive,Can LUNR Turn Its Backlog Into Sustained Space Infrastructure Growth?
+2026-08-31T19:36:54+00:00,open,OUST,34.35,-5.98,0.227,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-08-31T19:36:54+00:00,open,MBLY,8.53,-0.87,0.245,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-08-31T19:36:54+00:00,open,SYM,39.69,-3.52,0.158,positive,VNT vs. SYM: Which Stock Is the Better Value Option?
+2026-08-31T19:36:54+00:00,open,INTU,359.19,3.22,0.076,positive,Intuit or PayPal: Which Fintech Is Built for Future Growth?
+2026-08-31T19:36:54+00:00,open,CBRS,182.49,-2.24,0.137,positive,CBRS' Global Expansion Boosts Growth Prospects Against NVDA & MSFT
+2026-08-31T19:36:54+00:00,open,SPCX,142.47,1.14,0.042,neutral,What Is SpaceX (SPCX) Signaling By Building Out Its Natural Gas Operation?
+2026-08-31T19:36:54+00:00,open,IONQ,39.15,-7.8,-0.016,neutral,Quantum Computing’s Insiders Have Sold Nearly $863 Million More Than They’ve Bought. Should Investors Worry?
+2026-08-31T19:36:54+00:00,open,SERV,4.95,1.33,0.224,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-08-31T19:36:54+00:00,open,UMAC,23.91,-9.11,0.121,positive,UMAC Rides on Favorable Industry Tailwinds: Should You Bet on It?
+2026-08-31T19:36:54+00:00,open,SNOW,331.04,0.59,0.068,positive,"CrowdStrike Brings the Falcon Platform to Snowflake, Unifying Security and Data at Enterprise Scale"
+2026-08-31T19:36:54+00:00,open,NOW,149.2,7.78,0.084,positive,"ServiceNow, Zscaler, SentinelOne, Asana, and Elastic Shares Skyrocket, What You Need To Know"
+2026-08-31T19:36:54+00:00,open,ARKO,4.51,1.01,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-08-31T19:36:54+00:00,open,ISRG,375.71,2.35,0.507,positive,Is Intuitive Surgical (ISRG) Below Fair Value After Strong Revenue And Procedure Growth?
+2026-08-31T19:36:54+00:00,open,TMUS,181.01,nan,0.168,positive,How T-Mobile Stock Could Win as SpaceX Expands Its Wireless Business
+2026-08-31T19:36:54+00:00,open,UBER,76.18,-0.99,-0.059,negative,The end of the driver’s license: Uber exec calls car ownership ‘the most inefficient asset’ and says no one will need one in 15 to 20 years
+2026-08-31T19:36:54+00:00,open,PLTR,187.1,0.63,0.109,positive,Palantir's $448 Billion Valuation Still Isn't Scaring Baird
+2026-08-31T19:36:54+00:00,open,AMR,235.15,3.42,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-08-31T19:36:54+00:00,open,LAC,3.08,-2.84,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-08-31T19:36:54+00:00,open,MP,54.45,-7.76,0.293,positive,Energy Fuels' ASM Buy Strengthens Rare Earth Push: What's Next?
+2026-08-31T19:36:54+00:00,open,UEC,12.3,-9.73,0.314,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-08-31T19:36:54+00:00,open,OKLO,40.53,-4.7,0.138,positive,UUUU vs. LEU: Which Uranium Stock Offers Better Potential?
+2026-08-31T19:36:54+00:00,open,UUUU,14.7,-6.61,0.428,positive,Energy Fuels' ASM Buy Strengthens Rare Earth Push: What's Next?
+2026-08-31T19:36:54+00:00,open,RTX,208.96,-1.47,0.006,neutral,Are Aerospace Stocks Lagging  RTX Corporation (RTX) This Year?
+2026-08-31T19:36:54+00:00,open,AMZN,259.17,1.14,0.117,positive,"FTC reportedly suing Amazon over ad practices, shares fall"
+2026-08-31T19:36:54+00:00,open,AMD,468.61,-1.69,0.127,positive,AMD and Cisco Expand AI Infrastructure in Saudi Arabia
+2026-08-31T19:36:54+00:00,open,META,572.41,0.23,-0.192,negative,Meta Platforms (META) Faces Europe Ad Risk After $1 Billion Fake Creator Report
+2026-08-31T19:36:54+00:00,open,AVGO,369.69,-0.5,0.14,positive,"Broadcom Announces VMware AI Factory, Enabling Faster Time to Production AI and Greater Control Over AI Tokenomics"
+2026-08-31T19:36:54+00:00,open,MRVL,211.55,-12.38,0.222,positive,LITE's AI Optics Push Boosts Growth Prospects Against MRVL & NVDA
+2026-08-31T19:36:54+00:00,open,APLD,25.21,-8.13,0.057,positive,Applied Digital (APLD) Stock Looks Strong On Returns But Expensive On Sales
