@@ -2813,3 +2813,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-09-01T22:27:43+00:00,close,AVGO,369.68,-0.18,0.362,positive,Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143%
 2026-09-01T22:27:43+00:00,close,MRVL,210.39,-0.6,-0.113,negative,"Marvell Stock: The AI Growth Story Is Getting Bigger, But the Google Deal Is Still a Problem"
 2026-09-01T22:27:43+00:00,close,APLD,24.29,-4.41,0.079,positive,3 Crypto Stocks To Watch With Up To 47% Revenue Growth
+2026-09-02T17:18:25+00:00,open,AAPL,325.55,0.13,0.054,positive,Apple’s Annual iPhone Event Is a Week Away. Why It’s More Important Than Ever.
+2026-09-02T17:18:25+00:00,open,TSLA,352.85,-0.91,0.149,positive,Konko AI Secures $6 Million to Scale Interoperable AI Platform that Gives Doctors More Time for Patient Care
+2026-09-02T17:18:25+00:00,open,NVDA,224.9,3.43,0.349,positive,Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending
+2026-09-02T17:18:25+00:00,open,URG,1.36,1.12,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-09-02T17:18:25+00:00,open,LEU,167.13,-0.7,0.444,positive,Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity
+2026-09-02T17:18:25+00:00,open,CCJ,95.65,-0.63,0.245,positive,Cameco (TSX:CCO) Tests Nuclear Growth Hopes On A Fair Value Gap
+2026-09-02T17:18:25+00:00,open,LUNR,14.74,0.17,-0.045,neutral,Intuitive Machines Misses Big on Earnings. Stifel Upgrades It Anyway
+2026-09-02T17:18:25+00:00,open,OUST,33.84,1.74,0.104,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-09-02T17:18:25+00:00,open,MBLY,8.49,1.61,0.245,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-09-02T17:18:25+00:00,open,SYM,39.52,3.4,0.028,neutral,Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?
+2026-09-02T17:18:25+00:00,open,INTU,342.29,-0.77,0.295,positive,Intuit's Credit Karma Expands Reach: Can Double-Digit Growth Last?
+2026-09-02T17:18:25+00:00,open,CBRS,181.54,5.17,0.145,positive,CBRS' Global Expansion Boosts Growth Prospects Against NVDA & MSFT
+2026-09-02T17:18:25+00:00,open,SPCX,140.88,-0.95,0.142,positive,"Bernie Sanders Sounds Alarm on ‘Rigged’ US Economy Amid Growing Wealth Inequality, Says Elon Musk Is Richer Than Half of American Households"
+2026-09-02T17:18:25+00:00,open,IONQ,36.87,-2.41,-0.016,neutral,Quantum Computing’s Insiders Have Sold Nearly $863 Million More Than They’ve Bought. Should Investors Worry?
+2026-09-02T17:18:25+00:00,open,SERV,4.8,2.39,0.224,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-09-02T17:18:25+00:00,open,UMAC,22.77,0.55,0.121,positive,UMAC Rides on Favorable Industry Tailwinds: Should You Bet on It?
+2026-09-02T17:18:25+00:00,open,SNOW,304.8,-4.69,0.068,positive,"Yuki Launches Cortex Control Center, Giving Snowflake Teams Real-Time Visibility Into AI Spend"
+2026-09-02T17:18:25+00:00,open,NOW,137.23,-3.97,0.06,positive,Calix Welcomes Juergen Lindner as Chief Marketing Officer
+2026-09-02T17:18:25+00:00,open,ARKO,4.71,4.67,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-09-02T17:18:25+00:00,open,ISRG,374.51,1.42,0.344,positive,PAHC or LMAT: Which Is the Better Value Stock Right Now?
+2026-09-02T17:18:25+00:00,open,TMUS,187.01,2.66,0.168,positive,How T-Mobile Stock Could Win as SpaceX Expands Its Wireless Business
+2026-09-02T17:18:25+00:00,open,UBER,76.82,2.1,-0.005,neutral,NOW Broadens Aramco AI Footprint as CRM & MSFT Expand AI Ambitions
+2026-09-02T17:18:25+00:00,open,PLTR,167.98,-6.64,0.177,positive,Palantir CEO Makes Bold New Move in Defense AI
+2026-09-02T17:18:25+00:00,open,AMR,233.82,0.17,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-09-02T17:18:25+00:00,open,LAC,2.97,0.17,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-09-02T17:18:25+00:00,open,MP,54.28,1.0,0.004,neutral,BHP goes all in on copper as record prices fuel profits
+2026-09-02T17:18:25+00:00,open,UEC,11.52,-0.65,0.296,positive,"LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales"
+2026-09-02T17:18:25+00:00,open,OKLO,38.75,0.57,-0.092,negative,Can Hedging and Long-Term PPAs Strengthen Vistra's Growth?
+2026-09-02T17:18:25+00:00,open,UUUU,14.16,-0.42,0.428,positive,Energy Fuels' ASM Buy Strengthens Rare Earth Push: What's Next?
+2026-09-02T17:18:25+00:00,open,RTX,201.29,-1.89,-0.034,neutral,Are Aerospace Stocks Lagging  RTX Corporation (RTX) This Year?
+2026-09-02T17:18:25+00:00,open,AMZN,254.4,-0.2,0.176,positive,Can CAVA's 2024 Cohort Support Its Next Phase of Unit Growth?
+2026-09-02T17:18:25+00:00,open,AMD,456.88,-0.6,0.143,positive,HPE vs. AMD: Which Stock Is the Better Value Option?
+2026-09-02T17:18:25+00:00,open,META,592.23,2.37,-0.147,negative,Alphabet Rises After Judge Rejects Forced Sale of 20%-Fee AdX
+2026-09-02T17:18:25+00:00,open,AVGO,368.1,-0.43,0.298,positive,Will Broadcom Earnings Rebuild Confidence in Its AI Growth Story?
+2026-09-02T17:18:25+00:00,open,MRVL,205.78,-2.19,0.216,positive,Marvell Technology (MRVL) Could Be 25% Below Fair Value After Raised Revenue Outlook
+2026-09-02T17:18:25+00:00,open,APLD,24.08,-0.86,0.079,positive,3 Crypto Stocks To Watch With Up To 47% Revenue Growth
