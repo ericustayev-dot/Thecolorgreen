@@ -2885,3 +2885,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-09-02T22:27:00+00:00,close,AVGO,367.24,-0.66,0.229,positive,Broadcom stock sinks as chipmaker results 'not enough to keep investors happy'
 2026-09-02T22:27:00+00:00,close,MRVL,206.48,-1.86,0.13,positive,Marvell Technology (MRVL) Could Be 25% Below Fair Value After Raised Revenue Outlook
 2026-09-02T22:27:00+00:00,close,APLD,24.91,2.55,0.079,positive,3 Crypto Stocks To Watch With Up To 47% Revenue Growth
+2026-09-03T17:09:55+00:00,open,AAPL,328.58,1.11,-0.076,negative,Apple faces $2.7 billion U.K. lawsuit over app tracking rules
+2026-09-03T17:09:55+00:00,open,TSLA,382.49,7.14,0.174,positive,Tesla keeps hyping robotaxis as its future. But it’s trailing rival Waymo in a field yet to prove profitable
+2026-09-03T17:09:55+00:00,open,NVDA,227.47,1.36,0.172,positive,Nvidia Confirms $12.9B Hugging Face Deal as Huang Lauds 'Growth Driver'
+2026-09-03T17:09:55+00:00,open,URG,1.4,2.87,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-09-03T17:09:55+00:00,open,LEU,172.0,0.3,0.444,positive,Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity
+2026-09-03T17:09:55+00:00,open,CCJ,100.55,4.33,0.245,positive,Cameco (TSX:CCO) Tests Nuclear Growth Hopes On A Fair Value Gap
+2026-09-03T17:09:55+00:00,open,LUNR,14.57,-1.95,0.084,positive,LUNR Falls 46.4% in 3 Months. Is the Sell-Off a Buying Opportunity?
+2026-09-03T17:09:55+00:00,open,OUST,35.47,1.83,0.206,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-09-03T17:09:55+00:00,open,MBLY,8.4,-1.12,0.245,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-09-03T17:09:55+00:00,open,SYM,40.94,2.7,0.028,neutral,Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?
+2026-09-03T17:09:55+00:00,open,INTU,349.5,1.91,0.244,positive,Intuit's Credit Karma Expands Reach: Can Double-Digit Growth Last?
+2026-09-03T17:09:55+00:00,open,CBRS,186.66,1.16,0.105,positive,3 Top AI Stocks With Revenue Growth Over 26%
+2026-09-03T17:09:55+00:00,open,SPCX,150.57,7.01,0.157,positive,Elon Musk sends a strong message to Tesla and SpaceX investors
+2026-09-03T17:09:55+00:00,open,IONQ,38.96,3.51,0.044,neutral,NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026
+2026-09-03T17:09:55+00:00,open,SERV,4.81,-1.23,0.224,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-09-03T17:09:55+00:00,open,UMAC,24.09,2.28,0.171,positive,Unusual Machines Strengthens Supply Chain Intelligence Through Strategic Partnership with Altana
+2026-09-03T17:09:55+00:00,open,SNOW,368.44,20.47,0.286,positive,"Most Active Options Report: SNOW, CPB, CIEN, ACMR, SCHD"
+2026-09-03T17:09:55+00:00,open,NOW,144.23,5.49,0.096,positive,Calix Welcomes Juergen Lindner as Chief Marketing Officer
+2026-09-03T17:09:55+00:00,open,ARKO,4.78,0.74,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-09-03T17:09:55+00:00,open,ISRG,369.74,-0.58,0.344,positive,PAHC or LMAT: Which Is the Better Value Stock Right Now?
+2026-09-03T17:09:55+00:00,open,TMUS,188.99,0.9,0.132,positive,Verizon Shares Rise 23.3% YTD: How Should You Play the Stock?
+2026-09-03T17:09:55+00:00,open,UBER,75.52,-1.22,-0.156,negative,"Job cuts are at a four-year low, according to Challenger data"
+2026-09-03T17:09:55+00:00,open,PLTR,182.76,7.85,0.114,positive,PwC and Palantir Expand Strategic Alliance to Help Organizations Scale Enterprise AI
+2026-09-03T17:09:55+00:00,open,AMR,220.01,-5.69,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-09-03T17:09:55+00:00,open,LAC,2.97,-1.19,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-09-03T17:09:55+00:00,open,MP,53.76,-1.73,0.004,neutral,BHP goes all in on copper as record prices fuel profits
+2026-09-03T17:09:55+00:00,open,UEC,11.6,-0.17,0.248,positive,NuScale Advances Key Safety Component Toward SMR Commercialization
+2026-09-03T17:09:55+00:00,open,OKLO,39.91,0.99,0.263,positive,Eco Wave Power Signs Agreement with AI engineering GmbH to Advance AI-Powered Digital Twin Platform for Wave Energy
+2026-09-03T17:09:55+00:00,open,UUUU,14.3,0.07,0.465,positive,Energy Fuels' Q2 Revenues Surge 496% Y/Y: Is This Growth Sustainable?
+2026-09-03T17:09:55+00:00,open,RTX,200.89,0.05,-0.034,neutral,Are Aerospace Stocks Lagging  RTX Corporation (RTX) This Year?
+2026-09-03T17:09:55+00:00,open,AMZN,258.19,1.26,0.146,positive,Whole Foods CEO bets on smaller stores and the latest Amazon tech to win over shoppers
+2026-09-03T17:09:55+00:00,open,AMD,456.82,-0.05,0.147,positive,Billionaire has bold take on 'hot money' rotation
+2026-09-03T17:09:55+00:00,open,META,612.84,3.37,0.206,positive,"Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform"
+2026-09-03T17:09:55+00:00,open,AVGO,355.93,-3.08,0.156,positive,Are investors underappreciating Broadcom's strong performance?
+2026-09-03T17:09:55+00:00,open,MRVL,211.18,2.28,0.293,positive,Marvell Technology (MRVL) Could Be 25% Below Fair Value After Raised Revenue Outlook
+2026-09-03T17:09:55+00:00,open,APLD,25.66,3.01,0.079,positive,3 Crypto Stocks To Watch With Up To 47% Revenue Growth
