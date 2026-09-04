@@ -2957,3 +2957,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-09-03T22:24:06+00:00,close,AVGO,357.16,-2.74,0.161,positive,Broadcom and Snowflake Perfectly Sum Up the AI Trade
 2026-09-03T22:24:06+00:00,close,MRVL,208.83,1.14,0.251,positive,Bloom Energy and 7 More Stocks That Could Join the S&P 500 This Month
 2026-09-03T22:24:06+00:00,close,APLD,25.91,4.01,-0.118,negative,Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model?
+2026-09-04T17:02:05+00:00,open,AAPL,321.18,-2.14,-0.165,negative,Apple's First Foldable Could Launch With a Supply Problem
+2026-09-04T17:02:05+00:00,open,TSLA,352.29,-6.4,-0.036,neutral,Elon Musk Just Opened His Midterm War Chest
+2026-09-04T17:02:05+00:00,open,NVDA,231.54,1.35,-0.022,neutral,AMC Jumps 9% After Aron Declares War on Robinhood
+2026-09-04T17:02:05+00:00,open,URG,1.38,-1.07,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-09-04T17:02:05+00:00,open,LEU,172.0,0.9,0.444,positive,Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity
+2026-09-04T17:02:05+00:00,open,CCJ,100.91,0.29,0.245,positive,Cameco (TSX:CCO) Tests Nuclear Growth Hopes On A Fair Value Gap
+2026-09-04T17:02:05+00:00,open,LUNR,14.76,0.37,0.084,positive,LUNR Falls 46.4% in 3 Months. Is the Sell-Off a Buying Opportunity?
+2026-09-04T17:02:05+00:00,open,OUST,35.73,-0.28,0.206,positive,Will Stereolabs Help Ouster Capitalize on Robotics Growth?
+2026-09-04T17:02:05+00:00,open,MBLY,8.48,1.98,0.245,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-09-04T17:02:05+00:00,open,SYM,42.82,2.94,0.028,neutral,Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?
+2026-09-04T17:02:05+00:00,open,INTU,333.0,-3.28,0.164,positive,Intuit's Credit Karma Expands Reach: Can Double-Digit Growth Last?
+2026-09-04T17:02:05+00:00,open,CBRS,213.22,11.96,0.105,positive,3 Top AI Stocks With Revenue Growth Over 26%
+2026-09-04T17:02:05+00:00,open,SPCX,148.88,-0.57,-0.029,neutral,Blowout jobs report raises worries of Fed rate hike: AlphaCheck
+2026-09-04T17:02:05+00:00,open,IONQ,39.13,0.29,0.132,positive,NVIDIA & 4 Stocks Beyond Pure Plays to Gain From Quantum Boom in 2026
+2026-09-04T17:02:05+00:00,open,SERV,4.87,0.9,0.224,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-09-04T17:02:05+00:00,open,UMAC,24.12,-1.59,0.171,positive,Unusual Machines Strengthens Supply Chain Intelligence Through Strategic Partnership with Altana
+2026-09-04T17:02:05+00:00,open,SNOW,343.77,-3.56,0.068,positive,"Snowflake Gains 17% Post Q2 Earnings: Buy, Sell or Hold the Stock?"
+2026-09-04T17:02:05+00:00,open,NOW,140.83,-3.27,0.155,positive,"Software Stocks Are Back. 2 Winners, 2 Losers—and Salesforce."
+2026-09-04T17:02:05+00:00,open,ARKO,4.84,0.31,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-09-04T17:02:05+00:00,open,ISRG,364.06,-1.56,0.407,positive,PAHC or LMAT: Which Is the Better Value Stock Right Now?
+2026-09-04T17:02:05+00:00,open,TMUS,182.38,-3.0,0.106,positive,Verizon Shares Rise 23.3% YTD: How Should You Play the Stock?
+2026-09-04T17:02:05+00:00,open,UBER,75.49,-0.63,-0.175,negative,"Uber Technologies (UBER) Cuts 3,300 Jobs As Investors Reassess Its Valuation"
+2026-09-04T17:02:05+00:00,open,PLTR,174.98,-4.14,0.311,positive,What Does Palantir Technologies (PLTR) Winning Army Work Mean For Its AI Growth?
+2026-09-04T17:02:05+00:00,open,AMR,226.25,4.18,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-09-04T17:02:05+00:00,open,LAC,3.0,1.01,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-09-04T17:02:05+00:00,open,MP,54.97,2.22,0.049,neutral,MP Materials (MP) Stock Looks Expensive On Sales But Strong On Returns
+2026-09-04T17:02:05+00:00,open,UEC,11.59,0.65,0.248,positive,NuScale Advances Key Safety Component Toward SMR Commercialization
+2026-09-04T17:02:05+00:00,open,OKLO,41.01,2.92,0.261,positive,Our Pick Of The Best Nuclear Stocks In September 2026
+2026-09-04T17:02:05+00:00,open,UUUU,14.48,0.94,0.414,positive,Energy Fuels' Q2 Revenues Surge 496% Y/Y: Is This Growth Sustainable?
+2026-09-04T17:02:05+00:00,open,RTX,200.65,-0.73,0.356,positive,"RTX (RTX) Stock Looks Below Fair Value On Cash Flow, Near Fair Value On Earnings"
+2026-09-04T17:02:05+00:00,open,AMZN,257.05,-0.71,0.136,positive,"Bixberry Launches, Rewards People to Keep AI Connected to the Real World"
+2026-09-04T17:02:05+00:00,open,AMD,476.24,4.4,0.095,positive,OpenAI Has Launched GPT-6 Astra. These Stocks Will Benefit.
+2026-09-04T17:02:05+00:00,open,META,610.2,-0.08,0.084,positive,Update: Market Chatter: Meta Platforms Addresses Safety Concerns as Hatch AI Agent Nears Launch
+2026-09-04T17:02:05+00:00,open,AVGO,356.04,-0.31,0.086,positive,Adobe appoints new CEO to succeed Narayen in December
+2026-09-04T17:02:05+00:00,open,MRVL,221.43,6.03,0.218,positive,"Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added"
+2026-09-04T17:02:05+00:00,open,APLD,26.23,1.25,-0.118,negative,Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model?
