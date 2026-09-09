@@ -3173,3 +3173,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-09-08T22:27:15+00:00,close,AVGO,368.56,2.98,0.204,positive,Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners
 2026-09-08T22:27:15+00:00,close,MRVL,225.41,0.83,0.231,positive,Marvell Raised Its Outlook but Fell as Google Chip Revenue Stayed Distant. Has the AI Payoff Been Priced In? (Ready for review)
 2026-09-08T22:27:15+00:00,close,APLD,28.31,7.36,-0.112,negative,Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model?
+2026-09-09T17:15:01+00:00,open,AAPL,312.87,-1.06,0.182,positive,"A foldable iPhone is nice, but Apple still needs to improve its AI user experience"
+2026-09-09T17:15:01+00:00,open,TSLA,368.52,0.1,0.157,positive,Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive
+2026-09-09T17:15:01+00:00,open,NVDA,224.41,-0.58,0.0,neutral,Cognyte Software Ltd. Q2 2027 Earnings Call Summary
+2026-09-09T17:15:01+00:00,open,URG,1.4,1.08,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-09-09T17:15:01+00:00,open,LEU,183.41,-1.14,0.481,positive,Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity
+2026-09-09T17:15:01+00:00,open,CCJ,101.42,-0.54,0.249,positive,Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?
+2026-09-09T17:15:01+00:00,open,LUNR,15.03,-4.11,0.148,positive,LUNR Falls 46.4% in 3 Months. Is the Sell-Off a Buying Opportunity?
+2026-09-09T17:15:01+00:00,open,OUST,36.76,-1.95,0.164,positive,"Ouster Is Up 70% YTD: Time to Buy More, Hold or Book Profits?"
+2026-09-09T17:15:01+00:00,open,MBLY,8.19,-3.87,0.161,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-09-09T17:15:01+00:00,open,SYM,43.42,0.27,0.028,neutral,Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?
+2026-09-09T17:15:01+00:00,open,INTU,315.13,-1.19,0.164,positive,Intuit's Credit Karma Expands Reach: Can Double-Digit Growth Last?
+2026-09-09T17:15:01+00:00,open,CBRS,198.2,-0.79,0.126,positive,3 Top AI Stocks With Revenue Growth Over 26%
+2026-09-09T17:15:01+00:00,open,SPCX,145.95,-4.9,0.076,positive,GE Aerospace Buys Turbine Maker in Blow to SpaceX. These Stocks Could Benefit.
+2026-09-09T17:15:01+00:00,open,IONQ,38.89,-3.9,0.157,positive,"D-Wave, Rigetti and IonQ Stocks Rally on $100 Million Quantum Boost"
+2026-09-09T17:15:01+00:00,open,SERV,4.74,-3.16,0.224,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-09-09T17:15:01+00:00,open,UMAC,24.83,-4.45,0.145,positive,Unusual Machines Strengthens Supply Chain Intelligence Through Strategic Partnership with Altana
+2026-09-09T17:15:01+00:00,open,SNOW,335.85,0.1,0.061,positive,Snowflake Expands in Cloud Analytics: Can It Challenge DELL & ORCL?
+2026-09-09T17:15:01+00:00,open,NOW,131.43,-2.07,0.092,positive,"Finalists Named for the AFP 2026 Pinnacle Awards: Bandwidth, Google, ServiceNow"
+2026-09-09T17:15:01+00:00,open,ARKO,4.45,-5.53,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-09-09T17:15:01+00:00,open,ISRG,351.02,0.25,0.076,positive,ISRG's Ion Platform Is Quietly Becoming a Second Growth Engine
+2026-09-09T17:15:01+00:00,open,TMUS,177.1,-2.52,0.134,positive,T-Mobile makes a significant change to where customers get help
+2026-09-09T17:15:01+00:00,open,UBER,71.48,-2.26,0.148,positive,Uber Eats and Wakefern Food Corp. Team Up to Expand On-Demand Grocery Delivery Across the U.S. Northeast
+2026-09-09T17:15:01+00:00,open,PLTR,171.02,0.42,0.0,neutral,Cathie Wood Is Buying Archer While Trimming Palantir
+2026-09-09T17:15:01+00:00,open,AMR,228.91,2.31,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-09-09T17:15:01+00:00,open,LAC,3.12,4.0,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-09-09T17:15:01+00:00,open,MP,55.11,-0.47,-0.031,neutral,Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results
+2026-09-09T17:15:01+00:00,open,UEC,11.85,-0.29,0.253,positive,NuScale Advances Key Safety Component Toward SMR Commercialization
+2026-09-09T17:15:01+00:00,open,OKLO,43.15,-0.37,0.26,positive,Our Pick Of The Best Nuclear Stocks In September 2026
+2026-09-09T17:15:01+00:00,open,UUUU,14.85,1.57,0.159,positive,Energy Fuels (UUUU) Rises As Market Takes a Dip: Key Facts
+2026-09-09T17:15:01+00:00,open,RTX,199.14,0.17,0.411,positive,Can Chinook Modernization Strengthen RTX's Defense Growth?
+2026-09-09T17:15:01+00:00,open,AMZN,252.41,-1.77,0.179,positive,"Qualcomm's Amazon Deal Supports AI Growth Outlook, RBC Says"
+2026-09-09T17:15:01+00:00,open,AMD,524.35,3.68,0.109,positive,"AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor"
+2026-09-09T17:15:01+00:00,open,META,651.62,6.22,0.066,positive,"Amazon, Meta and Google Are Running Into a New Cost of the AI Boom"
+2026-09-09T17:15:01+00:00,open,AVGO,363.07,-1.49,0.029,neutral,LITE's Laser Growth Accelerates: Can It Challenge AVGO & AAOI?
+2026-09-09T17:15:01+00:00,open,MRVL,237.65,5.43,0.161,positive,Marvell CEO Matt Murphy says trust with big tech drove stock surge
+2026-09-09T17:15:01+00:00,open,APLD,27.21,-3.89,-0.126,negative,Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model?
