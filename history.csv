@@ -3281,3 +3281,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-09-10T17:08:58+00:00,open,AVGO,364.21,-0.05,0.315,positive,"IPEC Successfully Holds NPO Standards Industry Summit, Aiming to Build a Robust International Standards Ecosystem"
 2026-09-10T17:08:58+00:00,open,MRVL,229.86,-2.19,0.076,positive,Marvell Technology Targets $18B as AI Networking and Optics Fuel Growth
 2026-09-10T17:08:58+00:00,open,APLD,26.23,-3.37,-0.126,negative,Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model?
+2026-09-10T22:20:18+00:00,close,AAPL,326.57,3.56,0.181,positive,Why hardware will attract buyers to Apple's new lineup over AI features
+2026-09-10T22:20:18+00:00,close,TSLA,363.56,-1.16,-0.337,negative,Tesla Slips as China Turns Factory Surplus Into a Global Threat
+2026-09-10T22:20:18+00:00,close,NVDA,218.36,-2.37,0.078,positive,"Stock Market Today: Dow Drops 300 Points As Oil, Yields Pop; Nvidia Slides While Apple Gains"
+2026-09-10T22:20:18+00:00,close,URG,1.34,-2.9,0.055,positive,Ur Energy Q2 Earnings Call Highlights
+2026-09-10T22:20:18+00:00,close,LEU,165.87,-8.61,0.18,positive,"Centrus Energy, SM Energy, BKV, Select Water Solutions, and ProFrac Stocks Trade Up, What You Need To Know"
+2026-09-10T22:20:18+00:00,close,CCJ,97.42,-2.98,0.181,positive,Jefferies Sees Cameco (CCJ) and BWXT as Winners in the Nuclear Boom
+2026-09-10T22:20:18+00:00,close,LUNR,14.62,-2.14,0.148,positive,LUNR Falls 46.4% in 3 Months. Is the Sell-Off a Buying Opportunity?
+2026-09-10T22:20:18+00:00,close,OUST,35.23,-2.79,0.164,positive,"Ouster Is Up 70% YTD: Time to Buy More, Hold or Book Profits?"
+2026-09-10T22:20:18+00:00,close,MBLY,8.21,1.36,0.161,positive,Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress
+2026-09-10T22:20:18+00:00,close,SYM,41.1,-3.57,0.028,neutral,Serve Robotics vs. Symbotic: Which Robotics Stock Is More Compelling?
+2026-09-10T22:20:18+00:00,close,INTU,312.77,-0.37,0.164,positive,Intuit's Credit Karma Expands Reach: Can Double-Digit Growth Last?
+2026-09-10T22:20:18+00:00,close,CBRS,191.34,-2.48,0.095,positive,3 Top AI Stocks With Revenue Growth Over 26%
+2026-09-10T22:20:18+00:00,close,SPCX,148.18,0.43,-0.024,neutral,"SpaceX Sues Texas AG, Grimes County Over Terafab Project Information"
+2026-09-10T22:20:18+00:00,close,IONQ,36.84,-3.41,-0.047,neutral,"IonQ, Inc. (IONQ) Suffers a Larger Drop Than the General Market: Key Insights"
+2026-09-10T22:20:18+00:00,close,SERV,4.42,-5.05,0.224,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-09-10T22:20:18+00:00,close,UMAC,23.53,-3.25,0.145,positive,Unusual Machines Strengthens Supply Chain Intelligence Through Strategic Partnership with Altana
+2026-09-10T22:20:18+00:00,close,SNOW,329.72,-0.53,0.026,neutral,Snowflake's Growth Is Accelerating. So Is the Valuation Risk
+2026-09-10T22:20:18+00:00,close,NOW,131.17,0.05,0.214,positive,"ServiceNow Maps AI Control Tower Strategy as Agents, Security Drive Growth"
+2026-09-10T22:20:18+00:00,close,ARKO,4.47,0.68,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-09-10T22:20:18+00:00,close,ISRG,360.46,2.04,0.076,positive,ISRG's Ion Platform Is Quietly Becoming a Second Growth Engine
+2026-09-10T22:20:18+00:00,close,TMUS,177.16,-0.1,0.126,positive,T-Mobile makes a significant change to where customers get help
+2026-09-10T22:20:18+00:00,close,UBER,72.56,2.08,0.148,positive,Is Uber's Wakefern Food Deal on Grocery Delivery a Growth Catalyst?
+2026-09-10T22:20:18+00:00,close,PLTR,165.86,-2.16,-0.125,negative,Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning
+2026-09-10T22:20:18+00:00,close,AMR,217.73,-4.06,-0.105,negative,Alpha Metallurgical Resources (AMR) Is Up 10.8% After Lowering 2026 Shipment Guidance Amid Terminal Disruptions
+2026-09-10T22:20:18+00:00,close,LAC,3.02,-5.33,0.036,neutral,Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit
+2026-09-10T22:20:18+00:00,close,MP,51.32,-5.49,-0.031,neutral,Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results
+2026-09-10T22:20:18+00:00,close,UEC,11.02,-5.0,0.274,positive,Is Uranium Energy (UEC) a Buy as Wall Street Analysts Look Optimistic?
+2026-09-10T22:20:18+00:00,close,OKLO,39.88,-6.32,0.056,positive,"Uber initiated, Thermo Fisher upgraded: Wall Street's top analyst calls"
+2026-09-10T22:20:18+00:00,close,UUUU,13.63,-6.32,0.159,positive,Energy Fuels (UUUU) Rises As Market Takes a Dip: Key Facts
+2026-09-10T22:20:18+00:00,close,RTX,198.12,0.29,0.572,positive,Can Chinook Modernization Strengthen RTX's Defense Growth?
+2026-09-10T22:20:18+00:00,close,AMZN,251.89,-0.2,-0.055,negative,Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?
+2026-09-10T22:20:18+00:00,close,AMD,503.6,-3.36,0.148,positive,AMD Falls 2.5% After Declaring a $2 Trillion AI Prize
+2026-09-10T22:20:18+00:00,close,META,644.38,-1.42,0.226,positive,Meta Shares Rise as Muse Cracks App Store's Top Three
+2026-09-10T22:20:18+00:00,close,AVGO,360.83,-0.97,0.082,positive,"IPEC Successfully Holds NPO Standards Industry Summit, Aiming to Build a Robust International Standards Ecosystem"
+2026-09-10T22:20:18+00:00,close,MRVL,226.96,-3.43,0.076,positive,Marvell Technology Targets $18B as AI Networking and Optics Fuel Growth
+2026-09-10T22:20:18+00:00,close,APLD,25.78,-5.01,-0.237,negative,Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model?
