@@ -3641,3 +3641,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-09-17T17:43:50+00:00,open,AVGO,349.3,2.88,0.072,positive,Can MRVL's Data Center Business Sustain Its Growth in 2027?
 2026-09-17T17:43:50+00:00,open,MRVL,242.04,5.37,0.299,positive,"Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know"
 2026-09-17T17:43:50+00:00,open,APLD,26.6,9.08,-0.153,negative,3 Small-Cap Stocks with Warning Signs
+2026-09-17T22:43:35+00:00,close,AAPL,337.0,1.38,0.21,positive,Apple Shares Trade 16.41% Above GF Value as AI Agreement Faces Disclosure
+2026-09-17T22:43:35+00:00,close,TSLA,366.2,2.27,0.064,positive,Elon Musk warns one AI milestone dwarfs nuclear weapons
+2026-09-17T22:43:35+00:00,close,NVDA,219.34,2.54,-0.047,neutral,Michael Burry returns to a difficult corner of Wall Street
+2026-09-17T22:43:35+00:00,close,URG,1.22,1.67,0.0,neutral,From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Live Up to Its Uranium Hype?
+2026-09-17T22:43:35+00:00,close,LEU,149.85,7.8,0.06,positive,Why Is Centrus Energy (LEU) Stock Soaring Today
+2026-09-17T22:43:35+00:00,close,CCJ,92.8,2.09,0.09,positive,Jim Cramer Favors BWX Technologies (BWXT) Over Cameco (CCJ)
+2026-09-17T22:43:35+00:00,close,LUNR,14.79,6.63,0.213,positive,Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues
+2026-09-17T22:43:35+00:00,close,OUST,34.95,2.82,0.024,neutral,"Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights"
+2026-09-17T22:43:35+00:00,close,MBLY,8.04,2.81,0.214,positive,CYD or MBLY: Which Is the Better Value Stock Right Now?
+2026-09-17T22:43:35+00:00,close,SYM,44.61,3.48,0.158,positive,VNT or SYM: Which Is the Better Value Stock Right Now?
+2026-09-17T22:43:35+00:00,close,INTU,313.13,-1.57,0.233,positive,Intuit's QuickBooks Free Push: Can This Lift Customer Growth?
+2026-09-17T22:43:35+00:00,close,CBRS,194.14,1.93,0.042,neutral,Cerebras Systems (CBRS) Stock Looks Fairly Valued After Its 42% Fall
+2026-09-17T22:43:35+00:00,close,SPCX,154.81,2.6,0.091,positive,Elon Musk sends strong message to SpaceX and Tesla investors
+2026-09-17T22:43:35+00:00,close,IONQ,40.34,9.5,0.084,positive,IBM and IonQ Stocks Rally on Fresh Quantum Computing Breakthroughs
+2026-09-17T22:43:35+00:00,close,SERV,4.3,0.23,0.177,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-09-17T22:43:35+00:00,close,UMAC,23.88,8.5,0.145,positive,Unusual Machines Strengthens Supply Chain Intelligence Through Strategic Partnership with Altana
+2026-09-17T22:43:35+00:00,close,SNOW,338.39,2.23,0.202,positive,"Snowflake CFO Says AI Adoption Fuels Growth, Eyes GAAP Profitability in 2027"
+2026-09-17T22:43:35+00:00,close,NOW,138.47,-0.97,0.074,positive,Why human emotion is the biggest threat to your portfolio
+2026-09-17T22:43:35+00:00,close,ARKO,4.34,-0.23,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-09-17T22:43:35+00:00,close,ISRG,383.54,0.33,0.411,positive,ISRG Wins EU Nod to Expand da Vinci SP in Gynecologic Procedures
+2026-09-17T22:43:35+00:00,close,TMUS,166.45,-5.57,0.05,positive,Why your cell phone bill is getting so expensive — and how that helped convince the Fed to raise rates
+2026-09-17T22:43:35+00:00,close,UBER,70.87,-0.14,0.076,positive,Costco expands DoorDash and Uber delivery as membership growth slows
+2026-09-17T22:43:35+00:00,close,PLTR,176.24,1.09,-0.077,negative,Palantir Gains as Europe Builds a Sovereign AI Counterweight
+2026-09-17T22:43:35+00:00,close,AMR,184.73,-2.51,0.161,positive,"Goldman Sachs Eyes $70B Revenue Base as Asset, Wealth Growth Accelerates"
+2026-09-17T22:43:35+00:00,close,LAC,2.89,3.96,0.117,positive,Morgan Stanley raises Target Hospitality PT on accretive contract win
+2026-09-17T22:43:35+00:00,close,MP,49.38,0.8,-0.097,negative,Why The United States’ Belated Critical Minerals Gambit Won’t Stop China
+2026-09-17T22:43:35+00:00,close,UEC,10.12,0.4,0.269,positive,Is Uranium Energy (UEC) a Buy as Wall Street Analysts Look Optimistic?
+2026-09-17T22:43:35+00:00,close,OKLO,39.65,11.31,0.191,positive,SMR Loss to Improve 70.5%: Is This Sub-$10 Stock a Bargain?
+2026-09-17T22:43:35+00:00,close,UUUU,11.98,2.13,0.232,positive,Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know
+2026-09-17T22:43:35+00:00,close,RTX,193.54,-1.67,0.31,positive,Can RTX's Survivable Communications Portfolio Support Defense Growth?
+2026-09-17T22:43:35+00:00,close,AMZN,251.19,2.13,0.244,positive,Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment
+2026-09-17T22:43:35+00:00,close,AMD,545.09,6.36,0.023,neutral,Advanced Micro Devices (AMD) Expands ROCm Support To RISC V Datacenter Servers
+2026-09-17T22:43:35+00:00,close,META,682.31,1.34,-0.073,negative,Meta Platform Gets Blunt Court Warning Over Fraudulent Ads
+2026-09-17T22:43:35+00:00,close,AVGO,347.3,2.29,-0.161,negative,"Broadcom CEO Hock Tan Says He Isn’t Worried – ‘No, Not in the Least’ – About AVGO as AI Extinction Fears Rattle Stocks"
+2026-09-17T22:43:35+00:00,close,MRVL,240.76,4.81,0.416,positive,Marvell Jumps 5.2% as AI Optics Win More U.S. Capacity
+2026-09-17T22:43:35+00:00,close,APLD,26.38,8.16,-0.099,negative,3 Reasons to Avoid APLD and 1 Stock to Buy Instead
