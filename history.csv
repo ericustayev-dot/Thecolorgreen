@@ -3821,3 +3821,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-09-21T23:04:04+00:00,close,AVGO,362.66,1.41,-0.021,neutral,"Nvidia, Meta Have $300 Billion AI Problem"
 2026-09-21T23:04:04+00:00,close,MRVL,257.38,5.38,0.212,positive,Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play?
 2026-09-21T23:04:04+00:00,close,APLD,28.19,0.25,0.071,positive,"Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls"
+2026-09-22T17:44:49+00:00,open,AAPL,341.37,0.7,0.204,positive,The Magnificent 7 are back: Meta’s AI bet leads the charge
+2026-09-22T17:44:49+00:00,open,TSLA,377.75,0.65,-0.023,neutral,"As Trump and Xi meet, TD Cowen says the auto stock sell-off on Chinese car fears is 'overdone'"
+2026-09-22T17:44:49+00:00,open,NVDA,228.96,0.69,0.175,positive,A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market
+2026-09-22T17:44:49+00:00,open,URG,1.22,-1.22,0.0,neutral,From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Live Up to Its Uranium Hype?
+2026-09-22T17:44:49+00:00,open,LEU,156.93,1.35,0.109,positive,Centrus Energy (LEU) Lands New HALEU Deal with Antares
+2026-09-22T17:44:49+00:00,open,CCJ,94.17,1.01,0.016,neutral,Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors
+2026-09-22T17:44:49+00:00,open,LUNR,15.71,-0.06,0.297,positive,Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues
+2026-09-22T17:44:49+00:00,open,OUST,39.42,3.41,0.024,neutral,"Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights"
+2026-09-22T17:44:49+00:00,open,MBLY,7.75,-3.0,0.278,positive,CYD or MBLY: Which Is the Better Value Stock Right Now?
+2026-09-22T17:44:49+00:00,open,SYM,44.66,1.59,0.124,positive,Symbotic Inc. (SYM) is Attracting Investor Attention: Here is What You Should Know
+2026-09-22T17:44:49+00:00,open,INTU,290.36,-4.52,0.25,positive,INTU Doubles Down on AI: Can Intelligence Drive the Next Growth Wave?
+2026-09-22T17:44:49+00:00,open,CBRS,209.28,0.38,0.012,neutral,Cerebras Systems (CBRS) Stock Looks Fairly Valued After Its 42% Fall
+2026-09-22T17:44:49+00:00,open,SPCX,153.64,1.18,0.213,positive,SpaceX (SPCX) Stock Looks Rich On Fresh Merger Speculation
+2026-09-22T17:44:49+00:00,open,IONQ,40.25,-0.64,0.118,positive,IonQ's New Research Shows Up to 14.6% Gains in Engineering Workloads
+2026-09-22T17:44:49+00:00,open,SERV,4.47,0.68,0.177,positive,QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?
+2026-09-22T17:44:49+00:00,open,UMAC,23.77,-1.98,0.0,neutral,Is Unusual Machines (UMAC) Undervalued Following Its Investor Conference Lineup?
+2026-09-22T17:44:49+00:00,open,SNOW,339.71,0.09,0.026,neutral,Nscale appoints Frank Slootman to the Board of Directors and Adam Rosman as Chief Legal Officer
+2026-09-22T17:44:49+00:00,open,NOW,136.21,-1.06,0.059,positive,"Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know"
+2026-09-22T17:44:49+00:00,open,ARKO,4.3,1.3,0.066,positive,Arko focuses on loyalty program as consumer sentiment hits ‘historic lows’
+2026-09-22T17:44:49+00:00,open,ISRG,400.86,-0.2,0.315,positive,ISRG Wins EU Nod to Expand da Vinci SP in Gynecologic Procedures
+2026-09-22T17:44:49+00:00,open,TMUS,163.21,-1.25,0.112,positive,AT&T launches free healthcare perk for customers
+2026-09-22T17:44:49+00:00,open,UBER,70.21,-0.89,0.131,positive,Why Is Uber Technologies (UBER) Back In Focus After Its $15 Billion Deal Progress?
+2026-09-22T17:44:49+00:00,open,PLTR,184.16,0.58,0.284,positive,"Palantir's Alex Karp says AI's biggest names may never IPO — the play is telling Washington 'nationalize us, please'"
+2026-09-22T17:44:49+00:00,open,AMR,187.06,6.59,0.161,positive,"Goldman Sachs Eyes $70B Revenue Base as Asset, Wealth Growth Accelerates"
+2026-09-22T17:44:49+00:00,open,LAC,2.94,-0.66,0.068,positive,Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts
+2026-09-22T17:44:49+00:00,open,MP,49.71,-0.59,-0.061,negative,Why The United States’ Belated Critical Minerals Gambit Won’t Stop China
+2026-09-22T17:44:49+00:00,open,UEC,10.23,1.54,0.219,positive,"Uranium Energy Corp Provides Date for Fiscal 2026 Results, Conference Call, and Webcast"
+2026-09-22T17:44:49+00:00,open,OKLO,40.71,1.32,0.023,neutral,Oklo (OKLO) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Execution Risk
+2026-09-22T17:44:49+00:00,open,UUUU,12.02,-2.28,0.28,positive,Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know
+2026-09-22T17:44:49+00:00,open,RTX,189.95,-2.26,0.071,positive,EMBJ or RTX: Which Is the Better Value Stock Right Now?
+2026-09-22T17:44:49+00:00,open,AMZN,254.38,-1.58,0.207,positive,"As Amazon Stock Prospers, Traders Might Consider This Option Play"
+2026-09-22T17:44:49+00:00,open,AMD,618.23,0.44,0.418,positive,AMD’s path to $1T market cap: A timeline of CEO Lisa Su’s big wins
+2026-09-22T17:44:49+00:00,open,META,741.82,0.08,0.06,positive,"Meta's New Muse AI App Tops Charts, Draws Strong Reviews"
+2026-09-22T17:44:49+00:00,open,AVGO,363.89,0.34,0.056,positive,"Chip Trillionaires Club: Only One Clear Buy Among NVDA, AVGO, MU, AMD"
+2026-09-22T17:44:49+00:00,open,MRVL,262.07,1.82,0.118,positive,"Marvell Technology (MRVL) Shares Skyrocket, What You Need To Know"
+2026-09-22T17:44:49+00:00,open,APLD,28.49,1.05,0.051,positive,"Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls"
