@@ -4361,3 +4361,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-01T19:00:29+00:00,open,AVGO,348.04,-0.9,0.015,neutral,"Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending"
 2026-10-01T19:00:29+00:00,open,MRVL,269.15,1.87,0.0,neutral,"Marvell Technology, Inc. (MRVL) Is a Trending Stock: Facts to Know Before Betting on It"
 2026-10-01T19:00:29+00:00,open,APLD,24.23,-0.59,0.216,positive,Is Applied Digital (APLD) Above Fair Value After $36B Leases?
+2026-10-01T23:46:05+00:00,close,AAPL,330.32,-0.81,0.124,positive,Apple Is Betting Improved Heart and Health Insights Will Boost Watch Sales
+2026-10-01T23:46:05+00:00,close,TSLA,354.11,-0.2,0.179,positive,Tesla Bears Retreat as Musk's AI Strategy Gains Traction
+2026-10-01T23:46:05+00:00,close,NVDA,230.86,1.09,0.263,positive,PaleBlueDot AI Raises $200M Series C Round to Scale Super Intelligence Infrastructure Platform
+2026-10-01T23:46:05+00:00,close,URG,1.06,-1.85,0.0,neutral,From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Live Up to Its Uranium Hype?
+2026-10-01T23:46:05+00:00,close,LEU,139.11,-0.27,0.164,positive,Q2 Earnings Outperformers: Centrus Energy (NYSE:LEU) And The Rest Of The Mixed or Offshore Upstream E&P Stocks
+2026-10-01T23:46:05+00:00,close,CCJ,85.69,-1.13,0.13,positive,Cameco Acknowledges United States and Republic of Korea Announcement of Framework for the Deployment of Nuclear Power
+2026-10-01T23:46:05+00:00,close,LUNR,14.05,-1.33,0.084,positive,Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportunity?
+2026-10-01T23:46:05+00:00,close,OUST,40.87,1.31,-0.082,negative,"Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights"
+2026-10-01T23:46:05+00:00,close,MBLY,7.35,-0.54,0.457,positive,"Barclays downgrades Mobileye, cites lack of progress on advanced wins"
+2026-10-01T23:46:05+00:00,close,SYM,43.17,2.61,0.172,positive,Symbotic Inc. (SYM) is Attracting Investor Attention: Here is What You Should Know
+2026-10-01T23:46:05+00:00,close,INTU,282.78,2.56,0.341,positive,Intuit Expands NFL Partnership to Boost Intuit Intelligence Reach
+2026-10-01T23:46:05+00:00,close,CBRS,169.52,-4.58,-0.021,neutral,Cerebras Systems (CBRS) Stock May Stay Hard To Call After AI Inference Deal
+2026-10-01T23:46:05+00:00,close,SPCX,148.07,-1.85,-0.062,negative,SEC charges private fund adviser with alleged fraud before SpaceX IPO
+2026-10-01T23:46:05+00:00,close,IONQ,43.99,0.3,0.349,positive,BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here’s Why That Split Matters
+2026-10-01T23:46:05+00:00,close,SERV,4.75,2.15,0.021,neutral,"Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock."
+2026-10-01T23:46:05+00:00,close,UMAC,21.78,-11.03,0.038,neutral,Brightline Interactive Secures Strategic Investment Led by Drone Executive Allan Evans
+2026-10-01T23:46:05+00:00,close,SNOW,341.99,0.72,0.026,neutral,Snowflake Is Borrowing $3.75 Billion at 0% While 10-Year Treasuries Yield Over 5%. Here’s the Price Shareholders Pay
+2026-10-01T23:46:05+00:00,close,NOW,137.76,2.8,0.068,positive,ServiceNow (NOW) Stock May Be Fully Priced On AI Security Flaws
+2026-10-01T23:46:05+00:00,close,ARKO,4.11,-0.24,0.102,positive,ARKO Corp. (ARKO) Suffers a Larger Drop Than the General Market: Key Insights
+2026-10-01T23:46:05+00:00,close,ISRG,401.24,-1.33,0.261,positive,Intuitive Surgical (ISRG) Stock Looks Fairly Valued Following Strong Q2 Results
+2026-10-01T23:46:05+00:00,close,TMUS,161.73,-0.83,0.033,neutral,"National Advertising Division Finds Certain T-Mobile T-Fiber Claims Supported, Recommends Modification to Contract Claim"
+2026-10-01T23:46:05+00:00,close,UBER,67.88,-0.92,-0.009,neutral,Grab's Stock Hit a Three-Year Low After Its $4.5 Billion Deal. Then Insiders Bought $30 Million.
+2026-10-01T23:46:05+00:00,close,PLTR,190.04,1.6,0.158,positive,"Palantir CEO Karp drops ""Warfighter"" hot take before super intelligence meeting at White House"
+2026-10-01T23:46:05+00:00,close,AMR,170.29,1.23,0.161,positive,"Goldman Sachs Eyes $70B Revenue Base as Asset, Wealth Growth Accelerates"
+2026-10-01T23:46:05+00:00,close,LAC,2.57,-2.28,0.068,positive,Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts
+2026-10-01T23:46:05+00:00,close,MP,46.09,-2.54,0.099,positive,MP Materials (MP) Looks Re Rated After Texas Magnet Campus Win
+2026-10-01T23:46:05+00:00,close,UEC,9.36,-0.95,0.266,positive,Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed
+2026-10-01T23:46:05+00:00,close,OKLO,36.14,-2.38,0.318,positive,3 Great Nuclear Stocks To Own In September 2026
+2026-10-01T23:46:05+00:00,close,UUUU,10.71,-2.9,0.361,positive,Can Energy Fuels Build a Strong Rare Earth Growth Platform?
+2026-10-01T23:46:05+00:00,close,RTX,185.01,-0.34,0.337,positive,Can Rising AMRAAM Demand Support RTX's Defense Growth Outlook?
+2026-10-01T23:46:05+00:00,close,AMZN,248.23,-0.37,0.217,positive,"BAG Ventures Closes $11.3M Fund With Support From Google, Amazon, And More"
+2026-10-01T23:46:05+00:00,close,AMD,615.73,0.65,0.158,positive,Advanced Micro Devices (AMD) Benefit from Surging CPU Demand in Autonomous AI
+2026-10-01T23:46:05+00:00,close,META,725.93,0.1,0.153,positive,"Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due"
+2026-10-01T23:46:05+00:00,close,AVGO,343.64,-2.15,0.015,neutral,"Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending"
+2026-10-01T23:46:05+00:00,close,MRVL,268.08,1.46,0.064,positive,Nasdaq Futures Climb as Micron’s Upbeat Forecast Boosts Chipmakers
+2026-10-01T23:46:05+00:00,close,APLD,24.16,-0.86,0.216,positive,Is Applied Digital (APLD) Above Fair Value After $36B Leases?
