@@ -4469,3 +4469,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-02T23:36:59+00:00,close,AVGO,355.14,3.35,0.142,positive,3 Great AI Stocks To Own In October 2026
 2026-10-02T23:36:59+00:00,close,MRVL,272.29,1.57,0.099,positive,Is Marvell Technology (MRVL) Fully Valued On Its Dividend Affirmation And AI Run?
 2026-10-02T23:36:59+00:00,close,APLD,25.38,5.05,0.216,positive,Is Applied Digital (APLD) Above Fair Value After $36B Leases?
+2026-10-05T21:13:26+00:00,open,AAPL,332.89,-0.24,0.201,positive,"Global Context-Aware Computing Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on AI and Edge Growth with Amazon, Apple, Alphabet, Microsoft, and Oracle"
+2026-10-05T21:13:26+00:00,open,TSLA,378.73,2.2,0.42,positive,SpaceX Stock Jumps 7.6%. It’s Now a Super Intelligence Company.
+2026-10-05T21:13:26+00:00,open,NVDA,238.9,2.12,0.041,neutral,Nvidia Testing Partner Takes Aim At AI-Fueled Breakout. Robotics Give Shares A Boost.
+2026-10-05T21:13:26+00:00,open,URG,1.06,0.95,0.068,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-05T21:13:26+00:00,open,LEU,141.44,1.56,0.164,positive,Q2 Earnings Outperformers: Centrus Energy (NYSE:LEU) And The Rest Of The Mixed or Offshore Upstream E&P Stocks
+2026-10-05T21:13:26+00:00,open,CCJ,87.47,2.69,0.084,positive,Cameco Acknowledges United States and Republic of Korea Announcement of Framework for the Deployment of Nuclear Power
+2026-10-05T21:13:26+00:00,open,LUNR,14.29,-2.86,0.089,positive,Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportunity?
+2026-10-05T21:13:26+00:00,open,OUST,44.12,-0.61,-0.082,negative,"Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights"
+2026-10-05T21:13:26+00:00,open,MBLY,7.58,2.16,0.327,positive,"Barclays downgrades Mobileye, cites lack of progress on advanced wins"
+2026-10-05T21:13:26+00:00,open,SYM,42.87,-0.95,0.172,positive,Symbotic Inc. (SYM) is Attracting Investor Attention: Here is What You Should Know
+2026-10-05T21:13:26+00:00,open,INTU,284.68,1.28,0.394,positive,Intuit Expands NFL Partnership to Boost Intuit Intelligence Reach
+2026-10-05T21:13:26+00:00,open,CBRS,181.55,9.08,0.028,neutral,OpenAI Fired the People It Needed Most
+2026-10-05T21:13:26+00:00,open,SPCX,171.09,7.63,0.158,positive,SpaceX Stock Jumps 7.6%. It’s Now a Super Intelligence Company.
+2026-10-05T21:13:26+00:00,open,IONQ,42.97,-1.83,0.017,neutral,IonQ (IONQ) Stock Fair Value Edges Lower After Analysts Rework Growth And Risk
+2026-10-05T21:13:26+00:00,open,SERV,4.88,5.74,0.109,positive,"Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock."
+2026-10-05T21:13:26+00:00,open,UMAC,21.83,-2.41,0.038,neutral,Brightline Interactive Secures Strategic Investment Led by Drone Executive Allan Evans
+2026-10-05T21:13:26+00:00,open,SNOW,338.99,-0.6,0.221,positive,Can Snowflake’s Growth Outrun Its Stock Compensation Bill?
+2026-10-05T21:13:26+00:00,open,NOW,136.08,1.27,-0.134,negative,"Fortune 500 chief people officers say AI has killed org charts, and employees who will thrive need to ‘unlearn’"
+2026-10-05T21:13:26+00:00,open,ARKO,4.21,0.96,0.102,positive,ARKO Corp. (ARKO) Suffers a Larger Drop Than the General Market: Key Insights
+2026-10-05T21:13:26+00:00,open,ISRG,406.48,3.71,0.208,positive,Intuitive Surgical (ISRG) Stock Looks Fairly Valued Following Strong Q2 Results
+2026-10-05T21:13:26+00:00,open,TMUS,164.64,0.61,0.053,positive,"National Advertising Division Finds Certain T-Mobile T-Fiber Claims Supported, Recommends Modification to Contract Claim"
+2026-10-05T21:13:26+00:00,open,UBER,69.48,2.01,0.194,positive,Investor Predicts “All” New Cars Will Be Autonomous Within a Decade. Tesla Won’t Be the Only Winner
+2026-10-05T21:13:26+00:00,open,PLTR,189.4,0.34,0.11,positive,Palantir (PLTR) Defense Momentum Strengthens the Bullish Case
+2026-10-05T21:13:26+00:00,open,AMR,173.6,1.2,0.161,positive,"Goldman Sachs Eyes $70B Revenue Base as Asset, Wealth Growth Accelerates"
+2026-10-05T21:13:26+00:00,open,LAC,2.55,0.0,0.068,positive,Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts
+2026-10-05T21:13:26+00:00,open,MP,46.84,-0.28,0.099,positive,MP Materials (MP) Looks Re Rated After Texas Magnet Campus Win
+2026-10-05T21:13:26+00:00,open,UEC,9.35,0.54,0.389,positive,Uranium Energy (UEC) Stock May Be Above Fair Value Following Its 209% Run
+2026-10-05T21:13:26+00:00,open,OKLO,35.97,0.28,0.207,positive,FRVO Stock Slides 16.4% in a Week: Is This an Opportunity?
+2026-10-05T21:13:26+00:00,open,UUUU,10.82,0.84,0.361,positive,Can Energy Fuels Build a Strong Rare Earth Growth Platform?
+2026-10-05T21:13:26+00:00,open,RTX,184.33,-0.19,0.005,neutral,Here is Why RTX (RTX) is a Bad Investment at Today’s Price
+2026-10-05T21:13:26+00:00,open,AMZN,251.4,-0.05,0.134,positive,Amazon Readies Prime Big Deal Days. Can E-Commerce Growth Continue To Surprise?
+2026-10-05T21:13:26+00:00,open,AMD,631.75,-0.34,-0.001,neutral,"Amazon stock is trading at its lowest valuation ever as a public company, despite AI boom"
+2026-10-05T21:13:26+00:00,open,META,741.9,1.9,0.122,positive,The Simple Reason Meta and Google Will Win AI: Only “2% of US Households” Pay for It.
+2026-10-05T21:13:26+00:00,open,AVGO,362.51,2.08,0.3,positive,"Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says"
+2026-10-05T21:13:26+00:00,open,MRVL,271.25,-0.38,0.145,positive,How Much of Marvell’s Adjusted Profit Reaches Shareholders?
+2026-10-05T21:13:26+00:00,open,APLD,24.7,-2.68,-0.088,negative,Applied Digital’s Revenue Is Likely About to Plunge. Don’t Let That Fool You on October 7.
