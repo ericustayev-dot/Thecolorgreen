@@ -4721,3 +4721,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-08T19:24:17+00:00,open,AVGO,359.08,-4.63,-0.084,negative,"Oracle stock falls on more debt to fund AI chip buying, OpenAI revenue disclosure"
 2026-10-08T19:24:17+00:00,open,MRVL,272.93,-4.13,0.216,positive,Marvel Biosciences Reports MB-204 as Highly Effective at Treating Autism Behaviours in Shank3 Mouse Model
 2026-10-08T19:24:17+00:00,open,APLD,23.56,-1.06,-0.197,negative,Applied Digital revenue surges but aren't investors impressed
+2026-10-09T00:11:56+00:00,close,AAPL,nan,nan,0.151,positive,Large-Cap Tech Still Leads as Apple and Amazon Eye Further Gains
+2026-10-09T00:11:56+00:00,close,TSLA,nan,nan,-0.08,negative,Cathie Wood dumps tumbling crypto stock to buy NVIDIA-linked AI stock
+2026-10-09T00:11:56+00:00,close,NVDA,nan,nan,0.208,positive,"Bitdeer AI Expands Southeast Asia Footprint with A901, a New 67MW AI Data Center Campus in Malaysia; Active AI Cloud Pipeline Exceeds $10 Billion"
+2026-10-09T00:11:56+00:00,close,URG,nan,nan,0.068,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-09T00:11:56+00:00,close,LEU,nan,nan,0.272,positive,Centrus Energy (LEU) Surges 8.8%: Is This an Indication of Further Gains?
+2026-10-09T00:11:56+00:00,close,CCJ,nan,nan,0.13,positive,Cameco Acknowledges United States and Republic of Korea Announcement of Framework for the Deployment of Nuclear Power
+2026-10-09T00:11:56+00:00,close,LUNR,nan,nan,0.0,neutral,Intuitive Machines (LUNR) Is Scaling Up Its Satellite Communications Footing. What Lies Ahead?
+2026-10-09T00:11:56+00:00,close,OUST,nan,nan,0.113,positive,"Ouster, Inc. (OUST) Outpaces Stock Market Gains: What You Should Know"
+2026-10-09T00:11:56+00:00,close,MBLY,nan,nan,0.264,positive,"Barclays downgrades Mobileye, cites lack of progress on advanced wins"
+2026-10-09T00:11:56+00:00,close,SYM,nan,nan,0.24,positive,Symbotic Inc. (SYM) is Attracting Investor Attention: Here is What You Should Know
+2026-10-09T00:11:56+00:00,close,INTU,nan,nan,0.392,positive,"Intuit (INTU) Expands Its AI Accountant Suite, Is The 47% Undervaluation Case Convincing?"
+2026-10-09T00:11:56+00:00,close,CBRS,nan,nan,0.208,positive,"Cerebras Systems (CBRS) Lands Gimlet Labs Deal, Is The Stock Still Below Fair Value?"
+2026-10-09T00:11:56+00:00,close,SPCX,nan,nan,0.222,positive,"Elon Musk's SpaceX just made a huge play to challenge the phone industry and stocks like AT&T, T-Mobile and Verizon are getting crushed"
+2026-10-09T00:11:56+00:00,close,IONQ,nan,nan,0.334,positive,Does IonQ (IONQ) Look Fully Priced After The DARPA Win?
+2026-10-09T00:11:56+00:00,close,SERV,nan,nan,0.109,positive,"Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock."
+2026-10-09T00:11:56+00:00,close,UMAC,nan,nan,0.038,neutral,Brightline Interactive Secures Strategic Investment Led by Drone Executive Allan Evans
+2026-10-09T00:11:56+00:00,close,SNOW,nan,nan,0.059,positive,"Palantir Technologies, Doximity, Snowflake, and Teradata Shares Skyrocket, What You Need To Know"
+2026-10-09T00:11:56+00:00,close,NOW,nan,nan,0.0,neutral,Work4Flow Launches 90-Day Program to Accelerate Salesforce-to-ServiceNow CRM Migration
+2026-10-09T00:11:56+00:00,close,ARKO,nan,nan,0.076,positive,ARKO Corp. (ARKO) Suffers a Larger Drop Than the General Market: Key Insights
+2026-10-09T00:11:56+00:00,close,ISRG,nan,nan,0.064,positive,Is Intuitive Surgical (ISRG) a Buy as Wall Street Analysts Look Optimistic?
+2026-10-09T00:11:56+00:00,close,TMUS,nan,nan,0.302,positive,Mint Mobile Turns 10 and Celebrates with Its Best Deal Ever: Any Plan for $10/Month
+2026-10-09T00:11:56+00:00,close,UBER,nan,nan,0.031,neutral,Uber Technologies (UBER): Strong Operational Growth Offset by Soft Guidance
+2026-10-09T00:11:56+00:00,close,PLTR,nan,nan,0.017,neutral,Palantir stock nears all-time high after Goldman Sachs upgrade highlights next phase of growth
+2026-10-09T00:11:56+00:00,close,AMR,nan,nan,0.161,positive,"Goldman Sachs Eyes $70B Revenue Base as Asset, Wealth Growth Accelerates"
+2026-10-09T00:11:56+00:00,close,LAC,nan,nan,0.068,positive,Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts
+2026-10-09T00:11:56+00:00,close,MP,nan,nan,0.117,positive,Can MP Materials Deliver Another Year of Production Growth?
+2026-10-09T00:11:56+00:00,close,UEC,nan,nan,0.434,positive,Uranium Energy (UEC) Stock May Be Above Fair Value Following Its 209% Run
+2026-10-09T00:11:56+00:00,close,OKLO,nan,nan,0.242,positive,Google's Power Deal Fuels Fresh Interest in Nuclear Stocks
+2026-10-09T00:11:56+00:00,close,UUUU,nan,nan,0.538,positive,Can Energy Fuels' Liquidity Support Its Ambitious Growth Plans?
+2026-10-09T00:11:56+00:00,close,RTX,nan,nan,0.387,positive,Can RAM Missile Demand Support RTX's Defense Growth Outlook?
+2026-10-09T00:11:56+00:00,close,AMZN,nan,nan,0.076,positive,Did Amazon owe you a refund? You may qualify for part of a $309.5 million settlement.
+2026-10-09T00:11:56+00:00,close,AMD,nan,nan,0.124,positive,Meta Muse gives AMD and Intel investors a reason to cheer
+2026-10-09T00:11:56+00:00,close,META,nan,nan,0.019,neutral,AI compute needs are 'going to be insane': Box CEO Aaron Levie
+2026-10-09T00:11:56+00:00,close,AVGO,nan,nan,-0.031,neutral,AI Debt Spree Hammers Tech Debt as Traders Rush to Reprice Risk
+2026-10-09T00:11:56+00:00,close,MRVL,nan,nan,0.07,positive,The AI Trade Is Alive and Well as Bond Yields Keep Rising
+2026-10-09T00:11:56+00:00,close,APLD,nan,nan,0.019,neutral,APLD Q3 Deep Dive: AI Data Center Growth and Strategic Campus Expansion Highlight Quarter
