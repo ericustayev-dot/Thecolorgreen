@@ -4937,3 +4937,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-13T19:56:31+00:00,open,AVGO,357.32,0.73,-0.172,negative,China’s CXMT and Broadcom’s CEO Rattle Chip Stocks: Which Fear Matters More for Micron?
 2026-10-13T19:56:31+00:00,open,MRVL,268.02,0.81,0.178,positive,Marvell (MRVL) Raises Its 2028 Revenue Target to $20 Billion. Can Growth Justify the Premium?
 2026-10-13T19:56:31+00:00,open,APLD,22.39,-3.72,-0.021,neutral,Applied Digital Wants to Add 600 Megawatts in a Year. Can It Pay for It?
+2026-10-13T23:39:00+00:00,close,AAPL,341.27,0.09,0.333,positive,Apple Takes on Amazon With New Smart Home Gadgets. It Still Isn’t Worth $5 Trillion.
+2026-10-13T23:39:00+00:00,close,TSLA,375.23,-0.74,0.04,neutral,Tesla target lowered by analysts worried about runaway $25 billion spending
+2026-10-13T23:39:00+00:00,close,NVDA,228.52,0.97,-0.105,negative,China Spooked Memory Stocks. Investors Picked Their Losers.
+2026-10-13T23:39:00+00:00,close,URG,0.89,-3.23,0.068,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-13T23:39:00+00:00,close,LEU,134.28,-0.76,0.436,positive,"Peabody Energy, Solaris Energy Infrastructure, ProFrac, Centrus Energy, and SLB Shares Are Falling, What You Need To Know"
+2026-10-13T23:39:00+00:00,close,CCJ,86.15,0.03,0.291,positive,Cameco Corporation (CCJ) is Positioned for Long-Term Growth in Nuclear Energy Expansion
+2026-10-13T23:39:00+00:00,close,LUNR,12.18,-5.29,0.125,positive,Intuitive Machines And 2 More Strong Balance Sheet Defense Stocks
+2026-10-13T23:39:00+00:00,close,OUST,35.33,-5.21,0.068,positive,"Ouster, Inc. (OUST) Outpaces Stock Market Gains: What You Should Know"
+2026-10-13T23:39:00+00:00,close,MBLY,7.02,2.63,0.264,positive,"Barclays downgrades Mobileye, cites lack of progress on advanced wins"
+2026-10-13T23:39:00+00:00,close,SYM,40.89,0.27,0.068,positive,Symbotic Inc. (SYM) Stock Sinks As Market Gains: Here's Why
+2026-10-13T23:39:00+00:00,close,INTU,301.45,-1.48,0.328,positive,"Intuit (INTU) Expands Its AI Accountant Suite, Is The 47% Undervaluation Case Convincing?"
+2026-10-13T23:39:00+00:00,close,CBRS,149.09,1.68,0.214,positive,Jim Cramer Says Cerebras (CBRS) Is a Good Company and Too Expensive a Stock
+2026-10-13T23:39:00+00:00,close,SPCX,156.54,-4.21,0.233,positive,Elon Musk makes an audacious claim on the growth of SpaceX
+2026-10-13T23:39:00+00:00,close,IONQ,34.73,-4.25,0.184,positive,IonQ agrees to acquire Zero Trust firm Elisity for up to $1.3bn
+2026-10-13T23:39:00+00:00,close,SERV,3.79,-3.32,0.109,positive,"Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock."
+2026-10-13T23:39:00+00:00,close,UMAC,19.44,-1.02,-0.089,negative,Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside
+2026-10-13T23:39:00+00:00,close,SNOW,357.76,-0.72,0.102,positive,Snowflake (SNOW) Has a Moat. Is It Strong Enough to Justify its Lofty Valuation?
+2026-10-13T23:39:00+00:00,close,NOW,138.61,-1.22,0.173,positive,"ServiceNow Positioned to Deliver Favorable Business Outcome in Q3, Oppenheimer Says"
+2026-10-13T23:39:00+00:00,close,ARKO,4.1,-1.44,0.032,neutral,ARKO Corp. (ARKO) Suffers a Larger Drop Than the General Market: Key Insights
+2026-10-13T23:39:00+00:00,close,ISRG,422.06,-1.3,0.228,positive,ISRG Is Expanding Beyond Surgery: Here's Why the GI Opportunity Matters
+2026-10-13T23:39:00+00:00,close,TMUS,153.73,1.22,0.099,positive,Can Qualcomm's Advanced 6G Research Boost Its Future Growth Prospects?
+2026-10-13T23:39:00+00:00,close,UBER,71.32,-0.25,0.108,positive,Uber (UBER) vs. DoorDash (DASH): Is Faster Growth Worth Paying More For?
+2026-10-13T23:39:00+00:00,close,PLTR,208.67,-0.16,-0.102,negative,Palantir’s answer to a deadly targeting failure was more AI
+2026-10-13T23:39:00+00:00,close,AMR,183.93,-0.91,0.202,positive,Alpha Metallurgical Resources (AMR) Stock Looks Above Fair Value As Its 209% 5 Year Run Continues
+2026-10-13T23:39:00+00:00,close,LAC,2.2,-2.22,0.068,positive,Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts
+2026-10-13T23:39:00+00:00,close,MP,42.43,-2.14,0.251,positive,China Still Dominates Rare Earths—These 3 U.S. Companies Could Benefit
+2026-10-13T23:39:00+00:00,close,UEC,8.24,-6.68,0.513,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-10-13T23:39:00+00:00,close,OKLO,31.78,-1.33,0.319,positive,OKLO Builds on Groves Progress to Expand Isotope Business
+2026-10-13T23:39:00+00:00,close,UUUU,9.27,-4.04,0.456,positive,Can Energy Fuels' Liquidity Support Its Ambitious Growth Plans?
+2026-10-13T23:39:00+00:00,close,RTX,183.02,-1.95,0.225,positive,Can Rising Counter-Drone Demand Support RTX's Defense Growth Outlook?
+2026-10-13T23:39:00+00:00,close,AMZN,258.58,-0.37,-0.1,negative,Are consumer budgets in for a fright this Halloween season?
+2026-10-13T23:39:00+00:00,close,AMD,605.53,1.9,0.031,neutral,Fermi Soars 16% as AMD Backs Its 222 MW Texas AI Lease: “An Important Step”
+2026-10-13T23:39:00+00:00,close,META,762.5,2.63,0.119,positive,Why the Market Dipped But Meta Platforms (META) Gained Today
+2026-10-13T23:39:00+00:00,close,AVGO,357.31,0.73,-0.217,negative,China’s CXMT and Broadcom’s CEO Rattle Chip Stocks: Which Fear Matters More for Micron?
+2026-10-13T23:39:00+00:00,close,MRVL,268.73,1.08,0.178,positive,Marvell (MRVL) Raises Its 2028 Revenue Target to $20 Billion. Can Growth Justify the Premium?
+2026-10-13T23:39:00+00:00,close,APLD,22.44,-3.48,-0.021,neutral,Applied Digital Wants to Add 600 Megawatts in a Year. Can It Pay for It?
