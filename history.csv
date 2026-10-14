@@ -5009,3 +5009,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-14T18:09:21+00:00,open,AVGO,345.24,-3.38,-0.147,negative,Elon Musk Fires Back at Broadcom CEO Hock Tan's AI Investment Warning: 'No Crying in the Casino'
 2026-10-14T18:09:21+00:00,open,MRVL,250.99,-6.6,0.102,positive,Astera Labs (ALAB) vs. CRDO and MRVL: Can Surging AI Demand Outpace Valuation Risks?
 2026-10-14T18:09:21+00:00,open,APLD,20.08,-10.49,-0.021,neutral,Applied Digital Wants to Add 600 Megawatts in a Year. Can It Pay for It?
+2026-10-14T23:03:07+00:00,close,AAPL,342.96,0.5,-0.169,negative,"Apple doubled the price of its TV streaming box from $150 to $300, and even the company's hardcore fans are furious"
+2026-10-14T23:03:07+00:00,close,TSLA,367.16,-2.15,0.041,neutral,"Amazon Is the Most Crowded Stock for Hedge Funds. Tesla, Not So Much."
+2026-10-14T23:03:07+00:00,close,NVDA,221.3,-3.16,0.14,positive,Dell Just Found Out What Gravity Feels Like
+2026-10-14T23:03:07+00:00,close,URG,0.83,-6.49,0.068,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-14T23:03:07+00:00,close,LEU,119.95,-10.67,0.235,positive,Centrus Energy (LEU) Surges 8.8%: Is This an Indication of Further Gains?
+2026-10-14T23:03:07+00:00,close,CCJ,81.47,-5.43,0.122,positive,Cameco And 2 Other Canadian Growth Stocks To Watch
+2026-10-14T23:03:07+00:00,close,LUNR,11.02,-9.52,-0.179,negative,Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure
+2026-10-14T23:03:07+00:00,close,OUST,31.87,-9.79,0.068,positive,"Ouster, Inc. (OUST) Outpaces Stock Market Gains: What You Should Know"
+2026-10-14T23:03:07+00:00,close,MBLY,7.15,1.85,0.264,positive,"Barclays downgrades Mobileye, cites lack of progress on advanced wins"
+2026-10-14T23:03:07+00:00,close,SYM,37.9,-7.31,0.068,positive,Symbotic Inc. (SYM) Stock Sinks As Market Gains: Here's Why
+2026-10-14T23:03:07+00:00,close,INTU,310.44,2.98,0.286,positive,Intuit’s (INTU) Strong FY26 Beat Offset by Cautious Guidance
+2026-10-14T23:03:07+00:00,close,CBRS,141.48,-5.1,0.214,positive,Jim Cramer Says Cerebras (CBRS) Is a Good Company and Too Expensive a Stock
+2026-10-14T23:03:07+00:00,close,SPCX,152.16,-2.8,-0.066,negative,Is this the best time for investors to buy in on the AI trade?
+2026-10-14T23:03:07+00:00,close,IONQ,31.42,-9.53,-0.054,negative,IonQ Has Lost 56% Since Last October: Rosenblatt Sees 176% Upside
+2026-10-14T23:03:07+00:00,close,SERV,3.44,-9.11,0.109,positive,"Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock."
+2026-10-14T23:03:07+00:00,close,UMAC,17.73,-8.8,-0.089,negative,Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside
+2026-10-14T23:03:07+00:00,close,SNOW,335.08,-6.34,0.102,positive,Snowflake (SNOW) Has a Moat. Is It Strong Enough to Justify its Lofty Valuation?
+2026-10-14T23:03:07+00:00,close,NOW,139.98,0.99,0.01,neutral,ServiceNow denies interest in acquiring Decagon
+2026-10-14T23:03:07+00:00,close,ARKO,4.04,-1.46,0.032,neutral,ARKO Corp. (ARKO) Suffers a Larger Drop Than the General Market: Key Insights
+2026-10-14T23:03:07+00:00,close,ISRG,420.24,-0.43,0.164,positive,ISRG Is Expanding Beyond Surgery: Here's Why the GI Opportunity Matters
+2026-10-14T23:03:07+00:00,close,TMUS,157.79,2.64,0.026,neutral,T Mobile (TMUS) Stock May Look Reasonable On Spectrum Threat News
+2026-10-14T23:03:07+00:00,close,UBER,69.29,-2.85,0.236,positive,Is this the best time for investors to buy in on the AI trade?
+2026-10-14T23:03:07+00:00,close,PLTR,200.97,-3.69,0.252,positive,"Thrive Advances NextGen 3.0 Platform with Vero AI Fabric to Power Intelligent, Integrated Service Delivery"
+2026-10-14T23:03:07+00:00,close,AMR,174.51,-5.12,0.202,positive,Alpha Metallurgical Resources (AMR) Stock Looks Above Fair Value As Its 209% 5 Year Run Continues
+2026-10-14T23:03:07+00:00,close,LAC,2.07,-5.91,0.068,positive,Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts
+2026-10-14T23:03:07+00:00,close,MP,39.95,-5.84,0.251,positive,China Still Dominates Rare Earths—These 3 U.S. Companies Could Benefit
+2026-10-14T23:03:07+00:00,close,UEC,7.7,-6.55,0.513,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-10-14T23:03:07+00:00,close,OKLO,29.04,-8.62,0.319,positive,OKLO Builds on Groves Progress to Expand Isotope Business
+2026-10-14T23:03:07+00:00,close,UUUU,8.34,-10.03,0.456,positive,Can Energy Fuels' Liquidity Support Its Ambitious Growth Plans?
+2026-10-14T23:03:07+00:00,close,RTX,186.47,1.89,0.286,positive,Can Rising Counter-Drone Demand Support RTX's Defense Growth Outlook?
+2026-10-14T23:03:07+00:00,close,AMZN,254.08,-1.74,0.102,positive,Amazon (AMZN) Has a $25B Chip Business. Is the Cash Burn Worth It?
+2026-10-14T23:03:07+00:00,close,AMD,570.82,-5.73,0.045,neutral,Advanced Micro Devices Just Unveiled Its Helion Blueprint for Agentic AI. What That Means for AMD Stock.
+2026-10-14T23:03:07+00:00,close,META,737.54,-3.27,-0.05,neutral,Gene Munster Warns Apple Can Sell Millions of iPhones and Still Lose the AI Game as Users Could Lock Into Muse and Grok
+2026-10-14T23:03:07+00:00,close,AVGO,346.25,-3.1,-0.054,negative,Elon Musk Fires Back at Broadcom CEO Hock Tan's AI Investment Warning: 'No Crying in the Casino'
+2026-10-14T23:03:07+00:00,close,MRVL,245.28,-8.73,0.06,positive,Astera Labs (ALAB) vs. CRDO and MRVL: Can Surging AI Demand Outpace Valuation Risks?
+2026-10-14T23:03:07+00:00,close,APLD,20.33,-9.43,0.114,positive,"Super Micro, Applied Digital, Benchmark, Planet Labs, and Ingram Micro Shares Are Falling, What You Need To Know"
