@@ -5297,3 +5297,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-20T18:05:42+00:00,open,AVGO,334.97,0.11,0.206,positive,Broadcom Announces Continued Infrastructure Agreement with FedEx to Support Global Operations
 2026-10-20T18:05:42+00:00,open,MRVL,242.67,2.35,-0.075,negative,Marvell Stock Is Still 17% Below Its Investor Day Close. Here’s What the AI Funding Scare Means for 2031
 2026-10-20T18:05:42+00:00,open,APLD,19.44,1.01,0.023,neutral,Applied Digital Stock Gains Attention After CoreWeave Upgrade Lifts AI Infrastructure Sentiment
+2026-10-20T23:00:55+00:00,close,AAPL,339.5,-1.0,-0.033,neutral,Apple faces gross margin pressure as UBS flags slowing iPhone growth ahead of earnings
+2026-10-20T23:00:55+00:00,close,TSLA,373.71,1.54,0.0,neutral,SpaceX-Tesla merger? Musk speaks on 'tap-dancing through a minefield'
+2026-10-20T23:00:55+00:00,close,NVDA,216.47,-0.29,0.194,positive,3 Stocks That Can Benefit From SpaceX’s Surprise Q3 Earnings
+2026-10-20T23:00:55+00:00,close,URG,0.82,-1.8,0.068,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-20T23:00:55+00:00,close,LEU,109.88,-0.22,0.272,positive,Centrus Energy (LEU) Surges 8.8%: Is This an Indication of Further Gains?
+2026-10-20T23:00:55+00:00,close,CCJ,80.51,-0.24,0.091,positive,Cameco Stock Is Nearly 40% Below Its Peak. Here’s What One AP1000 Reactor Pair Could Be Worth to Westinghouse
+2026-10-20T23:00:55+00:00,close,LUNR,10.54,-1.86,-0.116,negative,Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure
+2026-10-20T23:00:55+00:00,close,OUST,29.65,2.74,0.068,positive,"Ouster, Inc. (OUST) Outpaces Stock Market Gains: What You Should Know"
+2026-10-20T23:00:55+00:00,close,MBLY,7.3,1.53,0.256,positive,ADNT or MBLY: Which Is the Better Value Stock Right Now?
+2026-10-20T23:00:55+00:00,close,SYM,39.69,1.74,0.068,positive,Symbotic Inc. (SYM) Stock Sinks As Market Gains: Here's Why
+2026-10-20T23:00:55+00:00,close,INTU,335.29,2.97,0.424,positive,"Intuit Launches Credit Karma Tax: Free Federal Filing With Faster Refunds, Expanding Its Daily AI-Powered Financial Assistance"
+2026-10-20T23:00:55+00:00,close,CBRS,118.24,-2.01,0.076,positive,Can Cerebras (CBRS) Turn Its $25.4B Backlog Into High-Margin Growth?
+2026-10-20T23:00:55+00:00,close,SPCX,147.79,-0.11,0.211,positive,3 Stocks That Can Benefit From SpaceX’s Surprise Q3 Earnings
+2026-10-20T23:00:55+00:00,close,IONQ,31.26,1.56,-0.041,neutral,Martin Shkreli Warns on Quantum Stocks: “They’ll Never Beat an NVIDIA Machine”
+2026-10-20T23:00:55+00:00,close,SERV,3.05,-0.97,-0.121,negative,Battle over Chicago's delivery robots reaches the courts after outcry over alleged face scans
+2026-10-20T23:00:55+00:00,close,UMAC,16.38,-0.12,-0.035,neutral,Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside
+2026-10-20T23:00:55+00:00,close,SNOW,319.61,1.35,0.13,positive,Snowflake (SNOW) Adds Jeff Naughton As It Showcases AI Platform Progress
+2026-10-20T23:00:55+00:00,close,NOW,149.54,2.88,0.36,positive,ServiceNow gets Street-high $266 price target as AI adoption boosts growth outlook
+2026-10-20T23:00:55+00:00,close,ARKO,4.03,0.0,0.004,neutral,ARKO Corp. (ARKO) Suffers a Larger Drop Than the General Market: Key Insights
+2026-10-20T23:00:55+00:00,close,ISRG,438.0,1.11,0.04,neutral,"Intuitive Surgical, Inc. (ISRG) Q3 Earnings and Revenues Top Estimates"
+2026-10-20T23:00:55+00:00,close,TMUS,157.75,1.06,0.106,positive,Alaska Airlines and Hawaiian Airlines expand global network with new nonstop service connecting Seattle with Osaka and Papeete
+2026-10-20T23:00:55+00:00,close,UBER,68.94,-1.46,0.055,positive,Investors HESITATED to invest in Uber.
+2026-10-20T23:00:55+00:00,close,PLTR,192.6,-0.8,0.239,positive,"Palantir Wins Knox Federal Partnership, Gains 4%"
+2026-10-20T23:00:55+00:00,close,AMR,158.81,-0.8,0.202,positive,Alpha Metallurgical Resources (AMR) Stock Looks Above Fair Value As Its 209% 5 Year Run Continues
+2026-10-20T23:00:55+00:00,close,LAC,2.14,0.0,0.152,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-10-20T23:00:55+00:00,close,MP,39.05,0.26,0.251,positive,China Still Dominates Rare Earths—These 3 U.S. Companies Could Benefit
+2026-10-20T23:00:55+00:00,close,UEC,7.83,-0.76,0.513,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-10-20T23:00:55+00:00,close,OKLO,27.48,0.88,-0.112,negative,OKLO Advances Regulatory Milestones to Support Nuclear Growth
+2026-10-20T23:00:55+00:00,close,UUUU,8.21,0.61,0.257,positive,Energy Fuels (UUUU) Sees a More Significant Dip Than Broader Market: Some Facts to Know
+2026-10-20T23:00:55+00:00,close,RTX,193.34,0.64,0.123,positive,RTX and Northrop Grumman raise 2026 profit outlooks on military rearmament demand
+2026-10-20T23:00:55+00:00,close,AMZN,262.63,0.07,0.071,positive,Amazon stockpiles Nvidia AI hardware ahead of power availability -Business Insider
+2026-10-20T23:00:55+00:00,close,AMD,534.74,-0.62,0.095,positive,"Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck"
+2026-10-20T23:00:55+00:00,close,META,694.25,-1.59,-0.056,negative,Ten Million Downloads in Six Weeks: The Fight for the AI Agent in Your Pocket Has Started
+2026-10-20T23:00:55+00:00,close,AVGO,334.37,-0.07,0.206,positive,Broadcom Announces Continued Infrastructure Agreement with FedEx to Support Global Operations
+2026-10-20T23:00:55+00:00,close,MRVL,240.42,1.4,-0.097,negative,Marvell Stock Is Still 17% Below Its Investor Day Close. Here’s What the AI Funding Scare Means for 2031
+2026-10-20T23:00:55+00:00,close,APLD,19.33,0.42,0.023,neutral,Applied Digital Stock Gains Attention After CoreWeave Upgrade Lifts AI Infrastructure Sentiment
