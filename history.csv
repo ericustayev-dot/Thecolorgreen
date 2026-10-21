@@ -5369,3 +5369,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-21T18:14:22+00:00,open,AVGO,338.58,1.26,-0.086,negative,Broadcom Launches Arcot Scam Defense to Block Social Engineering Fraud
 2026-10-21T18:14:22+00:00,open,MRVL,245.08,1.94,0.173,positive,Global chip stocks rally as Super Micro forecast revives AI demand optimism
 2026-10-21T18:14:22+00:00,open,APLD,21.14,9.36,0.054,positive,Applied Digital shares climb on Texas AI data center pact and bullish analyst call
+2026-10-21T23:04:04+00:00,close,AAPL,343.99,1.32,0.021,neutral,Apple’s iPhone Supply Chain Risk Spells Trouble for This Semiconductor Stock
+2026-10-21T23:04:04+00:00,close,TSLA,386.47,3.41,0.221,positive,"Dow Jones Futures Fall; Meta, Tesla Are Earnings Movers After SpaceX, Super Micro Lead Bullish Nasdaq Move"
+2026-10-21T23:04:04+00:00,close,NVDA,221.97,2.54,0.039,neutral,Crypto Exchanges Want Your Next Stock Trade in 2027
+2026-10-21T23:04:04+00:00,close,URG,0.88,7.4,0.068,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-21T23:04:04+00:00,close,LEU,108.91,-0.88,0.128,positive,Centrus Energy Is Down 58% Even Though Sales Rose
+2026-10-21T23:04:04+00:00,close,CCJ,82.02,1.88,0.045,neutral,Cameco Stock Is Nearly 40% Below Its Peak. Here’s What One AP1000 Reactor Pair Could Be Worth to Westinghouse
+2026-10-21T23:04:04+00:00,close,LUNR,10.91,3.51,-0.179,negative,Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure
+2026-10-21T23:04:04+00:00,close,OUST,30.31,2.23,-0.05,negative,"Ouster Sensors Play Key Role in Forterra's Lancer Completing 1,426 Missions and 88 Casualty Evacuation Operations in Ukraine"
+2026-10-21T23:04:04+00:00,close,MBLY,7.02,-3.84,0.265,positive,ADNT or MBLY: Which Is the Better Value Stock Right Now?
+2026-10-21T23:04:04+00:00,close,SYM,41.73,5.14,0.068,positive,Symbotic Inc. (SYM) Stock Sinks As Market Gains: Here's Why
+2026-10-21T23:04:04+00:00,close,INTU,335.61,0.1,0.247,positive,INTU vs. MSFT: Which Stock Is the Better Value Option?
+2026-10-21T23:04:04+00:00,close,CBRS,117.98,-0.22,0.076,positive,Can Cerebras (CBRS) Turn Its $25.4B Backlog Into High-Margin Growth?
+2026-10-21T23:04:04+00:00,close,SPCX,159.31,7.79,0.442,positive,"Update: US Equity Indexes Rise as Blockbuster SpaceX Results, Super Micro Computer's Fiscal Q1 Update Boosts AI Trade"
+2026-10-21T23:04:04+00:00,close,IONQ,32.28,3.26,0.24,positive,BofA Securities names top quantum computing stocks to watch
+2026-10-21T23:04:04+00:00,close,SERV,3.06,0.33,-0.121,negative,Battle over Chicago's delivery robots reaches the courts after outcry over alleged face scans
+2026-10-21T23:04:04+00:00,close,UMAC,16.98,3.66,-0.035,neutral,Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside
+2026-10-21T23:04:04+00:00,close,SNOW,322.73,0.98,0.061,positive,Snowflake Inc. (SNOW) Surpasses Market Returns: Some Facts Worth Knowing
+2026-10-21T23:04:04+00:00,close,NOW,153.12,2.39,0.268,positive,ServiceNow Rallies 43% in Three Months as AI Contract Value Tops $1 Billion
+2026-10-21T23:04:04+00:00,close,ARKO,3.99,-0.99,0.004,neutral,ARKO Corp. (ARKO) Suffers a Larger Drop Than the General Market: Key Insights
+2026-10-21T23:04:04+00:00,close,ISRG,428.12,-2.26,0.269,positive,ISRG Q3 deep dive: margin pressure overshadows strong adoption and international growth
+2026-10-21T23:04:04+00:00,close,TMUS,153.75,-2.54,0.309,positive,T-Mobile and First Responders Children’s Foundation Celebrate National First Responders Day Nationwide
+2026-10-21T23:04:04+00:00,close,UBER,67.62,-1.91,-0.025,neutral,Investors HESITATED to invest in Uber.
+2026-10-21T23:04:04+00:00,close,PLTR,201.72,4.74,-0.026,neutral,4 Stocks With Demand So Sticky That the AI Sell-Off Barely Touched Them at All
+2026-10-21T23:04:04+00:00,close,AMR,159.87,0.67,0.202,positive,Alpha Metallurgical Resources (AMR) Stock Looks Above Fair Value As Its 209% 5 Year Run Continues
+2026-10-21T23:04:04+00:00,close,LAC,2.14,0.0,0.152,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-10-21T23:04:04+00:00,close,MP,39.5,1.15,0.251,positive,China Still Dominates Rare Earths—These 3 U.S. Companies Could Benefit
+2026-10-21T23:04:04+00:00,close,UEC,7.9,0.89,0.513,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-10-21T23:04:04+00:00,close,OKLO,27.73,0.91,-0.112,negative,OKLO Advances Regulatory Milestones to Support Nuclear Growth
+2026-10-21T23:04:04+00:00,close,UUUU,8.2,-0.12,0.286,positive,Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know
+2026-10-21T23:04:04+00:00,close,RTX,191.6,-0.9,0.293,positive,"RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says"
+2026-10-21T23:04:04+00:00,close,AMZN,262.37,-0.1,0.227,positive,"Amazon logistics automation offers long-term margin gains, Jefferies says"
+2026-10-21T23:04:04+00:00,close,AMD,552.72,3.36,0.149,positive,Can Netlist's New LIGHTNING ULL DDR5 Boost Its AI Market Reach?
+2026-10-21T23:04:04+00:00,close,META,697.52,0.47,0.256,positive,Meta beats expectations but legal penalties hit profit amid AI race
+2026-10-21T23:04:04+00:00,close,AVGO,337.8,1.03,-0.064,negative,Broadcom Launches Arcot Scam Defense to Block Social Engineering Fraud
+2026-10-21T23:04:04+00:00,close,MRVL,244.76,1.81,0.222,positive,Global chip stocks rally as Super Micro forecast revives AI demand optimism
+2026-10-21T23:04:04+00:00,close,APLD,20.98,8.54,0.095,positive,Applied Digital Has Lost 46% in a Year: Roth MKM Sees 81% Upside
