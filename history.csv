@@ -5657,3 +5657,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-27T18:54:47+00:00,open,AVGO,342.36,4.01,0.218,positive,Why Broadcom Is the Big Anthropic IPO Winner. The Stock Jumps on Buy Upgrade.
 2026-10-27T18:54:47+00:00,open,MRVL,242.4,3.69,0.094,positive,Marvell (MRVL) Stock Still Carries A Rich Price Despite Its 392% Run
 2026-10-27T18:54:47+00:00,open,APLD,19.59,9.87,-0.033,neutral,"Rosenblatt keeps ‘Buy’ on Soluna after Applied Digital joint venture, but lowers price target"
+2026-10-27T23:37:22+00:00,close,AAPL,347.1,0.93,-0.036,neutral,"'We're Trading Them Like Baseball Cards': Mark Cuban Warns ‘Everything’s a Meme Stock’ as AAPL, GOOGL and MU Fuel Market Bubble Fears"
+2026-10-27T23:37:22+00:00,close,TSLA,407.46,4.04,-0.01,neutral,Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'
+2026-10-27T23:37:22+00:00,close,NVDA,217.94,0.9,0.239,positive,"Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse"
+2026-10-27T23:37:22+00:00,close,URG,0.9,9.44,0.068,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-27T23:37:22+00:00,close,LEU,109.42,11.15,0.184,positive,"Centrus Energy (LEU) Slides On HALEU Hopes, Is It Still 48% Below Fair Value?"
+2026-10-27T23:37:22+00:00,close,CCJ,82.41,4.22,0.329,positive,3 Canadian Growth Stocks With Earnings Growth Up To 65%
+2026-10-27T23:37:22+00:00,close,LUNR,11.56,10.31,-0.179,negative,Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure
+2026-10-27T23:37:22+00:00,close,OUST,32.79,10.37,-0.069,negative,"Ouster Sensors Play Key Role in Forterra's Lancer Completing 1,426 Missions and 88 Casualty Evacuation Operations in Ukraine"
+2026-10-27T23:37:22+00:00,close,MBLY,6.87,3.15,-0.017,neutral,Mobileye (MBLY) Stock Gets Fair Value Trim As Analysts Split On Growth Risks
+2026-10-27T23:37:22+00:00,close,SYM,38.98,2.85,-0.077,negative,Symbotic Inc. (SYM) Stock Drops Despite Market Gains: Important Facts to Note
+2026-10-27T23:37:22+00:00,close,INTU,328.45,-3.37,0.378,positive,Intuit Expands Intelligence Platform to Power the Next Era of Accounting Firm and Business Growth
+2026-10-27T23:37:22+00:00,close,CBRS,119.31,10.1,0.105,positive,Webull And 2 Other Top Insider Growth Stocks
+2026-10-27T23:37:22+00:00,close,SPCX,148.58,1.14,0.07,positive,Has Space Exploration Technologies (SPCX) Become Fully Valued Following Its $3.42b Shelf Filing?
+2026-10-27T23:37:22+00:00,close,IONQ,32.95,7.12,0.296,positive,Wall Street Analysts Think IonQ (IONQ) Is a Good Investment: Is It?
+2026-10-27T23:37:22+00:00,close,SERV,2.94,11.36,-0.197,negative,Battle over Chicago's delivery robots reaches the courts after outcry over alleged face scans
+2026-10-27T23:37:22+00:00,close,UMAC,17.87,7.52,-0.009,neutral,Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside
+2026-10-27T23:37:22+00:00,close,SNOW,337.42,0.74,0.184,positive,Snowflake’s P/E Is 62% Below Its Average. Smart Money Is Lending It Billions At 0% Interest.
+2026-10-27T23:37:22+00:00,close,NOW,154.78,-2.15,0.091,positive,ServiceNow (NOW) Gains AI Traction As Valuation Debate Heats Up
+2026-10-27T23:37:22+00:00,close,ARKO,3.85,0.26,0.132,positive,ARKO Corp. (ARKO) Stock Dips While Market Gains: Key Facts
+2026-10-27T23:37:22+00:00,close,ISRG,445.88,-1.27,0.122,positive,Intuitive Surgical Sinks 6% as U.S. da Vinci Growth Slows to “Lowest We’ve Seen Since COVID”
+2026-10-27T23:37:22+00:00,close,TMUS,146.83,-0.07,0.405,positive,What Does T Mobile US (TMUS) Winning Network Honors And Launching T Mix Mean?
+2026-10-27T23:37:22+00:00,close,UBER,65.78,-0.53,-0.08,negative,Investor Who Called the AI Boom Predicts a Bitcoin Crash
+2026-10-27T23:37:22+00:00,close,PLTR,198.73,-0.06,-0.178,negative,Palantir is one of just 3 crushed S&P 500 stocks up for the year
+2026-10-27T23:37:22+00:00,close,AMR,168.57,6.0,0.317,positive,Alpha Metallurgical Resources (AMR) Stock Looks Above Fair Value After A 170% Run
+2026-10-27T23:37:22+00:00,close,LAC,2.16,6.93,0.152,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-10-27T23:37:22+00:00,close,MP,40.87,9.07,0.182,positive,MP Materials And 2 Other Top Growth Stocks
+2026-10-27T23:37:22+00:00,close,UEC,8.04,8.06,0.481,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-10-27T23:37:22+00:00,close,OKLO,27.33,5.36,0.01,neutral,What Could Oklo (OKLO) Gain From Its Groves 2 Forge DOE Role?
+2026-10-27T23:37:22+00:00,close,UUUU,8.23,8.86,0.441,positive,UUUU vs. CCJ: Which Uranium Stock Offers the Better Opportunity Today?
+2026-10-27T23:37:22+00:00,close,RTX,194.6,-1.46,0.282,positive,What Could RTX (RTX) Gain From Collins Aerospace’s New OpenAPI Launch?
+2026-10-27T23:37:22+00:00,close,AMZN,253.1,1.61,0.281,positive,Best Buy keeps a key customer perk Target dropped
+2026-10-27T23:37:22+00:00,close,AMD,560.26,5.45,0.153,positive,Rosenblatt names top semiconductor picks amid data-center strength
+2026-10-27T23:37:22+00:00,close,META,620.19,-1.64,0.018,neutral,"News of the day: Canadian dollar, Bell sells wireless tower stake, investors ignoring risks, federal budget winners and losers, Meta's new terms and more"
+2026-10-27T23:37:22+00:00,close,AVGO,342.33,4.0,0.095,positive,"Western Digital, Allegro MicroSystems, Amtech, and Teradyne shares skyrocket, what you need to know"
+2026-10-27T23:37:22+00:00,close,MRVL,243.57,4.19,0.103,positive,Marvell (MRVL) Stock Still Carries A Rich Price Despite Its 392% Run
+2026-10-27T23:37:22+00:00,close,APLD,19.51,9.42,-0.033,neutral,"Rosenblatt keeps ‘Buy’ on Soluna after Applied Digital joint venture, but lowers price target"
