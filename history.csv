@@ -5801,3 +5801,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-10-29T19:10:45+00:00,open,AVGO,343.36,-2.4,0.094,positive,Arista Networks (ANET) vs. CSCO and AVGO: Is AI Data Center Expansion Creating a Long-Term Networking Winner?
 2026-10-29T19:10:45+00:00,open,MRVL,215.71,-14.28,-0.019,neutral,Marvell Stock Slides. Why the Market Hates Idea of a Lumentum Buyout.
 2026-10-29T19:10:45+00:00,open,APLD,19.24,-5.64,0.064,positive,"Applied Digital (APLD) Shares Climbed, What Is Behind The Latest Attention?"
+2026-10-29T23:50:48+00:00,close,AAPL,348.91,1.48,0.14,positive,Apple’s iPhone Duo Is Likely to Deliver Growth Acceleration on the Back of Strong Demand
+2026-10-29T23:50:48+00:00,close,TSLA,403.3,-0.23,0.059,positive,"Tesla Just Gained 13% in a Month: Take Profits, or Buy More?"
+2026-10-29T23:50:48+00:00,close,NVDA,213.66,-0.8,0.0,neutral,Nvidia's $12.9 billion deal could shape the AI apps you use
+2026-10-29T23:50:48+00:00,close,URG,0.9,-2.57,0.083,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-10-29T23:50:48+00:00,close,LEU,110.55,-1.27,0.285,positive,Centrus Begins Shipping Centrifuges to Ohio to Support Major Expansion of Uranium Enrichment Capacity
+2026-10-29T23:50:48+00:00,close,CCJ,83.49,-0.42,0.11,positive,Cameco Gains Before Earnings After a 92% Profit Drop: “Normal Quarterly Variability”
+2026-10-29T23:50:48+00:00,close,LUNR,11.68,0.78,-0.095,negative,Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure
+2026-10-29T23:50:48+00:00,close,OUST,32.14,-4.37,-0.069,negative,"Ouster Sensors Play Key Role in Forterra's Lancer Completing 1,426 Missions and 88 Casualty Evacuation Operations in Ukraine"
+2026-10-29T23:50:48+00:00,close,MBLY,6.41,-9.21,0.102,positive,Mobileye (NASDAQ:MBLY) reports strong Q3 2026
+2026-10-29T23:50:48+00:00,close,SYM,37.4,-4.03,0.057,positive,Walmart and Symbotic Expand Commercial Agreement to Support Supply Chain Transformation
+2026-10-29T23:50:48+00:00,close,INTU,331.19,0.91,-0.068,negative,Intuit (INTU): Exiting Amid AI-Driven Business Model Uncertainty
+2026-10-29T23:50:48+00:00,close,CBRS,115.16,2.31,0.089,positive,Cerebras Gains 10% on Oracle Cloud Deal as “AI Inference Demands Choice”
+2026-10-29T23:50:48+00:00,close,SPCX,143.89,-0.92,0.236,positive,"Tesla Just Gained 13% in a Month: Take Profits, or Buy More?"
+2026-10-29T23:50:48+00:00,close,IONQ,31.72,-2.19,0.003,neutral,Contract Win Might Change The Case For IonQ Stock
+2026-10-29T23:50:48+00:00,close,SERV,2.84,-5.96,-0.197,negative,Battle over Chicago's delivery robots reaches the courts after outcry over alleged face scans
+2026-10-29T23:50:48+00:00,close,UMAC,17.28,-1.93,-0.009,neutral,Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside
+2026-10-29T23:50:48+00:00,close,SNOW,330.27,-2.84,0.226,positive,"New Research Reveals Most Utilities Have Modernized IT Infrastructure, Yet Only 1 in 4 Achieved Fully Intelligent Operations"
+2026-10-29T23:50:48+00:00,close,NOW,109.67,-26.95,-0.006,neutral,ServiceNow just can't seem to escape the SaaSpocalypse — even after strong Q3 AI growth
+2026-10-29T23:50:48+00:00,close,ARKO,3.78,2.44,0.245,positive,ARKO Corp. (ARKO) Stock Sinks As Market Gains: Here's Why
+2026-10-29T23:50:48+00:00,close,ISRG,448.76,1.03,0.122,positive,ISRG Sales Jump 22%: Can Growth Stay Ahead of Procedure Volumes?
+2026-10-29T23:50:48+00:00,close,TMUS,147.29,-0.53,0.428,positive,Four Schools. One $1M Grand Prize. T-Mobile’s Friday Night 5G Lights Enters the Final Round!
+2026-10-29T23:50:48+00:00,close,UBER,65.74,0.72,0.005,neutral,MasterClass Launches Certificate Course With Uber Executives to Teach Professionals How to Spot Growth Opportunities and Scale a Business
+2026-10-29T23:50:48+00:00,close,PLTR,196.42,-0.2,-0.065,negative,"JPMorgan starts Palantir at Overweight, calls it a disruptive AI leader"
+2026-10-29T23:50:48+00:00,close,AMR,161.81,-0.89,0.317,positive,Alpha Metallurgical Resources (AMR) Stock Looks Above Fair Value After A 170% Run
+2026-10-29T23:50:48+00:00,close,LAC,2.13,-1.84,0.152,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-10-29T23:50:48+00:00,close,MP,41.64,1.41,-0.009,neutral,MP Materials Corp. (MP) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release
+2026-10-29T23:50:48+00:00,close,UEC,8.15,-2.28,0.481,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-10-29T23:50:48+00:00,close,OKLO,26.81,-1.14,0.064,positive,NuScale Jumps 7% on Doosan Contract “Converting Our Approved Design Into Deliverable Modules”
+2026-10-29T23:50:48+00:00,close,UUUU,8.23,-1.91,0.361,positive,Energy Fuels secures $126m loan for Donald Rare Earth Project
+2026-10-29T23:50:48+00:00,close,RTX,199.4,1.82,0.175,positive,EMBJ or RTX: Which Is the Better Value Stock Right Now?
+2026-10-29T23:50:48+00:00,close,AMZN,243.79,-4.25,0.186,positive,Amazon cloud business accelerates but shares drop on profit miss
+2026-10-29T23:50:48+00:00,close,AMD,566.42,-2.08,0.168,positive,AMD Stock Outlook: AMD's Meta Deal Boosts AI Growth Prospects
+2026-10-29T23:50:48+00:00,close,META,624.52,1.96,0.017,neutral,Is Advanced Micro Devices (AMD) Cheap As Meta Expands Its AI Partnership?
+2026-10-29T23:50:48+00:00,close,AVGO,345.0,-1.94,0.094,positive,Arista Networks (ANET) vs. CSCO and AVGO: Is AI Data Center Expansion Creating a Long-Term Networking Winner?
+2026-10-29T23:50:48+00:00,close,MRVL,218.34,-13.24,-0.034,neutral,Marvell Stock Slides. Why the Market Hates Idea of a Lumentum Buyout.
+2026-10-29T23:50:48+00:00,close,APLD,19.41,-4.81,0.064,positive,"Applied Digital (APLD) Shares Climbed, What Is Behind The Latest Attention?"
