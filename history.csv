@@ -5945,3 +5945,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-02T22:27:18+00:00,open,AVGO,322.23,-1.18,0.189,positive,Why Free Cash Flow Matters More Than Ever: 5 Tech Stocks to Watch
 2026-11-02T22:27:18+00:00,open,MRVL,171.41,-12.72,-0.013,neutral,Cramer: “All the Copper in Data Centers Will Eventually Be Replaced” by Fiber. Lumentum Wins
 2026-11-02T22:27:18+00:00,open,APLD,16.22,-8.95,-0.03,neutral,Musk Predicts “Death and Consolidation” for Neoclouds as Debt Markets Shut Off
+2026-11-03T02:04:12+00:00,close,AAPL,nan,nan,-0.097,negative,Jim Cramer explains the 'AI cheat code' driving Apple stock higher
+2026-11-03T02:04:12+00:00,close,TSLA,nan,nan,0.102,positive,ELEKTROS (OTC:ELEK) Advances Review of U.S. Lithium Opportunity as Critical Minerals Gain Strategic Attention
+2026-11-03T02:04:12+00:00,close,NVDA,nan,nan,0.0,neutral,5 Key Earnings Charts to Watch This Week
+2026-11-03T02:04:12+00:00,close,URG,nan,nan,0.129,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-11-03T02:04:12+00:00,close,LEU,nan,nan,0.285,positive,Centrus Begins Shipping Centrifuges to Ohio to Support Major Expansion of Uranium Enrichment Capacity
+2026-11-03T02:04:12+00:00,close,CCJ,nan,nan,0.144,positive,3 Canadian Growth Stocks With Earnings Growth Up To 65%
+2026-11-03T02:04:12+00:00,close,LUNR,nan,nan,-0.095,negative,Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure
+2026-11-03T02:04:12+00:00,close,OUST,nan,nan,-0.069,negative,"Ouster Sensors Play Key Role in Forterra's Lancer Completing 1,426 Missions and 88 Casualty Evacuation Operations in Ukraine"
+2026-11-03T02:04:12+00:00,close,MBLY,nan,nan,0.102,positive,Mobileye (NASDAQ:MBLY) reports strong Q3 2026
+2026-11-03T02:04:12+00:00,close,SYM,nan,nan,0.181,positive,Walmart and Symbotic Expand Commercial Agreement to Support Supply Chain Transformation
+2026-11-03T02:04:12+00:00,close,INTU,nan,nan,0.092,positive,Why the Market Dipped But Intuit (INTU) Gained Today
+2026-11-03T02:04:12+00:00,close,CBRS,nan,nan,0.089,positive,Cerebras Gains 10% on Oracle Cloud Deal as “AI Inference Demands Choice”
+2026-11-03T02:04:12+00:00,close,SPCX,nan,nan,-0.028,neutral,Jim Chanos: Bad News for SpaceX Bulls as Space Data Center Math “Should Give Pause” to Investors
+2026-11-03T02:04:12+00:00,close,IONQ,nan,nan,0.022,neutral,"Will IonQ, Inc. (IONQ) Report Negative Earnings Next Week? What You Should Know"
+2026-11-03T02:04:12+00:00,close,SERV,nan,nan,-0.197,negative,Battle over Chicago's delivery robots reaches the courts after outcry over alleged face scans
+2026-11-03T02:04:12+00:00,close,UMAC,nan,nan,-0.009,neutral,Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside
+2026-11-03T02:04:12+00:00,close,SNOW,nan,nan,0.036,neutral,Snowflake: This Growing AI Stock Is Ripe For Bullish Exposure
+2026-11-03T02:04:12+00:00,close,NOW,nan,nan,0.193,positive,"Global Enterprise Information Technology (IT) Management Tools Market 2026 | Capitalize on AI and Cloud Growth to $88.59B by 2030 with ServiceNow, Atlassian, Cisco and Datadog"
+2026-11-03T02:04:12+00:00,close,ARKO,nan,nan,0.245,positive,ARKO Corp. (ARKO) Stock Sinks As Market Gains: Here's Why
+2026-11-03T02:04:12+00:00,close,ISRG,nan,nan,0.304,positive,Intuitive Surgical vs. Boston Scientific: Which Stock Is a Better Buy Now?
+2026-11-03T02:04:12+00:00,close,TMUS,nan,nan,0.321,positive,Verizon Communications (VZ) Explores Free Mobile Internet Through Tower Data Services
+2026-11-03T02:04:12+00:00,close,UBER,nan,nan,-0.249,negative,Why Dumping Uber Stock Before Q3 Earnings May Not Be the Smartest Move
+2026-11-03T02:04:12+00:00,close,PLTR,nan,nan,-0.026,neutral,Alex Karp on Palantir's AI demand: 'Much larger than we can service'
+2026-11-03T02:04:12+00:00,close,AMR,nan,nan,0.114,positive,Will Alpha Metallurgical (AMR) Report Negative Earnings Next Week? What You Should Know
+2026-11-03T02:04:12+00:00,close,LAC,nan,nan,0.152,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-11-03T02:04:12+00:00,close,MP,nan,nan,-0.123,negative,MP Materials Corp. (MP) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release
+2026-11-03T02:04:12+00:00,close,UEC,nan,nan,0.481,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-03T02:04:12+00:00,close,OKLO,nan,nan,0.064,positive,NuScale Jumps 7% on Doosan Contract “Converting Our Approved Design Into Deliverable Modules”
+2026-11-03T02:04:12+00:00,close,UUUU,nan,nan,0.361,positive,Energy Fuels secures $126m loan for Donald Rare Earth Project
+2026-11-03T02:04:12+00:00,close,RTX,nan,nan,0.076,positive,Invest in These 3 Sales Growth Stocks Amid AI-Led Market Volatility
+2026-11-03T02:04:12+00:00,close,AMZN,nan,nan,-0.039,neutral,Jim Cramer explains the 'AI cheat code' driving Apple stock higher
+2026-11-03T02:04:12+00:00,close,AMD,nan,nan,-0.119,negative,AMD to report Q3 results following disappointing showing from Intel
+2026-11-03T02:04:12+00:00,close,META,nan,nan,0.043,neutral,"Attorney Mark Lanier Calls for Social Media Companies to Make Meaningful Changes in Wake of Meta, Snap Settlements"
+2026-11-03T02:04:12+00:00,close,AVGO,nan,nan,0.189,positive,Why Free Cash Flow Matters More Than Ever: 5 Tech Stocks to Watch
+2026-11-03T02:04:12+00:00,close,MRVL,nan,nan,0.059,positive,Stocks kick off November lower as AI sell-off hits Tech
+2026-11-03T02:04:12+00:00,close,APLD,nan,nan,0.0,neutral,Musk Predicts “Death and Consolidation” for Neoclouds as Debt Markets Shut Off
