@@ -6125,3 +6125,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-05T00:47:05+00:00,close,AVGO,325.48,-2.0,0.204,positive,One Wall Street Analyst Says This Stock Is the Best Way to Invest in Anthropic and OpenAI. He's Right.
 2026-11-05T00:47:05+00:00,close,MRVL,159.8,-7.08,0.154,positive,Marvell Technology (MRVL) Stock Sinks As Market Gains: What You Should Know
 2026-11-05T00:47:05+00:00,close,APLD,16.61,-6.74,-0.04,neutral,AI data center stocks drop as Democrats sweep U.S. midterms
+2026-11-05T20:48:21+00:00,open,AAPL,346.1,-0.98,-0.094,negative,Apple Stocks Move Lower as Investors Revisit Earnings Quality
+2026-11-05T20:48:21+00:00,open,TSLA,344.07,-10.68,0.372,positive,SpaceX (SPCX) Stock Gets Fair Value Boost As Analysts Weigh AI Growth And Risks
+2026-11-05T20:48:21+00:00,open,NVDA,182.2,-8.96,-0.12,negative,Equities Plunge in Tech-Led Sell-Off Amid Data Center Restriction Fears
+2026-11-05T20:48:21+00:00,open,URG,0.69,-7.77,0.129,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-11-05T20:48:21+00:00,open,LEU,88.38,-4.54,0.313,positive,Centrus Q3 Profit Surges on Warrant Gain as Fuel Expansion Advances
+2026-11-05T20:48:21+00:00,open,CCJ,68.89,-3.9,0.0,neutral,Cameco Reports Document Filing
+2026-11-05T20:48:21+00:00,open,LUNR,8.7,-12.34,0.258,positive,Intuitive Machines (LUNR) Stock May Be Pricing In Too Much On NASA Mission Win
+2026-11-05T20:48:21+00:00,open,OUST,30.47,-9.15,0.095,positive,OUST Q3 Earnings Call Highlights REV8 Demand and Robotics Growth
+2026-11-05T20:48:21+00:00,open,MBLY,5.09,-4.78,0.102,positive,Mobileye (NASDAQ:MBLY) reports strong Q3 2026
+2026-11-05T20:48:21+00:00,open,SYM,35.37,-5.72,0.068,positive,VVX vs. SYM: Which Stock Should Value Investors Buy Now?
+2026-11-05T20:48:21+00:00,open,INTU,353.01,-1.02,0.047,neutral,Why the Market Dipped But Intuit (INTU) Gained Today
+2026-11-05T20:48:21+00:00,open,CBRS,83.1,-9.53,-0.163,negative,Bad News: Nvidia “Really Struggles” on Decode for Giant Models. Fast Tokens Fetch “3 to 5x”
+2026-11-05T20:48:21+00:00,open,SPCX,125.19,-7.89,0.197,positive,SpaceX (SPCX) Stock Gets Fair Value Boost As Analysts Weigh AI Growth And Risks
+2026-11-05T20:48:21+00:00,open,IONQ,26.74,-9.5,0.068,positive,IonQ (IONQ) Acquires Security Firm And Expands Quantum Access In Connecticut
+2026-11-05T20:48:21+00:00,open,SERV,2.37,-10.75,-0.197,negative,Battle over Chicago's delivery robots reaches the courts after outcry over alleged face scans
+2026-11-05T20:48:21+00:00,open,UMAC,10.9,-16.31,0.131,positive,UMAC to Report Q3 Results: Can Revenue Growth Lift Earnings?
+2026-11-05T20:48:21+00:00,open,SNOW,271.32,-6.63,0.0,neutral,"Snowflake Soars 32% Year to Date: Buy, Sell, or Hold the Stock?"
+2026-11-05T20:48:21+00:00,open,NOW,102.25,-6.03,0.125,positive,LTM and ServiceNow expand partnership to scale agentic AI and accelerate joint go-to-market
+2026-11-05T20:48:21+00:00,open,ARKO,3.84,-4.95,0.009,neutral,ARKO Corp. (ARKO) Stock Sinks As Market Gains: Here's Why
+2026-11-05T20:48:21+00:00,open,ISRG,466.22,-3.29,0.209,positive,Intuitive Surgical (ISRG) Drives Better Outcomes and Lower Care Costs
+2026-11-05T20:48:21+00:00,open,TMUS,160.41,0.78,-0.128,negative,Amdocs Stock Has Its Worst Day in 24 Years as T-Mobile Business Is at Risk
+2026-11-05T20:48:21+00:00,open,UBER,68.48,-1.99,-0.121,negative,Could Uber Actually Climb 61%? Or Is Goldman Sachs Totally Wrong?
+2026-11-05T20:48:21+00:00,open,PLTR,154.68,-9.92,0.123,positive,Jim Cramer sends clear signal on Apple and Palantir stock
+2026-11-05T20:48:21+00:00,open,AMR,143.26,-6.86,0.114,positive,Will Alpha Metallurgical (AMR) Report Negative Earnings Next Week? What You Should Know
+2026-11-05T20:48:21+00:00,open,LAC,1.85,-5.25,0.152,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-11-05T20:48:21+00:00,open,MP,33.85,-5.74,0.144,positive,"Rare Earth Metals Global Market Opportunities, Trends, and Forecast to 2035 | Secure Neodymium Magnet Growth with China Northern, Shenghe Resources, Lynas, and MP Materials"
+2026-11-05T20:48:21+00:00,open,UEC,6.43,-10.55,0.541,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-05T20:48:21+00:00,open,OKLO,19.43,-12.16,-0.123,negative,X-energy Lost 23% in a Month. Wedbush Sees 54% Upside From Here
+2026-11-05T20:48:21+00:00,open,UUUU,6.56,-8.61,0.351,positive,"Energy Fuels (UUUU) Reports Q3 Loss, Tops Revenue Estimates"
+2026-11-05T20:48:21+00:00,open,RTX,192.9,-2.79,0.035,neutral,RTX (RTX) Wins DARPA Contract For All Optical Signal Processing
+2026-11-05T20:48:21+00:00,open,AMZN,259.32,-2.52,0.184,positive,Amazon.com (AMZN) Could Gain From Slower AI Data Center Expansion
+2026-11-05T20:48:21+00:00,open,AMD,412.59,-15.59,-0.163,negative,HSBC raises AMD target to $540 but flags a troubling risk
+2026-11-05T20:48:21+00:00,open,META,603.17,-4.26,0.007,neutral,Reddit Sinks 8% as Social Ad Worries Deepen in Tech Rout
+2026-11-05T20:48:21+00:00,open,AVGO,294.49,-9.52,-0.084,negative,Broadcom Sinks 9% as AI Regulation Fears Deepen Chip Rout
+2026-11-05T20:48:21+00:00,open,MRVL,136.47,-14.6,0.143,positive,"Should You Buy, Sell or Hold AXTI Stock After Its Strong Q3 Results?"
+2026-11-05T20:48:21+00:00,open,APLD,14.4,-13.28,-0.12,negative,Nvidia Sinks 9% as Midterm Data-Center Fears Deepen AI Chip Rout: “Absolute Slaughter”
