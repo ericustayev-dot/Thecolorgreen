@@ -6197,3 +6197,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-06T00:52:53+00:00,close,AVGO,291.53,-10.43,-0.209,negative,The AI Trade Just Had Its Worst Day Since The Pandemic
 2026-11-06T00:52:53+00:00,close,MRVL,133.55,-16.43,0.143,positive,"Should You Buy, Sell or Hold AXTI Stock After Its Strong Q3 Results?"
 2026-11-06T00:52:53+00:00,close,APLD,14.17,-14.69,-0.175,negative,Nvidia Sinks 9% as Midterm Data-Center Fears Deepen AI Chip Rout: “Absolute Slaughter”
+2026-11-06T20:03:34+00:00,open,AAPL,342.9,-0.37,-0.08,negative,"Apple, Meta, Musk Face New Threat From Democrats"
+2026-11-06T20:03:34+00:00,open,TSLA,361.88,5.29,-0.139,negative,Musk Kills Tesla Cybertruck. Why He Had to Shoot the Elephant.
+2026-11-06T20:03:34+00:00,open,NVDA,187.91,3.47,0.01,neutral,Update: Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production
+2026-11-06T20:03:34+00:00,open,URG,0.75,8.33,0.129,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-11-06T20:03:34+00:00,open,LEU,106.45,19.57,0.483,positive,Centrus Q3 Profit Surges on Warrant Gain as Fuel Expansion Advances
+2026-11-06T20:03:34+00:00,open,CCJ,71.42,4.52,0.0,neutral,Cameco Reports Document Filing
+2026-11-06T20:03:34+00:00,open,LUNR,10.56,22.49,0.488,positive,Intuitive Machines Keeps Winning Space Contracts. The Real Test Is Whether It Can Profit From Them
+2026-11-06T20:03:34+00:00,open,OUST,33.8,10.75,0.095,positive,OUST Q3 Earnings Call Highlights REV8 Demand and Robotics Growth
+2026-11-06T20:03:34+00:00,open,MBLY,5.59,9.06,0.102,positive,Mobileye (NASDAQ:MBLY) reports strong Q3 2026
+2026-11-06T20:03:34+00:00,open,SYM,36.98,5.54,0.068,positive,VVX vs. SYM: Which Stock Should Value Investors Buy Now?
+2026-11-06T20:03:34+00:00,open,INTU,340.65,-4.0,0.018,neutral,"Affirm Holdings Inc (AFRM) (Q1 2027) Earnings Call Highlights: 34% GMV Growth, AI Underwriting ..."
+2026-11-06T20:03:34+00:00,open,CBRS,89.87,9.99,-0.288,negative,Oversold AI and chip stocks after the Nasdaq’s worst day since 2020
+2026-11-06T20:03:34+00:00,open,SPCX,134.94,9.16,0.164,positive,Google's $900 Million SpaceX Bet Is Now Worth $69 Billion. It Added Millions More Shares
+2026-11-06T20:03:34+00:00,open,IONQ,31.97,20.96,0.04,neutral,"IonQ's Q3 Beat, Higher Guidance Supported by Superion 256 Demand, Morgan Stanley Says"
+2026-11-06T20:03:34+00:00,open,SERV,3.1,33.58,0.05,positive,"Serve Robotics Inc. (SERV) Reports Q3 Loss, Tops Revenue Estimates"
+2026-11-06T20:03:34+00:00,open,UMAC,11.85,10.33,0.013,neutral,UMAC to Report Q3 Results: Can Revenue Growth Lift Earnings?
+2026-11-06T20:03:34+00:00,open,SNOW,276.35,2.53,0.0,neutral,Spectro Cloud Names Mike Gannon Chief Revenue Officer and Peter Finter Chief Marketing Officer to Lead Global Hybrid AI Expansion
+2026-11-06T20:03:34+00:00,open,NOW,101.99,-0.37,-0.168,negative,ServiceNow CFO Calls AI Disruption Fears “False.” The Stock Is Down 32% Since Its Report
+2026-11-06T20:03:34+00:00,open,ARKO,3.91,1.42,-0.059,negative,ARKO Corp. Reports Third Quarter 2026 Results and Raises Lower End of the Full Year 2026 Adjusted EBITDA Guidance
+2026-11-06T20:03:34+00:00,open,ISRG,451.63,-3.6,0.184,positive,Intuitive Surgical (ISRG) Stock May Be Near Fair Value On Cash Flow
+2026-11-06T20:03:34+00:00,open,TMUS,162.66,1.29,-0.008,neutral,"Sorry to Wake You, But T-Mobile and Bryan Cranston Have a Change in Plans"
+2026-11-06T20:03:34+00:00,open,UBER,68.51,-0.39,-0.16,negative,Uber CEO reveals a problem that could impact every rider
+2026-11-06T20:03:34+00:00,open,PLTR,161.8,4.4,0.229,positive,Palantir Technologies Inc. (PLTR) Delivered Explosive AI Growth: Is the Stock Still Worth Watching?
+2026-11-06T20:03:34+00:00,open,AMR,150.9,5.33,-0.178,negative,Will Alpha Metallurgical (AMR) Report Negative Earnings Next Week? What You Should Know
+2026-11-06T20:03:34+00:00,open,LAC,1.95,5.71,0.152,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-11-06T20:03:34+00:00,open,MP,35.69,5.79,0.192,positive,MP Materials Corp. (MP) Tops Q3 Earnings and Revenue Estimates
+2026-11-06T20:03:34+00:00,open,UEC,6.91,6.71,0.583,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-06T20:03:34+00:00,open,OKLO,23.98,24.9,-0.283,negative,"Oklo Inc. (OKLO) Reports Q3 Loss, Lags Revenue Estimates"
+2026-11-06T20:03:34+00:00,open,UUUU,6.77,2.73,0.259,positive,"Energy Fuels (UUUU) Reports Q3 Loss, Tops Revenue Estimates"
+2026-11-06T20:03:34+00:00,open,RTX,192.6,0.38,0.224,positive,RTX (RTX) Wins DARPA Contract For All Optical Signal Processing
+2026-11-06T20:03:34+00:00,open,AMZN,261.54,0.51,0.034,neutral,Oracle beats Microsoft and Amazon on a key Wall Street metric
+2026-11-06T20:03:34+00:00,open,AMD,447.63,10.69,-0.03,neutral,AMD Stock Soars After Thursday's Rout. AI Fears Take a Back Seat
+2026-11-06T20:03:34+00:00,open,META,615.86,1.78,0.05,neutral,"Apple, Meta, Musk Face New Threat From Democrats"
+2026-11-06T20:03:34+00:00,open,AVGO,293.61,0.71,0.0,neutral,"Cathie Wood Makes $437 Million In Trades. Adds Nvidia, SpaceX; Offloads Broadcom"
+2026-11-06T20:03:34+00:00,open,MRVL,139.69,4.6,0.13,positive,GFS or MRVL: Which Is the Better Value Stock Right Now?
+2026-11-06T20:03:34+00:00,open,APLD,15.7,10.78,-0.139,negative,Nvidia Sinks 9% as Midterm Data-Center Fears Deepen AI Chip Rout: “Absolute Slaughter”
