@@ -6305,3 +6305,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-09T23:07:38+00:00,open,AVGO,319.48,8.78,0.092,positive,The Real Winner of Google’s $135 Billion Chip Forecast: Broadcom
 2026-11-09T23:07:38+00:00,open,MRVL,154.6,9.49,0.0,neutral,"Marvell Sinks 36%, Lumentum Drops 31% on $115 Billion Deal: Is the Selloff Overdone?"
 2026-11-09T23:07:38+00:00,open,APLD,16.72,7.52,-0.066,negative,It’s Game Over for DJT Stock as Trump Becomes a Lame-Duck President Following Midterm Losses
+2026-11-10T02:36:03+00:00,close,AAPL,nan,nan,0.341,positive,Apple reveals $2.7 billion tax benefit outside the US
+2026-11-10T02:36:03+00:00,close,TSLA,nan,nan,0.068,positive,How much of Elon Musk’s wealth is in Tesla & SpaceX stock?
+2026-11-10T02:36:03+00:00,close,NVDA,nan,nan,0.129,positive,What Does CoreWeave (CRWV) Winning A New AI Training Deal Mean?
+2026-11-10T02:36:03+00:00,close,URG,nan,nan,0.129,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-11-10T02:36:03+00:00,close,LEU,nan,nan,0.432,positive,Centrus Energy Q3 Earnings Call Highlights Enrichment Expansion Progress
+2026-11-10T02:36:03+00:00,close,CCJ,nan,nan,0.076,positive,3 Canadian Growth Stocks To Own In November 2026
+2026-11-10T02:36:03+00:00,close,LUNR,nan,nan,0.405,positive,Intuitive Machines Keeps Winning Space Contracts. The Real Test Is Whether It Can Profit From Them
+2026-11-10T02:36:03+00:00,close,OUST,nan,nan,0.095,positive,OUST Q3 Earnings Call Highlights REV8 Demand and Robotics Growth
+2026-11-10T02:36:03+00:00,close,MBLY,nan,nan,0.022,neutral,Mobileye (NASDAQ:MBLY) reports strong Q3 2026
+2026-11-10T02:36:03+00:00,close,SYM,nan,nan,0.068,positive,VVX vs. SYM: Which Stock Should Value Investors Buy Now?
+2026-11-10T02:36:03+00:00,close,INTU,nan,nan,-0.136,negative,Intuit (INTU) Stock Drops Despite Market Gains: Important Facts to Note
+2026-11-10T02:36:03+00:00,close,CBRS,nan,nan,0.153,positive,"Dear Cerebras Stock Fans, Mark Your Calendars for November 12"
+2026-11-10T02:36:03+00:00,close,SPCX,nan,nan,0.374,positive,"SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts"
+2026-11-10T02:36:03+00:00,close,IONQ,nan,nan,0.033,neutral,"IonQ Gains Another 9%, Rigetti Up 9%, D-Wave Up 7% as Quantum Rally Extends Into Rivals’ Earnings"
+2026-11-10T02:36:03+00:00,close,SERV,nan,nan,0.05,positive,"Serve Robotics Inc. (SERV) Reports Q3 Loss, Tops Revenue Estimates"
+2026-11-10T02:36:03+00:00,close,UMAC,nan,nan,0.013,neutral,Does Unusual Machines (UMAC) Look Above Fair Value After The Drop?
+2026-11-10T02:36:03+00:00,close,SNOW,nan,nan,0.08,positive,"Snowflake (SNOW) Could Find a Support Soon, Here's Why You Should Buy the Stock Now"
+2026-11-10T02:36:03+00:00,close,NOW,nan,nan,-0.08,negative,ServiceNow CFO Calls AI Disruption Fears “False.” The Stock Is Down 32% Since Its Report
+2026-11-10T02:36:03+00:00,close,ARKO,nan,nan,-0.059,negative,ARKO Corp. Reports Third Quarter 2026 Results and Raises Lower End of the Full Year 2026 Adjusted EBITDA Guidance
+2026-11-10T02:36:03+00:00,close,ISRG,nan,nan,0.296,positive,Why Intuitive Surgical (ISRG) Just Cracked the Top 10 Best Healthcare Stocks List
+2026-11-10T02:36:03+00:00,close,TMUS,nan,nan,-0.012,neutral,T-Mobile launches new internet plan after customer losses
+2026-11-10T02:36:03+00:00,close,UBER,nan,nan,0.312,positive,Uber (UBER) Stock Gets Fair Value Trim After Analysts Rework Targets
+2026-11-10T02:36:03+00:00,close,PLTR,nan,nan,0.08,positive,PLTR support and resistance levels to watch
+2026-11-10T02:36:03+00:00,close,AMR,nan,nan,0.013,neutral,Alpha Metallurgical Resources Inc (AMR) (Q3 2026) Earnings Call Highlights: EBITDA Growth and ...
+2026-11-10T02:36:03+00:00,close,LAC,nan,nan,0.132,positive,Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors
+2026-11-10T02:36:03+00:00,close,MP,nan,nan,-0.008,neutral,MP Materials rises as Jefferies highlights rare earth production growth and magnet ramp-up
+2026-11-10T02:36:03+00:00,close,UEC,nan,nan,0.583,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-10T02:36:03+00:00,close,OKLO,nan,nan,0.094,positive,Oklo Secures U.S. Forging Capacity for Future Aurora Expansion
+2026-11-10T02:36:03+00:00,close,UUUU,nan,nan,0.135,positive,Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know
+2026-11-10T02:36:03+00:00,close,RTX,nan,nan,0.045,neutral,RTX's Raytheon advances Joint Reduced Range Rocket with third successful flight test
+2026-11-10T02:36:03+00:00,close,AMZN,nan,nan,0.302,positive,Your credit card can act like a Black Friday discount on every purchase — here's how
+2026-11-10T02:36:03+00:00,close,AMD,nan,nan,0.2,positive,Advanced Micro Devices (AMD) Lands EPYC Role In New AI Security System
+2026-11-10T02:36:03+00:00,close,META,nan,nan,0.071,positive,Meta Stocks Climb 4.82% as JPMorgan Bets on AI-Driven Ad Growth
+2026-11-10T02:36:03+00:00,close,AVGO,nan,nan,0.16,positive,The Real Winner of Google’s $135 Billion Chip Forecast: Broadcom
+2026-11-10T02:36:03+00:00,close,MRVL,nan,nan,0.0,neutral,"Marvell Sinks 36%, Lumentum Drops 31% on $115 Billion Deal: Is the Selloff Overdone?"
+2026-11-10T02:36:03+00:00,close,APLD,16.72,7.52,-0.066,negative,It’s Game Over for DJT Stock as Trump Becomes a Lame-Duck President Following Midterm Losses
