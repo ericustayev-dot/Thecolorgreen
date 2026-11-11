@@ -6377,3 +6377,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-10T20:34:54+00:00,open,AVGO,332.66,4.13,0.259,positive,"Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won"
 2026-11-10T20:34:54+00:00,open,MRVL,154.25,-0.23,0.008,neutral,"“The Next Trillion Dollar Company”: Marvell Is Up 82% in 2026. Take Profits, or Buy More?"
 2026-11-10T20:34:54+00:00,open,APLD,16.69,-0.18,-0.22,negative,"Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital"
+2026-11-11T00:28:19+00:00,close,AAPL,348.51,-0.62,0.08,positive,"Madonna, Bruno Mars, Megan Moroney, Detroit Lions, McDonald’s and Other Leading Brands Headline Community’s Launch of a New Era in Interactive Fan Engagement"
+2026-11-11T00:28:19+00:00,close,TSLA,379.78,0.46,0.254,positive,"‘Our Best Product Ever’: Elon Musk Bet Big on the Cybertruck — Now He’s Winding It Down After Sales Fell to 20,237 Against a 250,000-a-Year Goal"
+2026-11-11T00:28:19+00:00,close,NVDA,168.89,-5.47,-0.004,neutral,"Dell Sinks 12% in a Week on Texas Data Center Fears: “A Moratorium, a Ban”"
+2026-11-11T00:28:19+00:00,close,URG,0.68,-16.36,0.129,positive,Ur-Energy Targets 2M-Pound Uranium Output as Wyoming Expansion Gains Momentum
+2026-11-11T00:28:19+00:00,close,LEU,109.87,-6.37,0.381,positive,Centrus Energy Q3 Earnings Call Highlights Enrichment Expansion Progress
+2026-11-11T00:28:19+00:00,close,CCJ,72.87,-3.32,0.076,positive,3 Canadian Growth Stocks To Own In November 2026
+2026-11-11T00:28:19+00:00,close,LUNR,11.81,-1.91,0.076,positive,"Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12"
+2026-11-11T00:28:19+00:00,close,OUST,38.22,-0.91,0.095,positive,OUST Q3 Earnings Call Highlights REV8 Demand and Robotics Growth
+2026-11-11T00:28:19+00:00,close,MBLY,5.63,-3.92,0.022,neutral,Mobileye (NASDAQ:MBLY) reports strong Q3 2026
+2026-11-11T00:28:19+00:00,close,SYM,37.62,-0.45,0.068,positive,VVX vs. SYM: Which Stock Should Value Investors Buy Now?
+2026-11-11T00:28:19+00:00,close,INTU,340.44,0.65,-0.22,negative,"Intuit (INTU) Grew Revenue 14%, but Guidance Points Lower, Here’s What Investors Are Asking"
+2026-11-11T00:28:19+00:00,close,CBRS,93.66,-3.14,-0.034,neutral,This Analyst Just Cut Its Price Target on Cerebras Stock. Here's Why.
+2026-11-11T00:28:19+00:00,close,SPCX,143.09,0.72,0.065,positive,"SpaceX Could Profit From AI Data Center Crackdown, Deutsche Bank Says as It Raises 2028 Forecast"
+2026-11-11T00:28:19+00:00,close,IONQ,34.99,-0.99,0.0,neutral,"D-Wave Soars 14% in a Week, Rigetti Up 22%, IonQ Up 25% on IonQ’s Raised Guidance"
+2026-11-11T00:28:19+00:00,close,SERV,3.11,-8.26,0.05,positive,"Serve Robotics Inc. (SERV) Reports Q3 Loss, Tops Revenue Estimates"
+2026-11-11T00:28:19+00:00,close,UMAC,12.59,-6.6,0.013,neutral,Does Unusual Machines (UMAC) Look Above Fair Value After The Drop?
+2026-11-11T00:28:19+00:00,close,SNOW,295.76,1.59,0.262,positive,Why the Market Dipped But Snowflake Inc. (SNOW) Gained Today
+2026-11-11T00:28:19+00:00,close,NOW,99.61,-3.07,0.215,positive,Kyndryl Expands Partnership with ServiceNow to Enable Trusted Autonomous Operations
+2026-11-11T00:28:19+00:00,close,ARKO,4.24,0.95,-0.059,negative,ARKO Corp. Reports Third Quarter 2026 Results and Raises Lower End of the Full Year 2026 Adjusted EBITDA Guidance
+2026-11-11T00:28:19+00:00,close,ISRG,450.04,-2.28,0.296,positive,Why Intuitive Surgical (ISRG) Just Cracked the Top 10 Best Healthcare Stocks List
+2026-11-11T00:28:19+00:00,close,TMUS,169.08,0.22,0.17,positive,Delta’s free Wi-Fi was just the beginning. The airline has bigger plans with T-Mobile
+2026-11-11T00:28:19+00:00,close,UBER,70.05,-1.57,0.392,positive,What Is Uber Technologies (UBER) Gaining From Its Expanded 14 Market Delivery Tie Up?
+2026-11-11T00:28:19+00:00,close,PLTR,168.82,-0.22,0.232,positive,"Palantir vs. AMD: Both Stocks Have Pulled Back More Than 20%, But 1 Is a Better Value Buy Here"
+2026-11-11T00:28:19+00:00,close,AMR,157.64,1.6,0.013,neutral,Alpha Metallurgical Resources Inc (AMR) (Q3 2026) Earnings Call Highlights: EBITDA Growth and ...
+2026-11-11T00:28:19+00:00,close,LAC,1.89,-6.44,0.047,neutral,Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts
+2026-11-11T00:28:19+00:00,close,MP,36.46,-3.42,-0.008,neutral,MP Materials rises as Jefferies highlights rare earth production growth and magnet ramp-up
+2026-11-11T00:28:19+00:00,close,UEC,7.17,-5.91,0.583,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-11T00:28:19+00:00,close,OKLO,25.09,-6.52,0.01,neutral,"Oklo Seeing Solid Execution as it Shifts From Design, Wedbush Says"
+2026-11-11T00:28:19+00:00,close,UUUU,6.74,-7.8,0.135,positive,Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know
+2026-11-11T00:28:19+00:00,close,RTX,200.27,2.02,0.213,positive,Is RTX (RTX) Still Near Fair Value After New Defense Wins?
+2026-11-11T00:28:19+00:00,close,AMZN,270.87,1.48,0.296,positive,Dow Leader Amazon Approaches Latest Buy Point As Ferrari Races Higher On Formula 1 Strength
+2026-11-11T00:28:19+00:00,close,AMD,515.21,1.3,0.108,positive,AMD Gains 25% Against NVDA in 2 Days: Chip Analyst Says Lisa Su Is ‘at Her Best’
+2026-11-11T00:28:19+00:00,close,META,641.39,0.0,0.08,positive,Why a Former AI Executive Changed Her Career to Help Young Workers
+2026-11-11T00:28:19+00:00,close,AVGO,331.98,3.91,0.142,positive,"Samsung Electronics Stocks Climb 4.74% as Chip Rebound Pushes Shares Near 200,000 Won"
+2026-11-11T00:28:19+00:00,close,MRVL,154.39,-0.14,0.008,neutral,"“The Next Trillion Dollar Company”: Marvell Is Up 82% in 2026. Take Profits, or Buy More?"
+2026-11-11T00:28:19+00:00,close,APLD,16.68,-0.24,-0.22,negative,"Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital"
