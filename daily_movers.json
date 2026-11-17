@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "bullish": [
     {
       "ticker": "UEC",
@@ -84,7 +84,7 @@
       "name": "Wells Fargo & Company",
       "price": 84.84,
       "change_pct": -1.41,
-      "sentiment_score": 0.523,
+      "sentiment_score": 0.438,
       "sentiment_label": "positive",
       "cap": "mega",
       "analyst_target_mean": 97.375,
@@ -136,7 +136,7 @@
       "name": "Walmart Inc.",
       "price": 128.41,
       "change_pct": 0.25,
-      "sentiment_score": 0.357,
+      "sentiment_score": 0.221,
       "sentiment_label": "positive",
       "cap": "mega",
       "analyst_target_mean": 131.45,
@@ -149,13 +149,13 @@
       "bullish_driver_link": "https://finance.yahoo.com/m/a79dcadc-ec96-33fd-960b-093c33643b48/walmart-and-other-retailers.html?.tsrc=rss",
       "bullish_driver_category": "Company news",
       "bullish_driver_explanation": "General company-specific news that doesn't fit a common pattern - worth reading the full article for context.",
-      "bearish_driver": null,
-      "bearish_driver_source": null,
-      "bearish_driver_link": null,
-      "bearish_driver_category": null,
-      "bearish_driver_explanation": null,
-      "positive_headlines": 4,
-      "negative_headlines": 0
+      "bearish_driver": "Kroger has a new plan to lower prices",
+      "bearish_driver_source": "thestreet.com",
+      "bearish_driver_link": "https://www.thestreet.com/retail/kroger-has-a-new-plan-to-lower-prices?.tsrc=rss",
+      "bearish_driver_category": "Company news",
+      "bearish_driver_explanation": "General company-specific news that doesn't fit a common pattern - worth reading the full article for context.",
+      "positive_headlines": 3,
+      "negative_headlines": 1
     },
     {
       "ticker": "ETSY",
@@ -188,7 +188,7 @@
       "name": "Mastercard Incorporated",
       "price": 661.71,
       "change_pct": 0.08,
-      "sentiment_score": 0.132,
+      "sentiment_score": 0.168,
       "sentiment_label": "positive",
       "cap": "mega",
       "analyst_target_mean": 720.68677,
@@ -206,7 +206,7 @@
       "bearish_driver_link": null,
       "bearish_driver_category": null,
       "bearish_driver_explanation": null,
-      "positive_headlines": 2,
+      "positive_headlines": 3,
       "negative_headlines": 0
     },
     {
@@ -372,7 +372,7 @@
       "name": "Space Exploration Technologies ",
       "price": 137.36,
       "change_pct": -1.26,
-      "sentiment_score": -0.153,
+      "sentiment_score": -0.177,
       "sentiment_label": "negative",
       "cap": "mega",
       "analyst_target_mean": 255.63026,
@@ -385,13 +385,13 @@
       "bullish_driver_link": null,
       "bullish_driver_category": null,
       "bullish_driver_explanation": null,
-      "bearish_driver": "China \u2018full stop, is ahead of us\u2019: SpaceX alum building a $13 billion defense startup warns of Beijing\u2019s hypersonic weapons",
+      "bearish_driver": "AST SpaceMobile (ASTS) Takes a Beating. Here\u2019s What Happened",
       "bearish_driver_source": "finance.yahoo.com",
-      "bearish_driver_link": "https://finance.yahoo.com/technology/articles/china-full-stop-ahead-us-185543581.html?.tsrc=rss",
+      "bearish_driver_link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-takes-beating-020349552.html?.tsrc=rss",
       "bearish_driver_category": "Company news",
       "bearish_driver_explanation": "General company-specific news that doesn't fit a common pattern - worth reading the full article for context.",
       "positive_headlines": 0,
-      "negative_headlines": 2
+      "negative_headlines": 3
     },
     {
       "ticker": "DKNG",
@@ -450,7 +450,7 @@
       "name": "Boeing Company (The)",
       "price": 165.22,
       "change_pct": -3.66,
-      "sentiment_score": -0.205,
+      "sentiment_score": -0.307,
       "sentiment_label": "negative",
       "cap": "large",
       "analyst_target_mean": 233.34615,
@@ -463,13 +463,13 @@
       "bullish_driver_link": null,
       "bullish_driver_category": null,
       "bullish_driver_explanation": null,
-      "bearish_driver": "Vulcan Rocket Mishap Hurts Amazon\u2019s Satellite Aspirations",
+      "bearish_driver": "Boeing (BA) ULA Rocket Failure Halts Deployment Of 40 Broadband Satellites",
       "bearish_driver_source": "finance.yahoo.com",
-      "bearish_driver_link": "https://finance.yahoo.com/m/b32facc6-f679-3fbc-b523-f920b738fdad/vulcan-rocket-mishap-hurts.html?.tsrc=rss",
+      "bearish_driver_link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-ula-rocket-failure-001959401.html?.tsrc=rss",
       "bearish_driver_category": "Company news",
       "bearish_driver_explanation": "General company-specific news that doesn't fit a common pattern - worth reading the full article for context.",
       "positive_headlines": 0,
-      "negative_headlines": 3
+      "negative_headlines": 4
     },
     {
       "ticker": "OKLO",
