@@ -6665,3 +6665,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-17T02:49:28+00:00,close,AVGO,333.4,-3.92,0.109,positive,ACC Granted Leave to Intervene Before EU General Court in Broadcom Legal Privilege Case
 2026-11-17T02:49:28+00:00,close,MRVL,145.36,-7.27,0.139,positive,Lumentum Stocks Sink 8.32% as Marvell Slide Shrinks Deal Value Below $660
 2026-11-17T02:49:28+00:00,close,APLD,14.58,-8.7,0.033,neutral,Applied Digital Soars 20% in a Week. Jim Chanos Calls the Wait for Profits a “Nonsensical Narrative”
+2026-11-17T21:53:09+00:00,open,AAPL,351.91,-0.25,-0.14,negative,"Apple's $1,299 iPhone has a problem updates can't fix"
+2026-11-17T21:53:09+00:00,open,TSLA,380.11,0.1,0.064,positive,Tesla (TSLA) Is Spending €3 Billion To Expand Berlin Cybercab Production
+2026-11-17T21:53:09+00:00,open,NVDA,155.46,-0.44,-0.077,negative,Why a Jensen Huang comeback could become a major battle in Washington
+2026-11-17T21:53:09+00:00,open,URG,0.54,-3.41,0.067,positive,Ur-Energy Inc (URG) Q3 2026 Earnings Call Highlights: Record Sales Growth and Multi-Asset ...
+2026-11-17T21:53:09+00:00,open,LEU,94.19,-3.42,0.289,positive,Centrus Energy (LEU) Stock May Look Rich Despite A New Fuel Supply Deal
+2026-11-17T21:53:09+00:00,open,CCJ,64.51,-2.24,0.081,positive,3 Canadian Growth Stocks To Own In November 2026
+2026-11-17T21:53:09+00:00,open,LUNR,11.05,-5.84,-0.061,negative,Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors
+2026-11-17T21:53:09+00:00,open,OUST,30.48,-2.4,0.125,positive,Ouster BlueCity with REV8 Selected for Second Multimillion-Dollar Traffic and Safety Expansion in Nashville
+2026-11-17T21:53:09+00:00,open,MBLY,5.19,-1.33,-0.08,negative,Mobileye Stock In Focus After Revenue Outlook Lifted And Losses Narrowed
+2026-11-17T21:53:09+00:00,open,SYM,33.06,-3.56,0.122,positive,VVX vs. SYM: Which Stock Should Value Investors Buy Now?
+2026-11-17T21:53:09+00:00,open,INTU,320.79,-7.17,-0.0,neutral,AI fears crushed software—leaving Intuit 60% undervalued at 20x P/E
+2026-11-17T21:53:09+00:00,open,CBRS,104.18,3.16,-0.004,neutral,An $18 Billion Fund Dumps These 2 Stocks
+2026-11-17T21:53:09+00:00,open,SPCX,141.7,3.16,0.258,positive,"SpaceX, Rivals Win $985 Million In Launch Awards. Cathie Wood, David Tepper Shift Space Holdings."
+2026-11-17T21:53:09+00:00,open,IONQ,24.84,-6.09,0.162,positive,IonQ's Post-Earnings Rally Fades: Should Investors Book Profits Now?
+2026-11-17T21:53:09+00:00,open,SERV,2.44,-2.59,0.021,neutral,Serve Robotics (SERV) Stock Sees Fair Value Cut As Analysts Lower Targets
+2026-11-17T21:53:09+00:00,open,UMAC,10.04,-5.19,0.013,neutral,Does Unusual Machines (UMAC) Look Above Fair Value After The Drop?
+2026-11-17T21:53:09+00:00,open,SNOW,272.94,-2.71,0.121,positive,"Snowflake’s Guidance Is Strong, but Profitability Still Matters"
+2026-11-17T21:53:09+00:00,open,NOW,92.9,-6.51,0.013,neutral,ServiceNow Sees AI Usage Surge as It Raises Annual Contract Value Target to $1.7 Billion
+2026-11-17T21:53:09+00:00,open,ARKO,3.92,-2.61,-0.059,negative,ARKO Corp. Reports Third Quarter 2026 Results and Raises Lower End of the Full Year 2026 Adjusted EBITDA Guidance
+2026-11-17T21:53:09+00:00,open,ISRG,430.53,-1.65,0.255,positive,ISRG EPS Climbs 25% to $3: Is Innovation Driving Profitable Growth?
+2026-11-17T21:53:09+00:00,open,TMUS,167.9,-1.24,-0.05,negative,How Phone Companies Kill Global Service
+2026-11-17T21:53:09+00:00,open,UBER,68.81,-1.69,0.134,positive,Uber Eats and Kohl’s Team Up to Make Holiday Shopping Easier With Nationwide On-Demand Delivery
+2026-11-17T21:53:09+00:00,open,PLTR,156.56,-2.39,0.033,neutral,Good News For Palantir Stock Investors
+2026-11-17T21:53:09+00:00,open,AMR,139.53,-1.36,0.013,neutral,Alpha Metallurgical Resources Inc (AMR) (Q3 2026) Earnings Call Highlights: EBITDA Growth and ...
+2026-11-17T21:53:09+00:00,open,LAC,1.41,0.0,0.08,positive,"Lithium Americas (TSX:LAC) Resets Thacker Pass Costs, Is The 0.4x P B Valuation Justified?"
+2026-11-17T21:53:09+00:00,open,MP,34.86,-3.41,0.127,positive,MP Materials (MP) Stock Looks Fully Valued As Magnet Sales Begin
+2026-11-17T21:53:09+00:00,open,UEC,6.07,-0.98,0.583,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-17T21:53:09+00:00,open,OKLO,22.37,-2.87,-0.149,negative,Oklo Has Lost 76% in a Year. Wall Street Still Sees $56. Bullish Wedbush Sees Just $36
+2026-11-17T21:53:09+00:00,open,UUUU,5.93,-1.82,0.278,positive,Energy Fuels (UUUU) Is Considered a Good Investment by Brokers: Is That True?
+2026-11-17T21:53:09+00:00,open,RTX,198.0,1.6,0.301,positive,Can DeepStrike JR3 Strengthen RTX's Precision Fires Growth?
+2026-11-17T21:53:09+00:00,open,AMZN,257.89,0.05,0.081,positive,TEAMSTERS RALLY FOR 200 E-BIKE DRIVERS TERMINATED BY AMAZON IN NEW YORK
+2026-11-17T21:53:09+00:00,open,AMD,503.41,-0.17,-0.219,negative,"Nvidia set to report earnings as Huang scandal clouds outlook, Federal Reserve worries about AI"
+2026-11-17T21:53:09+00:00,open,META,618.87,-1.2,0.163,positive,"Meta Platforms, Inc. (META): Strong Advertising Growth Supports Its Long-Term Investment Case"
+2026-11-17T21:53:09+00:00,open,AVGO,341.6,2.46,0.03,neutral,Is Broadcom (AVGO) Undervalued After Strong AI Revenue Growth And ETF Buying?
+2026-11-17T21:53:09+00:00,open,MRVL,148.74,2.33,-0.153,negative,A $7.2 Billion Fund Dumps These 3 Stocks
+2026-11-17T21:53:09+00:00,open,APLD,14.22,-2.47,0.088,positive,Applied Digital Soars 20% in a Week. Jim Chanos Calls the Wait for Profits a “Nonsensical Narrative”
