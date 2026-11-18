@@ -529,3 +529,6 @@ timestamp,session,ticker,label,price,change_pct
 2026-11-17T21:53:09+00:00,open,GC=F,Gold,3853.5,0.01
 2026-11-17T21:53:09+00:00,open,SI=F,Silver,47.33,1.18
 2026-11-17T21:53:09+00:00,open,CL=F,Oil (WTI),85.64,-0.09
+2026-11-18T02:12:45+00:00,close,GC=F,Gold,3805.9,-1.22
+2026-11-18T02:12:45+00:00,close,SI=F,Silver,46.36,-0.91
+2026-11-18T02:12:45+00:00,close,CL=F,Oil (WTI),85.17,-0.64
