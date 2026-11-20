@@ -6845,3 +6845,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-19T21:46:04+00:00,open,AVGO,346.65,-2.09,0.181,positive,"Anthropic Now Earns $1.72 “For Every Dollar of Compute,” Says Aaron Levie. Great News for Amazon and Alphabet"
 2026-11-19T21:46:04+00:00,open,MRVL,138.47,-4.86,0.141,positive,Marvell (MRVL) Stock Gets Fair Value Trim As Analysts Split On Lumentum Deal
 2026-11-19T21:46:04+00:00,open,APLD,13.98,-3.25,-0.13,negative,Forget CoreWeave: Applied Digital Is the Real Loser as “The Bank of Nvidia” Pulls Back
+2026-11-20T01:41:51+00:00,close,AAPL,nan,nan,0.08,positive,Bridgewater Warns of AI Security Risk as Anthropic Shares Rise in Debut
+2026-11-20T01:41:51+00:00,close,TSLA,nan,nan,0.021,neutral,Tesla Robo-Taxi Expands to Dallas. It Isn’t Enough.
+2026-11-20T01:41:51+00:00,close,NVDA,nan,nan,-0.176,negative,"Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says"
+2026-11-20T01:41:51+00:00,close,URG,nan,nan,0.067,positive,Ur-Energy Inc (URG) Q3 2026 Earnings Call Highlights: Record Sales Growth and Multi-Asset ...
+2026-11-20T01:41:51+00:00,close,LEU,nan,nan,0.289,positive,Centrus Energy (LEU) Stock May Look Rich Despite A New Fuel Supply Deal
+2026-11-20T01:41:51+00:00,close,CCJ,nan,nan,0.24,positive,Cameco Slides After a C$2 Million Q3 Loss as Westinghouse Holds “the Greatest Growth Potential”
+2026-11-20T01:41:51+00:00,close,LUNR,nan,nan,-0.016,neutral,Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors
+2026-11-20T01:41:51+00:00,close,OUST,nan,nan,0.125,positive,Ouster BlueCity with REV8 Selected for Second Multimillion-Dollar Traffic and Safety Expansion in Nashville
+2026-11-20T01:41:51+00:00,close,MBLY,nan,nan,-0.08,negative,Mobileye Stock In Focus After Revenue Outlook Lifted And Losses Narrowed
+2026-11-20T01:41:51+00:00,close,SYM,nan,nan,0.276,positive,Symbotic (SYM) Stock May Trade Below Fair Value As Sales Scale Matters
+2026-11-20T01:41:51+00:00,close,INTU,nan,nan,0.104,positive,Bending Spoons Stock Surges. Its Latest Deal Comes as It Boosts Its Revenue Outlook.
+2026-11-20T01:41:51+00:00,close,CBRS,nan,nan,0.047,neutral,The 5 Best Stocks in Brad Gerstner’s Portfolio
+2026-11-20T01:41:51+00:00,close,SPCX,nan,nan,-0.025,neutral,"SpaceX's Data Center Vote Should Be Delayed, Arizona AG Tells Cochise County"
+2026-11-20T01:41:51+00:00,close,IONQ,nan,nan,0.119,positive,IonQ's Post-Earnings Rally Fades: Should Investors Book Profits Now?
+2026-11-20T01:41:51+00:00,close,SERV,nan,nan,0.021,neutral,Serve Robotics (SERV) Stock Sees Fair Value Cut As Analysts Lower Targets
+2026-11-20T01:41:51+00:00,close,UMAC,nan,nan,0.013,neutral,Does Unusual Machines (UMAC) Look Above Fair Value After The Drop?
+2026-11-20T01:41:51+00:00,close,SNOW,nan,nan,0.248,positive,"Snowflake’s Guidance Is Strong, but Profitability Still Matters"
+2026-11-20T01:41:51+00:00,close,NOW,nan,nan,0.096,positive,"IT Asset Management (ITAM) Software - Global Strategic Business Report 2026: Capitalize on the $3.5 Billion Market by 2032 with ServiceNow, IBM, Microsoft, Oracle, and BMC Software"
+2026-11-20T01:41:51+00:00,close,ARKO,nan,nan,-0.059,negative,ARKO Corp. Reports Third Quarter 2026 Results and Raises Lower End of the Full Year 2026 Adjusted EBITDA Guidance
+2026-11-20T01:41:51+00:00,close,ISRG,nan,nan,0.0,neutral,Intuitive Surgical (ISRG) Down 1.7% Since Last Earnings Report: Can It Rebound?
+2026-11-20T01:41:51+00:00,close,TMUS,nan,nan,0.125,positive,T-Mobile Adds New AI-Powered Intelligence and Resilience To Make Its 5G Network Even Stronger
+2026-11-20T01:41:51+00:00,close,UBER,nan,nan,0.14,positive,UBER or LYFT: Which Stock Looks Stronger After Q3 Earnings Results?
+2026-11-20T01:41:51+00:00,close,PLTR,nan,nan,0.132,positive,OLIGO Security Achieves FedRAMP® Class D (High) Certification Through Palantir’s FedStart Program
+2026-11-20T01:41:51+00:00,close,AMR,nan,nan,0.013,neutral,Alpha Metallurgical Resources Inc (AMR) (Q3 2026) Earnings Call Highlights: EBITDA Growth and ...
+2026-11-20T01:41:51+00:00,close,LAC,nan,nan,0.08,positive,"Lithium Americas (TSX:LAC) Resets Thacker Pass Costs, Is The 0.4x P B Valuation Justified?"
+2026-11-20T01:41:51+00:00,close,MP,nan,nan,0.288,positive,MP Materials (MP) Stock Looks Fully Valued As Magnet Sales Begin
+2026-11-20T01:41:51+00:00,close,UEC,nan,nan,0.583,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-20T01:41:51+00:00,close,OKLO,nan,nan,0.222,positive,Oklo (OKLO) Wins DOE Clearance On A Narrative That Still Points To Higher Fair Value
+2026-11-20T01:41:51+00:00,close,UUUU,nan,nan,0.189,positive,Energy Fuels (UUUU) Is Considered a Good Investment by Brokers: Is That True?
+2026-11-20T01:41:51+00:00,close,RTX,nan,nan,-0.011,neutral,"Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week"
+2026-11-20T01:41:51+00:00,close,AMZN,nan,nan,0.122,positive,"NYC lawmakers weigh compromise on Amazon delivery worker bill, Bloomberg reports"
+2026-11-20T01:41:51+00:00,close,AMD,nan,nan,-0.099,negative,Shots Fired: Hunterbrook Shorts AMD Over China. Its China and Hong Kong Billing Share Is Nearly 2.5x Nvidia’s
+2026-11-20T01:41:51+00:00,close,META,nan,nan,0.087,positive,Meta Platforms 'Reevaluating' 2030 Net Zero Goal as AI Buildout Strains Clean Energy Supply
+2026-11-20T01:41:51+00:00,close,AVGO,nan,nan,0.222,positive,"Anthropic Now Earns $1.72 “For Every Dollar of Compute,” Says Aaron Levie. Great News for Amazon and Alphabet"
+2026-11-20T01:41:51+00:00,close,MRVL,nan,nan,0.082,positive,Marvell (MRVL) Stock Gets Fair Value Trim As Analysts Split On Lumentum Deal
+2026-11-20T01:41:51+00:00,close,APLD,nan,nan,-0.13,negative,Forget CoreWeave: Applied Digital Is the Real Loser as “The Bank of Nvidia” Pulls Back
