@@ -7097,3 +7097,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-25T03:25:29+00:00,close,AVGO,301.08,-3.98,0.023,neutral,Stocks give back gains as Anthropic dips below IPO price
 2026-11-25T03:25:29+00:00,close,MRVL,131.57,-9.1,-0.019,neutral,Marvell Technology (MRVL) Suffers a Larger Drop Than the General Market: Key Insights
 2026-11-25T03:25:29+00:00,close,APLD,12.22,-11.58,-0.006,neutral,"Dead Cat Bounce? AI Stocks Climb 20%+, but IREN, Applied Digital Stay Down 50%+"
+2026-11-25T22:42:23+00:00,open,AAPL,355.58,0.43,-0.1,negative,Is the market experiencing a 'dead cat' bounce?
+2026-11-25T22:42:23+00:00,open,TSLA,380.14,-1.18,0.277,positive,Tesla’s FSD Version 15 Is an Improvement. How That Helps the Stock.
+2026-11-25T22:42:23+00:00,open,NVDA,149.3,-3.91,-0.276,negative,"Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher."
+2026-11-25T22:42:23+00:00,open,URG,0.47,2.22,0.122,positive,Ur-Energy Inc (URG) Q3 2026 Earnings Call Highlights: Record Sales Growth and Multi-Asset ...
+2026-11-25T22:42:23+00:00,open,LEU,83.19,-1.01,0.37,positive,Centrus Energy (LEU) Stock Sees Fair Value Cut As Analysts Reset Nuclear Growth Expectations
+2026-11-25T22:42:23+00:00,open,CCJ,61.55,2.94,0.363,positive,Cameco vs. Denison: Which Uranium Stock Offers Better Opportunity Today?
+2026-11-25T22:42:23+00:00,open,LUNR,9.14,2.35,0.03,neutral,Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors
+2026-11-25T22:42:23+00:00,open,OUST,25.77,3.12,0.18,positive,Top analyst-favored midcap stock with meaningful target upside
+2026-11-25T22:42:23+00:00,open,MBLY,4.49,-4.26,0.088,positive,Mobileye faces new competition as cars get smarter
+2026-11-25T22:42:23+00:00,open,SYM,38.02,1.68,-0.076,negative,Symbotic falls as Q1 revenue guidance disappoints
+2026-11-25T22:42:23+00:00,open,INTU,271.72,-2.76,-0.14,negative,Upstart Is the Real Loser in Intuit’s Credit Karma Guidance Cut
+2026-11-25T22:42:23+00:00,open,CBRS,89.68,1.01,0.107,positive,The 5 Best Stocks in Brad Gerstner’s Portfolio
+2026-11-25T22:42:23+00:00,open,SPCX,127.44,1.3,0.321,positive,"SpaceX, Elon Musk to give one share each to active Trump Accounts"
+2026-11-25T22:42:23+00:00,open,IONQ,23.54,5.09,0.01,neutral,IonQ Stock And Quantum Peers Tied To Energy Grid Demand
+2026-11-25T22:42:23+00:00,open,SERV,2.29,0.44,-0.023,neutral,Is Serve Robotics Stock’s 669% Options Payout a Bull Trap? You Might Be Shocked By the Answer.
+2026-11-25T22:42:23+00:00,open,UMAC,9.07,2.37,0.076,positive,Does Unusual Machines (UMAC) Look Above Fair Value After The Drop?
+2026-11-25T22:42:23+00:00,open,SNOW,267.72,-1.24,0.074,positive,Snowflake CMO NYSE Setting is 'Huge Inspiration' for Startup Campaign Finalists
+2026-11-25T22:42:23+00:00,open,NOW,92.16,0.46,0.018,neutral,Anthropic falls below IPO price as Nvidia gives back gains
+2026-11-25T22:42:23+00:00,open,ARKO,3.38,1.81,-0.059,negative,ARKO Corp. Reports Third Quarter 2026 Results and Raises Lower End of the Full Year 2026 Adjusted EBITDA Guidance
+2026-11-25T22:42:23+00:00,open,ISRG,427.18,-1.68,0.253,positive,Is Intuitive Surgical (ISRG) Fairly Valued After Fresh Optimism Around Procedure Growth?
+2026-11-25T22:42:23+00:00,open,TMUS,166.25,-0.63,0.136,positive,T-Mobile customers are in line for a significant network boost
+2026-11-25T22:42:23+00:00,open,UBER,66.35,2.55,-0.142,negative,"Anthony Scaramucci Told Uber’s Founders to ‘Get The Hell Out of My Office’ Before Passing On $500,000 Investment: ‘I Totally Missed It’"
+2026-11-25T22:42:23+00:00,open,PLTR,163.59,1.5,0.072,positive,Peter Thiel Buys $122M of PLTR After Years Of Selling — And He Could Buy Millions More Shares
+2026-11-25T22:42:23+00:00,open,AMR,140.64,5.74,0.013,neutral,Alpha Metallurgical Resources Inc (AMR) (Q3 2026) Earnings Call Highlights: EBITDA Growth and ...
+2026-11-25T22:42:23+00:00,open,LAC,1.29,-0.77,0.102,positive,Lithium Americas Corp. (LAC) Upgraded to Strong Buy: Here's What You Should Know
+2026-11-25T22:42:23+00:00,open,MP,35.3,-1.7,0.149,positive,MP Materials (MP) Stock Sees Modest Fair Value Cut As Analysts Focus On Execution
+2026-11-25T22:42:23+00:00,open,UEC,5.69,2.15,0.583,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-25T22:42:23+00:00,open,OKLO,19.47,1.41,0.314,positive,Groves 1 Approval Could Open NASA Opportunity For Oklo Stock
+2026-11-25T22:42:23+00:00,open,UUUU,5.21,1.56,0.338,positive,Can UUUU's Uranium Ramp-Up Strengthen Its Long-Term Growth Story?
+2026-11-25T22:42:23+00:00,open,RTX,196.19,0.44,0.288,positive,Can Valox Engines Strengthen RTX's Uncrewed Aircraft Growth?
+2026-11-25T22:42:23+00:00,open,AMZN,244.43,-3.12,0.242,positive,Federal Court Rules in Favor of CPSC in Landmark E-Commerce Product Safety Case
+2026-11-25T22:42:23+00:00,open,AMD,406.03,-1.75,-0.117,negative,"Without an Anthropic Rally, “There Will Be No OpenAI.” AMD Is the Real Loser"
+2026-11-25T22:42:23+00:00,open,META,609.89,3.4,-0.026,neutral,Stocks Pare Losses as Anthropic Shares Swing Higher
+2026-11-25T22:42:23+00:00,open,AVGO,300.86,-0.07,-0.19,negative,"AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again"
+2026-11-25T22:42:23+00:00,open,MRVL,130.93,-0.49,-0.32,negative,Lumentum Has Lost 42% Since October 28 Despite Its Best Quarter Ever. Marvell’s Stock Is Why
+2026-11-25T22:42:23+00:00,open,APLD,12.29,0.57,0.189,positive,“The Bank of NVIDIA” Is Back. Applied Digital Is the Real Winner
