@@ -7277,3 +7277,39 @@ timestamp,session,ticker,price,change_pct,sentiment_score,sentiment_label,cataly
 2026-11-27T22:17:51+00:00,open,AVGO,312.34,3.82,0.187,positive,iShares A.I. Innovation and Tech Active ETF (BAI) Sells Broadcom and AMD on Wednesday
 2026-11-27T22:17:51+00:00,open,MRVL,140.54,7.34,-0.041,neutral,Marvell Faces Critical Earnings Test Amid AI Chip Market Turmoil
 2026-11-27T22:17:51+00:00,open,APLD,12.99,5.7,0.052,positive,“The Bank of NVIDIA” Is Back. Applied Digital Is the Real Winner
+2026-11-28T02:31:52+00:00,close,AAPL,nan,nan,0.161,positive,Apple gains smartphone share as memory crunch squeezes budget Android phones
+2026-11-28T02:31:52+00:00,close,TSLA,nan,nan,0.127,positive,"‘Superfan’ Elon Musk Says ‘China Is Cool’ as Tesla Boosts Production in Shanghai: ‘The More the US and China Cooperate, the Better Off Both Will Be’"
+2026-11-28T02:31:52+00:00,close,NVDA,nan,nan,-0.015,neutral,Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply
+2026-11-28T02:31:52+00:00,close,URG,nan,nan,0.122,positive,Ur-Energy Inc (URG) Q3 2026 Earnings Call Highlights: Record Sales Growth and Multi-Asset ...
+2026-11-28T02:31:52+00:00,close,LEU,nan,nan,0.361,positive,Centrus Energy (LEU) Stock Sees Fair Value Cut As Analysts Reset Nuclear Growth Expectations
+2026-11-28T02:31:52+00:00,close,CCJ,nan,nan,0.363,positive,Cameco vs. Denison: Which Uranium Stock Offers Better Opportunity Today?
+2026-11-28T02:31:52+00:00,close,LUNR,nan,nan,0.218,positive,RKLB vs. LUNR: Which Space Stock Has the Stronger Growth Outlook?
+2026-11-28T02:31:52+00:00,close,OUST,nan,nan,0.278,positive,Ouster (OUST) Stock Looks Fully Valued Despite Its 381% Run
+2026-11-28T02:31:52+00:00,close,MBLY,nan,nan,0.088,positive,Mobileye faces new competition as cars get smarter
+2026-11-28T02:31:52+00:00,close,SYM,nan,nan,0.13,positive,YMM vs. SYM: Which Stock Is the Better Value Option?
+2026-11-28T02:31:52+00:00,close,INTU,nan,nan,-0.14,negative,Upstart Is the Real Loser in Intuit’s Credit Karma Guidance Cut
+2026-11-28T02:31:52+00:00,close,CBRS,nan,nan,0.02,neutral,Cerebras Expands AI Inference Reach: Can It Challenge NVDA & AMD?
+2026-11-28T02:31:52+00:00,close,SPCX,nan,nan,0.12,positive,Are billionaires gaining too much influence as they invest in Trump Accounts?
+2026-11-28T02:31:52+00:00,close,IONQ,nan,nan,0.116,positive,What Do IonQ (IONQ) Quantum Sensing Wins Mean For Its Broader Growth Story?
+2026-11-28T02:31:52+00:00,close,SERV,nan,nan,0.041,neutral,Is Serve Robotics Stock’s 669% Options Payout a Bull Trap? You Might Be Shocked By the Answer.
+2026-11-28T02:31:52+00:00,close,UMAC,nan,nan,0.076,positive,Does Unusual Machines (UMAC) Look Above Fair Value After The Drop?
+2026-11-28T02:31:52+00:00,close,SNOW,nan,nan,0.119,positive,Snowflake (SNOW) Raises Full-Year Outlook Following Third Consecutive Quarter of Growth Acceleration
+2026-11-28T02:31:52+00:00,close,NOW,nan,nan,0.051,positive,Baron Fund Reestablishes Position in ServiceNow (NOW) Following Attractive Valuation Pullback
+2026-11-28T02:31:52+00:00,close,ARKO,nan,nan,-0.059,negative,ARKO Corp. Reports Third Quarter 2026 Results and Raises Lower End of the Full Year 2026 Adjusted EBITDA Guidance
+2026-11-28T02:31:52+00:00,close,ISRG,nan,nan,0.219,positive,Intuitive Surgical vs. Medtronic: Which Robotics Stock Is the Better Buy?
+2026-11-28T02:31:52+00:00,close,TMUS,nan,nan,0.149,positive,T-Mobile customers are in line for a significant network boost
+2026-11-28T02:31:52+00:00,close,UBER,nan,nan,0.231,positive,Uber takeover bid for Delivery Hero clears key shareholder hurdle
+2026-11-28T02:31:52+00:00,close,PLTR,nan,nan,0.21,positive,Palantir Technologies (PLTR) Signed A Poland Defense Software Agreement
+2026-11-28T02:31:52+00:00,close,AMR,nan,nan,0.013,neutral,Alpha Metallurgical Resources Inc (AMR) (Q3 2026) Earnings Call Highlights: EBITDA Growth and ...
+2026-11-28T02:31:52+00:00,close,LAC,nan,nan,0.102,positive,Lithium Americas Corp. (LAC) Upgraded to Strong Buy: Here's What You Should Know
+2026-11-28T02:31:52+00:00,close,MP,nan,nan,0.136,positive,MP Materials (MP) Stock Sees Modest Fair Value Cut As Analysts Focus On Execution
+2026-11-28T02:31:52+00:00,close,UEC,nan,nan,0.583,positive,Is Uranium Energy (UEC) Below Fair Value As It Expands Its National Security Push?
+2026-11-28T02:31:52+00:00,close,OKLO,nan,nan,0.246,positive,Groves 1 Approval Could Open NASA Opportunity For Oklo Stock
+2026-11-28T02:31:52+00:00,close,UUUU,nan,nan,0.383,positive,Can UUUU's Uranium Ramp-Up Strengthen Its Long-Term Growth Story?
+2026-11-28T02:31:52+00:00,close,RTX,nan,nan,0.187,positive,RTX Corporation (RTX) is Attracting Investor Attention: Here is What You Should Know
+2026-11-28T02:31:52+00:00,close,AMZN,nan,nan,0.184,positive,"Amazon, Target and Walmart Chase Holiday Toy Spending"
+2026-11-28T02:31:52+00:00,close,AMD,nan,nan,0.318,positive,Advanced Micro Devices (AMD) After AI Data Center Wins Looks Cheap Or Already Priced In
+2026-11-28T02:31:52+00:00,close,META,nan,nan,0.04,neutral,"Top Stock Reports for Alphabet, Meta & Bank of America"
+2026-11-28T02:31:52+00:00,close,AVGO,nan,nan,0.075,positive,iShares A.I. Innovation and Tech Active ETF (BAI) Sells Broadcom and AMD on Wednesday
+2026-11-28T02:31:52+00:00,close,MRVL,nan,nan,-0.041,neutral,Marvell Faces Critical Earnings Test Amid AI Chip Market Turmoil
+2026-11-28T02:31:52+00:00,close,APLD,nan,nan,0.052,positive,“The Bank of NVIDIA” Is Back. Applied Digital Is the Real Winner
